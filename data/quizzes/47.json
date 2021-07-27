@@ -1,0 +1,152 @@
+{
+    "category": "D\u00e9partements fran\u00e7ais \u2013 Sud-Ouest",
+    "id": 47,
+    "input": "text",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "Ari\u00e8ge",
+            "id": 0,
+            "label": "Foix (Ari\u00e8ge)",
+            "prompt": "Foix",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ari%C3%A8ge_(d%C3%A9partement)\">Ari\u00e8ge (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Aveyron",
+            "id": 1,
+            "label": "Rodez (Aveyron)",
+            "prompt": "Rodez",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Aveyron_(d%C3%A9partement)\">Aveyron (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Charente",
+            "id": 2,
+            "label": "Angoul\u00eame (Charente)",
+            "prompt": "Angoul\u00eame",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Charente-Maritime\">Charente (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Charente-Maritime",
+            "id": 3,
+            "label": "La Rochelle (Charente-Maritime)",
+            "prompt": "La Rochelle",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Charente-Maritime\">Charente-Maritime (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Corr\u00e8ze",
+            "id": 4,
+            "label": "Tulle (Corr\u00e8ze)",
+            "prompt": "Tulle",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Corr%C3%A8ze_(d%C3%A9partement)\">Corr\u00e8ze (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Creuse",
+            "id": 5,
+            "label": "Gu\u00e9ret (Creuse)",
+            "prompt": "Gu\u00e9ret",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Creuse_(d%C3%A9partement)\">Creuse (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Deux-S\u00e8vres",
+            "id": 6,
+            "label": "Niort (Deux-S\u00e8vres)",
+            "prompt": "Niort",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Deux-S%C3%A8vres\">Deux-S\u00e8vres (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Dordogne",
+            "id": 7,
+            "label": "P\u00e9rigueux (Dordogne)",
+            "prompt": "P\u00e9rigueux",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Dordogne_(d%C3%A9partement)\">Dordogne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Gers",
+            "id": 8,
+            "label": "Auch (Gers)",
+            "prompt": "Auch",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Gers_(d%C3%A9partement)\">Gers (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Gironde",
+            "id": 9,
+            "label": "Bordeaux (Gironde)",
+            "prompt": "Bordeaux",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Gironde_(d%C3%A9partement)\">Gironde (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Garonne",
+            "id": 10,
+            "label": "Toulouse (Haute-Garonne)",
+            "prompt": "Toulouse",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Garonne\">Haute-Garonne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Vienne",
+            "id": 11,
+            "label": "Limoges (Haute-Vienne)",
+            "prompt": "Limoges",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Vienne\">Haute-Vienne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Hautes-Pyr\u00e9n\u00e9es",
+            "id": 12,
+            "label": "Tarbes (Hautes-Pyr\u00e9n\u00e9es)",
+            "prompt": "Tarbes",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hautes-Pyr%C3%A9n%C3%A9es\">Hautes-Pyr\u00e9n\u00e9es (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Landes",
+            "id": 13,
+            "label": "Mont-de-Marsan (Landes)",
+            "prompt": "Mont-de-Marsan",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Landes_(d%C3%A9partement)\">Landes (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Lot",
+            "id": 14,
+            "label": "Cahors (Lot)",
+            "prompt": "Cahors",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lot_(d%C3%A9partement)\">Lot (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Lot-et-Garonne",
+            "id": 15,
+            "label": "Agen (Lot-et-Garonne)",
+            "prompt": "Agen",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lot-et-Garonne\">Lot-et-Garonne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pyr\u00e9n\u00e9es-Atlantiques",
+            "id": 16,
+            "label": "Pau (Pyr\u00e9n\u00e9es-Atlantiques)",
+            "prompt": "Pau",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pyr%C3%A9n%C3%A9es-Atlantiques\">Pyr\u00e9n\u00e9es-Atlantiques (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tarn",
+            "id": 17,
+            "label": "Albi (Tarn)",
+            "prompt": "Albi",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tarn-et-Garonne\">Tarn (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tarn-et-Garonne",
+            "id": 18,
+            "label": "Montauban (Tarn-et-Garonne)",
+            "prompt": "Montauban",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tarn-et-Garonne\">Tarn-et-Garonne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vienne",
+            "id": 19,
+            "label": "Poitiers (Vienne)",
+            "prompt": "Poitiers",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vienne_(d%C3%A9partement)\">Vienne (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 20,
+    "thumbnail": "data/thumbnails/47.jpg",
+    "title": "Pr\u00e9fectures"
+}

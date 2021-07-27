@@ -1,0 +1,61 @@
+{
+    "category": "D\u00e9partements fran\u00e7ais \u2013 \u00cele-de-France",
+    "id": 49,
+    "input": "text",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "Essonne",
+            "id": 0,
+            "label": "91 (Essonne)",
+            "prompt": "91",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Essonne_(d%C3%A9partement)\">Essonne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Hauts-de-Seine",
+            "id": 1,
+            "label": "92 (Hauts-de-Seine)",
+            "prompt": "92",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hauts-de-Seine\">Hauts-de-Seine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Seine-Saint-Denis",
+            "id": 2,
+            "label": "93 (Seine-Saint-Denis)",
+            "prompt": "93",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Seine-Saint-Denis\">Seine-Saint-Denis (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Seine-et-Marne",
+            "id": 3,
+            "label": "77 (Seine-et-Marne)",
+            "prompt": "77",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Seine-et-Marne\">Seine-et-Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Val-d'Oise",
+            "id": 4,
+            "label": "95 (Val-d'Oise)",
+            "prompt": "95",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Val-d%27Oise\">Val-d'Oise (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Val-de-Marne",
+            "id": 5,
+            "label": "94 (Val-de-Marne)",
+            "prompt": "94",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Val-de-Marne\">Val-de-Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Yvelines",
+            "id": 6,
+            "label": "78 (Yvelines)",
+            "prompt": "78",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Yvelines\">Yvelines (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 7,
+    "thumbnail": "data/thumbnails/49.jpg",
+    "title": "Codes"
+}

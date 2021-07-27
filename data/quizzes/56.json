@@ -1,0 +1,154 @@
+{
+    "category": "D\u00e9partements fran\u00e7ais \u2013 Nord-Ouest",
+    "id": 56,
+    "input": "map",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "14",
+            "id": 0,
+            "label": "Calvados",
+            "prompt": "Calvados",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Calvados_(d%C3%A9partement)\">Calvados (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "18",
+            "id": 1,
+            "label": "Cher",
+            "prompt": "Cher",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cher_(d%C3%A9partement)\">Cher (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "22",
+            "id": 2,
+            "label": "C\u00f4tes-d'Armor",
+            "prompt": "C\u00f4tes-d'Armor",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/C%C3%B4tes-d%27Armor\">C\u00f4tes-d'Armor (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "27",
+            "id": 3,
+            "label": "Eure",
+            "prompt": "Eure",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Eure_(d%C3%A9partement)\">Eure (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "28",
+            "id": 4,
+            "label": "Eure-et-Loir",
+            "prompt": "Eure-et-Loir",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Eure-et-Loir\">Eure-et-Loir (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "29",
+            "id": 5,
+            "label": "Finist\u00e8re",
+            "prompt": "Finist\u00e8re",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Finist%C3%A8re\">Finist\u00e8re (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "35",
+            "id": 6,
+            "label": "Ille-et-Vilaine",
+            "prompt": "Ille-et-Vilaine",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ille-et-Vilaine\">Ille-et-Vilaine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "36",
+            "id": 7,
+            "label": "Indre",
+            "prompt": "Indre",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indre_(d%C3%A9partement)\">Indre (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "37",
+            "id": 8,
+            "label": "Indre-et-Loire",
+            "prompt": "Indre-et-Loire",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indre-et-Loire\">Indre-et-Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "41",
+            "id": 9,
+            "label": "Loir-et-Cher",
+            "prompt": "Loir-et-Cher",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loir-et-Cher\">Loir-et-Cher (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "44",
+            "id": 10,
+            "label": "Loire-Atlantique",
+            "prompt": "Loire-Atlantique",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loire-Atlantique\">Loire-Atlantique (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "45",
+            "id": 11,
+            "label": "Loiret",
+            "prompt": "Loiret",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loiret_(d%C3%A9partement)\">Loiret (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "49",
+            "id": 12,
+            "label": "Maine-et-Loire",
+            "prompt": "Maine-et-Loire",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Maine-et-Loire\">Maine-et-Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "50",
+            "id": 13,
+            "label": "Manche",
+            "prompt": "Manche",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Manche_(mer)\">Manche (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "53",
+            "id": 14,
+            "label": "Mayenne",
+            "prompt": "Mayenne",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mayenne_(d%C3%A9partement)\">Mayenne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "56",
+            "id": 15,
+            "label": "Morbihan",
+            "prompt": "Morbihan",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Morbihan\">Morbihan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "61",
+            "id": 16,
+            "label": "Orne",
+            "prompt": "Orne",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Orne_(d%C3%A9partement)\">Orne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "72",
+            "id": 17,
+            "label": "Sarthe",
+            "prompt": "Sarthe",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Sarthe_(d%C3%A9partement)\">Sarthe (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "76",
+            "id": 18,
+            "label": "Seine-Maritime",
+            "prompt": "Seine-Maritime",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Seine-Maritime\">Seine-Maritime (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "85",
+            "id": 19,
+            "label": "Vend\u00e9e",
+            "prompt": "Vend\u00e9e",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vend%C3%A9e_(d%C3%A9partement)\">Vend\u00e9e (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {
+        "source": "data/polys/france.json"
+    },
+    "size": 20,
+    "thumbnail": "data/thumbnails/56.jpg",
+    "title": "Carte"
+}

@@ -1,0 +1,110 @@
+{
+    "category": "Couverture StreetView \u2013 Afrique",
+    "id": 8,
+    "input": "text",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "Afrique du Sud",
+            "id": 0,
+            "label": "Pretoria (Afrique du Sud)",
+            "prompt": "Pretoria",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Afrique_du_Sud\">Afrique du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Afrique du Sud",
+            "id": 1,
+            "label": "Bloemfontein (Afrique du Sud)",
+            "prompt": "Bloemfontein",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Afrique_du_Sud\">Afrique du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Afrique du Sud",
+            "id": 2,
+            "label": "Le Cap (Afrique du Sud)",
+            "prompt": "Le Cap",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Afrique_du_Sud\">Afrique du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Botswana",
+            "id": 3,
+            "label": "Gaborone (Botswana)",
+            "prompt": "Gaborone",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Botswana\">Botswana (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Eswatini",
+            "id": 4,
+            "label": "Mbabane (Eswatini)",
+            "prompt": "Mbabane",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Eswatini\">Eswatini (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Eswatini",
+            "id": 5,
+            "label": "Lobamba (Eswatini)",
+            "prompt": "Lobamba",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Eswatini\">Eswatini (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ghana",
+            "id": 6,
+            "label": "Accra (Ghana)",
+            "prompt": "Accra",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ghana\">Ghana (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Kenya",
+            "id": 7,
+            "label": "Nairobi (Kenya)",
+            "prompt": "Nairobi",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kenya\">Kenya (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Lesotho",
+            "id": 8,
+            "label": "Maseru (Lesotho)",
+            "prompt": "Maseru",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lesotho\">Lesotho (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Madagascar",
+            "id": 9,
+            "label": "Antananarivo (Madagascar)",
+            "prompt": "Antananarivo",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Madagascar\">Madagascar (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nigeria",
+            "id": 10,
+            "label": "Abuja (Nigeria)",
+            "prompt": "Abuja",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nigeria\">Nigeria (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ouganda",
+            "id": 11,
+            "label": "Kampala (Ouganda)",
+            "prompt": "Kampala",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ouganda\">Ouganda (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "S\u00e9n\u00e9gal",
+            "id": 12,
+            "label": "Dakar (S\u00e9n\u00e9gal)",
+            "prompt": "Dakar",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A9gal\">S\u00e9n\u00e9gal (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tunisie",
+            "id": 13,
+            "label": "Tunis (Tunisie)",
+            "prompt": "Tunis",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tunisie\">Tunisie (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 14,
+    "thumbnail": "data/thumbnails/8.jpg",
+    "title": "Capitales"
+}

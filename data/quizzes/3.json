@@ -1,0 +1,75 @@
+{
+    "category": "Couverture StreetView \u2013 Am\u00e9rique du Sud",
+    "id": 3,
+    "input": "text",
+    "prompt": "image",
+    "questions": [
+        {
+            "answer": "Argentine",
+            "id": 0,
+            "label": "Argentine",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Argentina.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Argentine\">Argentine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bolivie",
+            "id": 1,
+            "label": "Bolivie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia%20%28state%29.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bolivie\">Bolivie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Br\u00e9sil",
+            "id": 2,
+            "label": "Br\u00e9sil",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brazil.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Br%C3%A9sil\">Br\u00e9sil (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Chili",
+            "id": 3,
+            "label": "Chili",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Chile.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Chili\">Chili (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Colombie",
+            "id": 4,
+            "label": "Colombie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Colombia.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Colombie\">Colombie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cura\u00e7ao",
+            "id": 5,
+            "label": "Cura\u00e7ao",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cura%C3%A7ao.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cura%C3%A7ao\">Cura\u00e7ao (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "P\u00e9rou",
+            "id": 6,
+            "label": "P\u00e9rou",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Peru.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/P%C3%A9rou\">P\u00e9rou (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Uruguay",
+            "id": 7,
+            "label": "Uruguay",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uruguay.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Uruguay\">Uruguay (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00c9quateur",
+            "id": 8,
+            "label": "\u00c9quateur",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ecuador.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%89quateur_(pays)\">\u00c9quateur (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 9,
+    "thumbnail": "data/thumbnails/3.jpg",
+    "title": "Drapeaux"
+}

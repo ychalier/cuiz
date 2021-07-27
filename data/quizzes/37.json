@@ -1,0 +1,61 @@
+{
+    "category": "D\u00e9partements fran\u00e7ais \u2013 \u00cele-de-France",
+    "id": 37,
+    "input": "text",
+    "prompt": "image",
+    "questions": [
+        {
+            "answer": "Essonne",
+            "id": 0,
+            "label": "Essonne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Essonne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Essonne_(d%C3%A9partement)\">Essonne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Hauts-de-Seine",
+            "id": 1,
+            "label": "Hauts-de-Seine",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Hauts-de-Seine.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hauts-de-Seine\">Hauts-de-Seine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Seine-Saint-Denis",
+            "id": 2,
+            "label": "Seine-Saint-Denis",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Seine-Saint-Denis.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Seine-Saint-Denis\">Seine-Saint-Denis (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Seine-et-Marne",
+            "id": 3,
+            "label": "Seine-et-Marne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20propos%C3%A9%20pour%20le%20d%C3%A9partement%20de%20Seine-et-Marne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Seine-et-Marne\">Seine-et-Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Val-d'Oise",
+            "id": 4,
+            "label": "Val-d'Oise",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Val-d%27Oise.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Val-d%27Oise\">Val-d'Oise (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Val-de-Marne",
+            "id": 5,
+            "label": "Val-de-Marne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20propos%C3%A9%20pour%20le%20d%C3%A9partement%20du%20Val-de-Marne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Val-de-Marne\">Val-de-Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Yvelines",
+            "id": 6,
+            "label": "Yvelines",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Yvelines.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Yvelines\">Yvelines (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 7,
+    "thumbnail": "data/thumbnails/37.jpg",
+    "title": "Drapeaux"
+}

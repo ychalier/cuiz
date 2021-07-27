@@ -1,0 +1,364 @@
+{
+    "category": "\u00c9tats des \u00c9tats-Unis \u2013 Totalit\u00e9",
+    "id": 62,
+    "input": "map",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "AL",
+            "id": 0,
+            "label": "Alabama",
+            "prompt": "Alabama",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Alabama\">Alabama (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "AK",
+            "id": 1,
+            "label": "Alaska",
+            "prompt": "Alaska",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Alaska\">Alaska (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "AZ",
+            "id": 2,
+            "label": "Arizona",
+            "prompt": "Arizona",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Arizona\">Arizona (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "AR",
+            "id": 3,
+            "label": "Arkansas",
+            "prompt": "Arkansas",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Arkansas\">Arkansas (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "CA",
+            "id": 4,
+            "label": "Californie",
+            "prompt": "Californie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Californie\">Californie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "NC",
+            "id": 5,
+            "label": "Caroline du Nord",
+            "prompt": "Caroline du Nord",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Caroline_du_Nord\">Caroline du Nord (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "SC",
+            "id": 6,
+            "label": "Caroline du Sud",
+            "prompt": "Caroline du Sud",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Caroline_du_Sud\">Caroline du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "CO",
+            "id": 7,
+            "label": "Colorado",
+            "prompt": "Colorado",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Colorado\">Colorado (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "CT",
+            "id": 8,
+            "label": "Connecticut",
+            "prompt": "Connecticut",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Connecticut\">Connecticut (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "ND",
+            "id": 9,
+            "label": "Dakota du Nord",
+            "prompt": "Dakota du Nord",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Dakota_du_Nord\">Dakota du Nord (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "SD",
+            "id": 10,
+            "label": "Dakota du Sud",
+            "prompt": "Dakota du Sud",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Dakota_du_Sud\">Dakota du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "DE",
+            "id": 11,
+            "label": "Delaware",
+            "prompt": "Delaware",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Delaware\">Delaware (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "FL",
+            "id": 12,
+            "label": "Floride",
+            "prompt": "Floride",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tallahassee\">Floride (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "GA",
+            "id": 13,
+            "label": "G\u00e9orgie",
+            "prompt": "G\u00e9orgie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/G%C3%A9orgie_(%C3%89tats-Unis)\">G\u00e9orgie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "HI",
+            "id": 14,
+            "label": "Hawa\u00ef",
+            "prompt": "Hawa\u00ef",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hawa%C3%AF\">Hawa\u00ef (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "ID",
+            "id": 15,
+            "label": "Idaho",
+            "prompt": "Idaho",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Idaho\">Idaho (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "IL",
+            "id": 16,
+            "label": "Illinois",
+            "prompt": "Illinois",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Illinois\">Illinois (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "IN",
+            "id": 17,
+            "label": "Indiana",
+            "prompt": "Indiana",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indiana\">Indiana (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "IA",
+            "id": 18,
+            "label": "Iowa",
+            "prompt": "Iowa",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Iowa\">Iowa (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "KS",
+            "id": 19,
+            "label": "Kansas",
+            "prompt": "Kansas",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kansas\">Kansas (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "KY",
+            "id": 20,
+            "label": "Kentucky",
+            "prompt": "Kentucky",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kentucky\">Kentucky (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "LA",
+            "id": 21,
+            "label": "Louisiane",
+            "prompt": "Louisiane",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Louisiane\">Louisiane (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "ME",
+            "id": 22,
+            "label": "Maine",
+            "prompt": "Maine",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Maine\">Maine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "MD",
+            "id": 23,
+            "label": "Maryland",
+            "prompt": "Maryland",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Maryland\">Maryland (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "MA",
+            "id": 24,
+            "label": "Massachusetts",
+            "prompt": "Massachusetts",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Massachusetts\">Massachusetts (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "MI",
+            "id": 25,
+            "label": "Michigan",
+            "prompt": "Michigan",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Michigan\">Michigan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "MN",
+            "id": 26,
+            "label": "Minnesota",
+            "prompt": "Minnesota",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Minnesota\">Minnesota (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "MS",
+            "id": 27,
+            "label": "Mississippi",
+            "prompt": "Mississippi",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mississippi_(%C3%89tat)\">Mississippi (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "MO",
+            "id": 28,
+            "label": "Missouri",
+            "prompt": "Missouri",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Missouri_(%C3%89tat)\">Missouri (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "MT",
+            "id": 29,
+            "label": "Montana",
+            "prompt": "Montana",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Montana\">Montana (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "NE",
+            "id": 30,
+            "label": "Nebraska",
+            "prompt": "Nebraska",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nebraska\">Nebraska (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "NV",
+            "id": 31,
+            "label": "Nevada",
+            "prompt": "Nevada",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nevada\">Nevada (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "NH",
+            "id": 32,
+            "label": "New Hampshire",
+            "prompt": "New Hampshire",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/New_Hampshire\">New Hampshire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "NJ",
+            "id": 33,
+            "label": "New Jersey",
+            "prompt": "New Jersey",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/New_Jersey\">New Jersey (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "NY",
+            "id": 34,
+            "label": "New York",
+            "prompt": "New York",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/New_York\">New York (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "NM",
+            "id": 35,
+            "label": "Nouveau-Mexique",
+            "prompt": "Nouveau-Mexique",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nouveau-Mexique\">Nouveau-Mexique (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "OH",
+            "id": 36,
+            "label": "Ohio",
+            "prompt": "Ohio",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ohio\">Ohio (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "OK",
+            "id": 37,
+            "label": "Oklahoma",
+            "prompt": "Oklahoma",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Oklahoma\">Oklahoma (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "OR",
+            "id": 38,
+            "label": "Oregon",
+            "prompt": "Oregon",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Oregon\">Oregon (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "PA",
+            "id": 39,
+            "label": "Pennsylvanie",
+            "prompt": "Pennsylvanie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pennsylvanie\">Pennsylvanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "RI",
+            "id": 40,
+            "label": "Rhode Island",
+            "prompt": "Rhode Island",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Rhode_Island\">Rhode Island (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "TN",
+            "id": 41,
+            "label": "Tennessee",
+            "prompt": "Tennessee",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tennessee\">Tennessee (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "TX",
+            "id": 42,
+            "label": "Texas",
+            "prompt": "Texas",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Texas\">Texas (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "UT",
+            "id": 43,
+            "label": "Utah",
+            "prompt": "Utah",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Utah\">Utah (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "VT",
+            "id": 44,
+            "label": "Vermont",
+            "prompt": "Vermont",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vermont\">Vermont (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "VA",
+            "id": 45,
+            "label": "Virginie",
+            "prompt": "Virginie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Virginie_(%C3%89tats-Unis)\">Virginie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "WV",
+            "id": 46,
+            "label": "Virginie-Occidentale",
+            "prompt": "Virginie-Occidentale",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Virginie-Occidentale\">Virginie-Occidentale (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "WA",
+            "id": 47,
+            "label": "Washington",
+            "prompt": "Washington",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Washington_(%C3%89tat)\">Washington (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "WI",
+            "id": 48,
+            "label": "Wisconsin",
+            "prompt": "Wisconsin",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Wisconsin\">Wisconsin (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "WY",
+            "id": 49,
+            "label": "Wyoming",
+            "prompt": "Wyoming",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Wyoming\">Wyoming (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {
+        "source": "data/polys/usa.json"
+    },
+    "size": 50,
+    "thumbnail": "data/thumbnails/62.jpg",
+    "title": "Carte"
+}

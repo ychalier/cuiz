@@ -1,0 +1,159 @@
+{
+    "category": "Couverture StreetView \u2013 Asie",
+    "id": 18,
+    "input": "text",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "Bangladesh",
+            "id": 0,
+            "label": ".bd (Bangladesh)",
+            "prompt": ".bd",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bangladesh\">Bangladesh (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bhoutan",
+            "id": 1,
+            "label": ".bt (Bhoutan)",
+            "prompt": ".bt",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bhoutan\">Bhoutan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cambodge",
+            "id": 2,
+            "label": ".kh (Cambodge)",
+            "prompt": ".kh",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cambodge\">Cambodge (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cor\u00e9e du Sud",
+            "id": 3,
+            "label": ".kr (Cor\u00e9e du Sud)",
+            "prompt": ".kr",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cor%C3%A9e_du_Sud\">Cor\u00e9e du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Inde",
+            "id": 4,
+            "label": ".in (Inde)",
+            "prompt": ".in",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Inde\">Inde (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Indon\u00e9sie",
+            "id": 5,
+            "label": ".id (Indon\u00e9sie)",
+            "prompt": ".id",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indon%C3%A9sie\">Indon\u00e9sie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Isra\u00ebl",
+            "id": 6,
+            "label": ".il (Isra\u00ebl)",
+            "prompt": ".il",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Isra%C3%ABl\">Isra\u00ebl (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Japon",
+            "id": 7,
+            "label": ".jp (Japon)",
+            "prompt": ".jp",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Japon\">Japon (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Jordanie",
+            "id": 8,
+            "label": ".jo (Jordanie)",
+            "prompt": ".jo",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Jordanie\">Jordanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Kirghizistan",
+            "id": 9,
+            "label": ".kg (Kirghizistan)",
+            "prompt": ".kg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kirghizistan\">Kirghizistan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Laos",
+            "id": 10,
+            "label": ".la (Laos)",
+            "prompt": ".la",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Laos\">Laos (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Malaisie",
+            "id": 11,
+            "label": ".my (Malaisie)",
+            "prompt": ".my",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Malaisie\">Malaisie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mongolie",
+            "id": 12,
+            "label": ".mn (Mongolie)",
+            "prompt": ".mn",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mongolie\">Mongolie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Philippines",
+            "id": 13,
+            "label": ".ph (Philippines)",
+            "prompt": ".ph",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Philippines\">Philippines (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Singapour",
+            "id": 14,
+            "label": ".sg (Singapour)",
+            "prompt": ".sg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Singapour\">Singapour (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Sri Lanka",
+            "id": 15,
+            "label": ".lk (Sri Lanka)",
+            "prompt": ".lk",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Sri_Lanka\">Sri Lanka (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ta\u00efwan",
+            "id": 16,
+            "label": ".tw (Ta\u00efwan)",
+            "prompt": ".tw",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ta%C3%AFwan\">Ta\u00efwan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tha\u00eflande",
+            "id": 17,
+            "label": ".th (Tha\u00eflande)",
+            "prompt": ".th",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tha%C3%AFlande\">Tha\u00eflande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Turquie",
+            "id": 18,
+            "label": ".tr (Turquie)",
+            "prompt": ".tr",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Turquie\">Turquie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vi\u00eat Nam",
+            "id": 19,
+            "label": ".vn (Vi\u00eat Nam)",
+            "prompt": ".vn",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vi%C3%AAt_Nam\">Vi\u00eat Nam (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00cele Christmas",
+            "id": 20,
+            "label": ".cx (\u00cele Christmas)",
+            "prompt": ".cx",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Ele_Christmas_(Australie)\">\u00cele Christmas (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 21,
+    "thumbnail": "data/thumbnails/18.jpg",
+    "title": "Domaines Internet"
+}

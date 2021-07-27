@@ -1,0 +1,40 @@
+{
+    "category": "Couverture StreetView \u2013 Oc\u00e9anie",
+    "id": 6,
+    "input": "text",
+    "prompt": "image",
+    "questions": [
+        {
+            "answer": "Australie",
+            "id": 0,
+            "label": "Australie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Australie\">Australie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nouvelle-Z\u00e9lande",
+            "id": 1,
+            "label": "Nouvelle-Z\u00e9lande",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20Zealand.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nouvelle-Z%C3%A9lande\">Nouvelle-Z\u00e9lande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Samoa am\u00e9ricaines",
+            "id": 2,
+            "label": "Samoa am\u00e9ricaines",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20American%20Samoa.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Samoa_am%C3%A9ricaines\">Samoa am\u00e9ricaines (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00celes Mariannes du Nord",
+            "id": 3,
+            "label": "\u00celes Mariannes du Nord",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Northern%20Mariana%20Islands.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Eles_Mariannes_du_Nord\">\u00celes Mariannes du Nord (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 4,
+    "thumbnail": "data/thumbnails/6.jpg",
+    "title": "Drapeaux"
+}

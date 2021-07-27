@@ -1,0 +1,320 @@
+{
+    "category": "Couverture StreetView \u2013 Europe",
+    "id": 12,
+    "input": "text",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "Albanie",
+            "id": 0,
+            "label": "Tirana (Albanie)",
+            "prompt": "Tirana",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Albanie\">Albanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Allemagne",
+            "id": 1,
+            "label": "Berlin (Allemagne)",
+            "prompt": "Berlin",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Allemagne\">Allemagne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Andorre",
+            "id": 2,
+            "label": "Andorre-la-Vieille (Andorre)",
+            "prompt": "Andorre-la-Vieille",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Andorre\">Andorre (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Autriche",
+            "id": 3,
+            "label": "Vienne (Autriche)",
+            "prompt": "Vienne",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Autriche\">Autriche (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Belgique",
+            "id": 4,
+            "label": "Bruxelles (Belgique)",
+            "prompt": "Bruxelles",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Belgique\">Belgique (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bulgarie",
+            "id": 5,
+            "label": "Sofia (Bulgarie)",
+            "prompt": "Sofia",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bulgarie\">Bulgarie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Croatie",
+            "id": 6,
+            "label": "Zagreb (Croatie)",
+            "prompt": "Zagreb",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Croatie\">Croatie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Danemark",
+            "id": 7,
+            "label": "Copenhague (Danemark)",
+            "prompt": "Copenhague",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Danemark\">Danemark (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Espagne",
+            "id": 8,
+            "label": "Madrid (Espagne)",
+            "prompt": "Madrid",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Espagne\">Espagne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Estonie",
+            "id": 9,
+            "label": "Tallinn (Estonie)",
+            "prompt": "Tallinn",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Estonie\">Estonie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Finlande",
+            "id": 10,
+            "label": "Helsinki (Finlande)",
+            "prompt": "Helsinki",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Finlande\">Finlande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "France",
+            "id": 11,
+            "label": "Paris (France)",
+            "prompt": "Paris",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/France\">France (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Gibraltar",
+            "id": 12,
+            "label": "Gibraltar (Gibraltar)",
+            "prompt": "Gibraltar",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Gibraltar\">Gibraltar (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Gr\u00e8ce",
+            "id": 13,
+            "label": "Ath\u00e8nes (Gr\u00e8ce)",
+            "prompt": "Ath\u00e8nes",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Gr%C3%A8ce\">Gr\u00e8ce (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Hongrie",
+            "id": 14,
+            "label": "Budapest (Hongrie)",
+            "prompt": "Budapest",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hongrie\">Hongrie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Irlande",
+            "id": 15,
+            "label": "Dublin (Irlande)",
+            "prompt": "Dublin",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Irlande_(pays)\">Irlande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Islande",
+            "id": 16,
+            "label": "Reykjavik (Islande)",
+            "prompt": "Reykjavik",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Islande\">Islande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Italie",
+            "id": 17,
+            "label": "Rome (Italie)",
+            "prompt": "Rome",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Italie\">Italie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Jersey",
+            "id": 18,
+            "label": "Saint-H\u00e9lier (Jersey)",
+            "prompt": "Saint-H\u00e9lier",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Jersey\">Jersey (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Lettonie",
+            "id": 19,
+            "label": "Riga (Lettonie)",
+            "prompt": "Riga",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lettonie\">Lettonie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Lituanie",
+            "id": 20,
+            "label": "Vilnius (Lituanie)",
+            "prompt": "Vilnius",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lituanie\">Lituanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Luxembourg",
+            "id": 21,
+            "label": "Luxembourg (Luxembourg)",
+            "prompt": "Luxembourg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Luxembourg\">Luxembourg (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mac\u00e9doine du Nord",
+            "id": 22,
+            "label": "Skopje (Mac\u00e9doine du Nord)",
+            "prompt": "Skopje",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mac%C3%A9doine_du_Nord\">Mac\u00e9doine du Nord (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Malte",
+            "id": 23,
+            "label": "La Valette (Malte)",
+            "prompt": "La Valette",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Malte\">Malte (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Monaco",
+            "id": 24,
+            "label": "Monaco-Ville (Monaco)",
+            "prompt": "Monaco-Ville",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Monaco\">Monaco (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mont\u00e9n\u00e9gro",
+            "id": 25,
+            "label": "Podgorica (Mont\u00e9n\u00e9gro)",
+            "prompt": "Podgorica",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mont%C3%A9n%C3%A9gro\">Mont\u00e9n\u00e9gro (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Norv\u00e8ge",
+            "id": 26,
+            "label": "Oslo (Norv\u00e8ge)",
+            "prompt": "Oslo",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Norv%C3%A8ge\">Norv\u00e8ge (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pays-Bas",
+            "id": 27,
+            "label": "Amsterdam (Pays-Bas)",
+            "prompt": "Amsterdam",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pays-Bas\">Pays-Bas (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pays-Bas",
+            "id": 28,
+            "label": "La Haye (Pays-Bas)",
+            "prompt": "La Haye",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pays-Bas\">Pays-Bas (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pologne",
+            "id": 29,
+            "label": "Varsovie (Pologne)",
+            "prompt": "Varsovie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pologne\">Pologne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Portugal",
+            "id": 30,
+            "label": "Lisbonne (Portugal)",
+            "prompt": "Lisbonne",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Portugal\">Portugal (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Roumanie",
+            "id": 31,
+            "label": "Bucarest (Roumanie)",
+            "prompt": "Bucarest",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Roumanie\">Roumanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Royaume-Uni",
+            "id": 32,
+            "label": "Londres (Royaume-Uni)",
+            "prompt": "Londres",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Royaume-Uni\">Royaume-Uni (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Russie",
+            "id": 33,
+            "label": "Moscou (Russie)",
+            "prompt": "Moscou",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Russie\">Russie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Saint-Marin",
+            "id": 34,
+            "label": "Saint-Marin (Saint-Marin)",
+            "prompt": "Saint-Marin",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Saint-Marin\">Saint-Marin (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Serbie",
+            "id": 35,
+            "label": "Belgrade (Serbie)",
+            "prompt": "Belgrade",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Serbie\">Serbie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Slovaquie",
+            "id": 36,
+            "label": "Bratislava (Slovaquie)",
+            "prompt": "Bratislava",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Slovaquie\">Slovaquie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Slov\u00e9nie",
+            "id": 37,
+            "label": "Ljubljana (Slov\u00e9nie)",
+            "prompt": "Ljubljana",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Slov%C3%A9nie\">Slov\u00e9nie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Suisse",
+            "id": 38,
+            "label": "Berne (Suisse)",
+            "prompt": "Berne",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Suisse\">Suisse (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Su\u00e8de",
+            "id": 39,
+            "label": "Stockholm (Su\u00e8de)",
+            "prompt": "Stockholm",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Su%C3%A8de\">Su\u00e8de (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tch\u00e9quie",
+            "id": 40,
+            "label": "Prague (Tch\u00e9quie)",
+            "prompt": "Prague",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tch%C3%A9quie\">Tch\u00e9quie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ukraine",
+            "id": 41,
+            "label": "Kiev (Ukraine)",
+            "prompt": "Kiev",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ukraine\">Ukraine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00cele de Man",
+            "id": 42,
+            "label": "Douglas (\u00cele de Man)",
+            "prompt": "Douglas",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Ele_de_Man\">\u00cele de Man (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00celes F\u00e9ro\u00e9",
+            "id": 43,
+            "label": "T\u00f3rshavn (\u00celes F\u00e9ro\u00e9)",
+            "prompt": "T\u00f3rshavn",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Eles_F%C3%A9ro%C3%A9\">\u00celes F\u00e9ro\u00e9 (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 44,
+    "thumbnail": "data/thumbnails/12.jpg",
+    "title": "Capitales"
+}

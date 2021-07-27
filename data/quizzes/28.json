@@ -1,0 +1,348 @@
+{
+    "category": "Langues \u2013 Totalit\u00e9",
+    "id": 28,
+    "input": "text",
+    "prompt": "sentence",
+    "questions": [
+        {
+            "answer": "Albanais",
+            "id": 0,
+            "label": "Albanais",
+            "prompt": "sqi",
+            "tips": "Beaucoup de <b>q</b> et de <b>j</b>. Lettres <b>\u00eb</b> et <b>\u00e7</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Albanais\">Albanais (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Allemand",
+            "id": 1,
+            "label": "Allemand",
+            "prompt": "deu",
+            "tips": "Lettres <b>\u00e4</b>, <b>\u00fc</b>, <b>\u00f6</b> et <b>\u00df</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Allemand\">Allemand (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Anglais",
+            "id": 2,
+            "label": "Anglais",
+            "prompt": "eng",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Anglais\">Anglais (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Arabe",
+            "id": 3,
+            "label": "Arabe",
+            "prompt": "ara",
+            "tips": "Beaucoup de mots ont une ligne en-dessous.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Arabe\">Arabe (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Basque",
+            "id": 4,
+            "label": "Basque",
+            "prompt": "eus",
+            "tips": "Beaucoup de <b>x</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Basque\">Basque (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Bengali",
+            "id": 5,
+            "label": "Bengali",
+            "prompt": "ben",
+            "tips": "Ligne horizontale au-dessus des lettres.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bengali\">Bengali (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Breton",
+            "id": 6,
+            "label": "Breton",
+            "prompt": "bre",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Breton\">Breton (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bulgare",
+            "id": 7,
+            "label": "Bulgare",
+            "prompt": "bul",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bulgare\">Bulgare (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Chinois",
+            "id": 8,
+            "label": "Chinois",
+            "prompt": "cmn",
+            "tips": "Caract\u00e8res plus complexes.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mandarin_(langue)\">Chinois (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Cor\u00e9en",
+            "id": 9,
+            "label": "Cor\u00e9en",
+            "prompt": "kor",
+            "tips": "Usage de cercles. Blocs monolithiques.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cor%C3%A9en\">Cor\u00e9en (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Croate",
+            "id": 10,
+            "label": "Croate",
+            "prompt": "hrv",
+            "tips": "Lettres <b>\u0161</b>, <b>\u0107</b> et <b>\u010d</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Croate\">Croate (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Danois",
+            "id": 11,
+            "label": "Danois",
+            "prompt": "dan",
+            "tips": "Lettres <b>\u00e6</b>, <b>\u00e5</b> et <b>\u00f8</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Danois\">Danois (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "\u00c9cossais",
+            "id": 12,
+            "label": "\u00c9cossais",
+            "prompt": "cym",
+            "tips": "Beaucoup de <b>ll</b>. Lettres <b>y</b>, <b>w</b> et <b>c</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ga%C3%A9lique_%C3%A9cossais\">\u00c9cossais (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Espagnol",
+            "id": 13,
+            "label": "Espagnol",
+            "prompt": "spa",
+            "tips": "Lettres <b>\u00e1</b> et <b>\u00f1</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Espagnol\">Espagnol (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Estonien",
+            "id": 14,
+            "label": "Estonien",
+            "prompt": "est",
+            "tips": "Similaire au finnois. Lettre <b>\u00f5</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Estonien\">Estonien (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Finnois",
+            "id": 15,
+            "label": "Finnois",
+            "prompt": "fin",
+            "tips": "Lettre <b>\u00e4</b>. Beaucoup de doubles lettres <b>aa</b> et <b>ii</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Finnois\">Finnois (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Fran\u00e7ais",
+            "id": 16,
+            "label": "Fran\u00e7ais",
+            "prompt": "fra",
+            "tips": "Lettres <b>\u00e7</b>, <b>\u00eb</b>, <b>\u00e8</b>, <b>\u00e9</b>, <b>\u00ef</b> et <b>\u00e0</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Fran%C3%A7ais\">Fran\u00e7ais (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Grec",
+            "id": 17,
+            "label": "Grec",
+            "prompt": "ell",
+            "tips": "Lettres <b>\u03b1</b>, <b>\u03b2</b>, <b>\u03b3</b> et <b>\u03b4</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Grec\">Grec (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "H\u00e9breu",
+            "id": 18,
+            "label": "H\u00e9breu",
+            "prompt": "heb",
+            "tips": "Bien des lettres ressemblent \u00e0 un <b>n</b>, parfois avec une barre suppl\u00e9mentaire.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/H%C3%A9breu\">H\u00e9breu (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Hindi",
+            "id": 19,
+            "label": "Hindi",
+            "prompt": "hin",
+            "tips": "Similaire au Bengali. Certaines lettres ressemblent \u00e0 un <b>h</b> renvers\u00e9 et retourn\u00e9, d'autres \u00e0 un <b>F</b> retourn\u00e9.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hindi\">Hindi (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Hongrois",
+            "id": 20,
+            "label": "Hongrois",
+            "prompt": "hun",
+            "tips": "Lettres <b>\u00e9</b>, <b>\u00e1</b>, <b>\u00ed</b>, <b>\u00f3</b>, <b>\u00fa</b>, <b>\u00fc</b>, <b>\u0151</b> et <b>\u00f6</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hongrois\">Hongrois (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Indon\u00e9sien",
+            "id": 21,
+            "label": "Indon\u00e9sien",
+            "prompt": "ind",
+            "tips": "Beaucoup de lettres <b>a</b>. Suffixes <b>kan</b>, <b>an</b> et <b>i</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indon%C3%A9sien\">Indon\u00e9sien (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Islandais",
+            "id": 22,
+            "label": "Islandais",
+            "prompt": "isl",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Islandais\">Islandais (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Italien",
+            "id": 23,
+            "label": "Italien",
+            "prompt": "ita",
+            "tips": "Lettres <b>\u00ec</b>, <b>\u00e0</b>, <b>gg</b> et <b>cc</b>. Beaucoup de mots se terminent par des voyelles.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Italien\">Italien (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Japonais",
+            "id": 24,
+            "label": "Japonais",
+            "prompt": "jpn",
+            "tips": "Caract\u00e8res faits de traits simples et courb\u00e9s.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Japonais\">Japonais (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Khmer",
+            "id": 25,
+            "label": "Khmer",
+            "prompt": "khm",
+            "tips": "Similaire au Tha\u00ef. Crochets en haut des lettres, qui poitent vers la droite.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Khmer\">Khmer (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Kirghize",
+            "id": 26,
+            "label": "Kirghize",
+            "prompt": "kir",
+            "tips": "Lettre <b>\u04a2</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kirghize\">Kirghize (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Lao",
+            "id": 27,
+            "label": "Lao",
+            "prompt": "lao",
+            "tips": "Similaire au Tha\u00ef. Lettres courb\u00e9es.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lao\">Lao (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Letton",
+            "id": 28,
+            "label": "Letton",
+            "prompt": "lvs",
+            "tips": "Lettres <b>\u013c</b>, <b>\u0137</b>, <b>\u0146</b>, <b>\u0101</b>, <b>\u0113</b>, <b>\u012b</b>, <b>\u014d</b>, <b>\u016b</b> et <b>\u017e</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Letton\">Letton (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Lituanien",
+            "id": 29,
+            "label": "Lituanien",
+            "prompt": "lit",
+            "tips": "La lettre <b>\u0117</b> est unique. Lettres <b>\u0161</b>, <b>\u017e</b>, <b>\u016b</b> et <b>\u010d</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lituanien\">Lituanien (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Mac\u00e9donien",
+            "id": 30,
+            "label": "Mac\u00e9donien",
+            "prompt": "mkd",
+            "tips": "Lettres <b>\u0405</b>, <b>\u0403</b> et <b>\u040c</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mac%C3%A9donien\">Mac\u00e9donien (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Mongol",
+            "id": 31,
+            "label": "Mongol",
+            "prompt": "mon",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mongol\">Mongol (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "N\u00e9erlandais",
+            "id": 32,
+            "label": "N\u00e9erlandais",
+            "prompt": "nld",
+            "tips": "Beaucoup de <b>z</b>, <b>w</b>, <b>ee</b> et <b>ij</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/N%C3%A9erlandais\">N\u00e9erlandais (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Norv\u00e9gien",
+            "id": 33,
+            "label": "Norv\u00e9gien",
+            "prompt": "nob",
+            "tips": "Lettres <b>\u00e6</b>, <b>\u00f8</b> et <b>\u00e5</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Norv%C3%A9gien\">Norv\u00e9gien (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Polonais",
+            "id": 34,
+            "label": "Polonais",
+            "prompt": "pol",
+            "tips": "Beaucoup de <b>z</b>, souvent de la forme <b>rz</b>, <b>sz</b> ou <b>cz</b>. Lettres <b>\u00f3</b>, <b>\u0142</b>, <b>\u017c</b>, <b>\u015b</b>, <b>\u0229</b> et <b>\u0144</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Polonais\">Polonais (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Portugais",
+            "id": 35,
+            "label": "Portugais",
+            "prompt": "por",
+            "tips": "Lettres <b>\u00e3</b> et <b>\u00c7</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Portugais\">Portugais (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Roumain",
+            "id": 36,
+            "label": "Roumain",
+            "prompt": "ron",
+            "tips": "Lettres <b>\u015f</b>, <b>\u01ab</b>, <b>\u0103</b> et <b>\u0203</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Roumain\">Roumain (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Russe",
+            "id": 37,
+            "label": "Russe",
+            "prompt": "rus",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Russe\">Russe (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Serbe",
+            "id": 38,
+            "label": "Serbe",
+            "prompt": "srp",
+            "tips": "Lettres <b>\u0402</b> et <b>\u040b</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Serbe\">Serbe (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Singhalais",
+            "id": 39,
+            "label": "Singhalais",
+            "prompt": "sin",
+            "tips": "Les lettres ressemblent \u00e0 des <b>C</b> tourn\u00e9s et retourn\u00e9s, avec d'autres \u00e0 l'int\u00e9rieur.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Singhalais\">Singhalais (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Slovaque",
+            "id": 40,
+            "label": "Slovaque",
+            "prompt": "slk",
+            "tips": "Similaire au Tch\u00e8que. Lettres <b>\u00e1</b>, <b>\u00e9</b>, <b>\u00ed</b>, <b>\u00fd</b>, <b>\u010d</b>, <b>\u0161</b> et <b>\u017e</b>. Pour le diff\u00e9riencer du Tch\u00e8que, rechercher les lettres <b>\u00e4</b>, <b>\u013e</b>, <b>\u013a</b>, <b>\u0155</b>, <b>\u00f4</b>, <b>dz</b> et <b>d\u017e</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Slovaque\">Slovaque (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Slov\u00e8ne",
+            "id": 41,
+            "label": "Slov\u00e8ne",
+            "prompt": "slv",
+            "tips": "Beaucoup de lettres <b>j</b>. Lettres <b>\u017e</b>, <b>\u0161</b> et <b>\u010d</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Slov%C3%A8ne\">Slov\u00e8ne (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Su\u00e9dois",
+            "id": 42,
+            "label": "Su\u00e9dois",
+            "prompt": "swe",
+            "tips": "Lettres <b>\u00e5</b>, <b>\u00e4</b> et <b>\u00f6</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Su%C3%A9dois\">Su\u00e9dois (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Tch\u00e8que",
+            "id": 43,
+            "label": "Tch\u00e8que",
+            "prompt": "ces",
+            "tips": "Lettres <b>\u00e1</b>, <b>\u00e9</b>, <b>\u00fd</b>, <b>\u010d</b>, <b>\u0161</b>, <b>\u017e</b>, <b>\u011b</b>, <b>\u016f</b> et <b>\u0159</b>. Pour le diff\u00e9rencier du Slovaque, rechercher les lettres <b>\u011b</b>, <b>\u0159</b> et <b>\u016f</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tch%C3%A8que\">Tch\u00e8que (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Tha\u00ef",
+            "id": 44,
+            "label": "Tha\u00ef",
+            "prompt": "tha",
+            "tips": "Similaire au Khmer. Beaucoup de petits cercles sur les extr\u00e9mit\u00e9s des lettres.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tha%C3%AF\">Tha\u00ef (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Turc",
+            "id": 45,
+            "label": "Turc",
+            "prompt": "tur",
+            "tips": "Lettres <b>\u00f6</b>, <b>\u0131</b>, <b>\u011f</b> et <b>\u015f</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Turc\">Turc (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Ukrainien",
+            "id": 46,
+            "label": "Ukrainien",
+            "prompt": "ukr",
+            "tips": "Lettres <b>\u0406</b>, <b>\u0407</b>, <b>\u0490</b>, et <b>\u0404</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ukrainien\">Ukrainien (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Vietnamien",
+            "id": 47,
+            "label": "Vietnamien",
+            "prompt": "vie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vietnamien\">Vietnamien (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 48,
+    "thumbnail": "data/thumbnails/28.jpg",
+    "title": "Phrases"
+}

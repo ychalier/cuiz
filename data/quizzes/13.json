@@ -1,0 +1,40 @@
+{
+    "category": "Couverture StreetView \u2013 Oc\u00e9anie",
+    "id": 13,
+    "input": "text",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "Australie",
+            "id": 0,
+            "label": "Canberra (Australie)",
+            "prompt": "Canberra",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Australie\">Australie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nouvelle-Z\u00e9lande",
+            "id": 1,
+            "label": "Wellington (Nouvelle-Z\u00e9lande)",
+            "prompt": "Wellington",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nouvelle-Z%C3%A9lande\">Nouvelle-Z\u00e9lande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Samoa am\u00e9ricaines",
+            "id": 2,
+            "label": "Pago Pago (Samoa am\u00e9ricaines)",
+            "prompt": "Pago Pago",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Samoa_am%C3%A9ricaines\">Samoa am\u00e9ricaines (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00celes Mariannes du Nord",
+            "id": 3,
+            "label": "Saipan (\u00celes Mariannes du Nord)",
+            "prompt": "Saipan",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Eles_Mariannes_du_Nord\">\u00celes Mariannes du Nord (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 4,
+    "thumbnail": "data/thumbnails/13.jpg",
+    "title": "Capitales"
+}

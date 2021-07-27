@@ -1,0 +1,532 @@
+{
+    "categories": [
+        "Couverture StreetView \u2013 Totalit\u00e9",
+        "Couverture StreetView \u2013 Afrique",
+        "Couverture StreetView \u2013 Am\u00e9rique du Nord",
+        "Couverture StreetView \u2013 Am\u00e9rique du Sud",
+        "Couverture StreetView \u2013 Asie",
+        "Couverture StreetView \u2013 Europe",
+        "Couverture StreetView \u2013 Oc\u00e9anie",
+        "Langues \u2013 Totalit\u00e9",
+        "Langues \u2013 Id\u00e9ogrammes",
+        "Langues \u2013 Asie",
+        "Langues \u2013 Europe de l'Est",
+        "Langues \u2013 Europe de l'Ouest",
+        "Langues \u2013 Europe du Nord",
+        "Langues \u2013 Europe du Nord-Est",
+        "Langues \u2013 Cyrillique",
+        "D\u00e9partements fran\u00e7ais \u2013 Totalit\u00e9",
+        "D\u00e9partements fran\u00e7ais \u2013 \u00cele-de-France",
+        "D\u00e9partements fran\u00e7ais \u2013 Nord-Ouest",
+        "D\u00e9partements fran\u00e7ais \u2013 Nord-Est",
+        "D\u00e9partements fran\u00e7ais \u2013 Sud-Est",
+        "D\u00e9partements fran\u00e7ais \u2013 Sud-Ouest",
+        "\u00c9tats des \u00c9tats-Unis \u2013 Totalit\u00e9"
+    ],
+    "quizzes": [
+        {
+            "category": "Couverture StreetView \u2013 Totalit\u00e9",
+            "dataset": "data/quizzes\\0.json",
+            "id": 0,
+            "size": 96,
+            "thumbnail": "data/thumbnails/0.jpg",
+            "title": "Drapeaux"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Afrique",
+            "dataset": "data/quizzes\\1.json",
+            "id": 1,
+            "size": 11,
+            "thumbnail": "data/thumbnails/1.jpg",
+            "title": "Drapeaux"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Am\u00e9rique du Nord",
+            "dataset": "data/quizzes\\2.json",
+            "id": 2,
+            "size": 8,
+            "thumbnail": "data/thumbnails/2.jpg",
+            "title": "Drapeaux"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Am\u00e9rique du Sud",
+            "dataset": "data/quizzes\\3.json",
+            "id": 3,
+            "size": 9,
+            "thumbnail": "data/thumbnails/3.jpg",
+            "title": "Drapeaux"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Asie",
+            "dataset": "data/quizzes\\4.json",
+            "id": 4,
+            "size": 21,
+            "thumbnail": "data/thumbnails/4.jpg",
+            "title": "Drapeaux"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Europe",
+            "dataset": "data/quizzes\\5.json",
+            "id": 5,
+            "size": 43,
+            "thumbnail": "data/thumbnails/5.jpg",
+            "title": "Drapeaux"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Oc\u00e9anie",
+            "dataset": "data/quizzes\\6.json",
+            "id": 6,
+            "size": 4,
+            "thumbnail": "data/thumbnails/6.jpg",
+            "title": "Drapeaux"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Totalit\u00e9",
+            "dataset": "data/quizzes\\7.json",
+            "id": 7,
+            "size": 102,
+            "thumbnail": "data/thumbnails/7.jpg",
+            "title": "Capitales"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Afrique",
+            "dataset": "data/quizzes\\8.json",
+            "id": 8,
+            "size": 14,
+            "thumbnail": "data/thumbnails/8.jpg",
+            "title": "Capitales"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Am\u00e9rique du Nord",
+            "dataset": "data/quizzes\\9.json",
+            "id": 9,
+            "size": 8,
+            "thumbnail": "data/thumbnails/9.jpg",
+            "title": "Capitales"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Am\u00e9rique du Sud",
+            "dataset": "data/quizzes\\10.json",
+            "id": 10,
+            "size": 10,
+            "thumbnail": "data/thumbnails/10.jpg",
+            "title": "Capitales"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Asie",
+            "dataset": "data/quizzes\\11.json",
+            "id": 11,
+            "size": 22,
+            "thumbnail": "data/thumbnails/11.jpg",
+            "title": "Capitales"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Europe",
+            "dataset": "data/quizzes\\12.json",
+            "id": 12,
+            "size": 44,
+            "thumbnail": "data/thumbnails/12.jpg",
+            "title": "Capitales"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Oc\u00e9anie",
+            "dataset": "data/quizzes\\13.json",
+            "id": 13,
+            "size": 4,
+            "thumbnail": "data/thumbnails/13.jpg",
+            "title": "Capitales"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Totalit\u00e9",
+            "dataset": "data/quizzes\\14.json",
+            "id": 14,
+            "size": 99,
+            "thumbnail": "data/thumbnails/14.jpg",
+            "title": "Domaines Internet"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Afrique",
+            "dataset": "data/quizzes\\15.json",
+            "id": 15,
+            "size": 11,
+            "thumbnail": "data/thumbnails/15.jpg",
+            "title": "Domaines Internet"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Am\u00e9rique du Nord",
+            "dataset": "data/quizzes\\16.json",
+            "id": 16,
+            "size": 8,
+            "thumbnail": "data/thumbnails/16.jpg",
+            "title": "Domaines Internet"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Am\u00e9rique du Sud",
+            "dataset": "data/quizzes\\17.json",
+            "id": 17,
+            "size": 9,
+            "thumbnail": "data/thumbnails/17.jpg",
+            "title": "Domaines Internet"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Asie",
+            "dataset": "data/quizzes\\18.json",
+            "id": 18,
+            "size": 21,
+            "thumbnail": "data/thumbnails/18.jpg",
+            "title": "Domaines Internet"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Europe",
+            "dataset": "data/quizzes\\19.json",
+            "id": 19,
+            "size": 46,
+            "thumbnail": "data/thumbnails/19.jpg",
+            "title": "Domaines Internet"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Oc\u00e9anie",
+            "dataset": "data/quizzes\\20.json",
+            "id": 20,
+            "size": 4,
+            "thumbnail": "data/thumbnails/20.jpg",
+            "title": "Domaines Internet"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Totalit\u00e9",
+            "dataset": "data/quizzes\\21.json",
+            "id": 21,
+            "size": 96,
+            "thumbnail": "data/thumbnails/21.jpg",
+            "title": "Carte"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Afrique",
+            "dataset": "data/quizzes\\22.json",
+            "id": 22,
+            "size": 11,
+            "thumbnail": "data/thumbnails/22.jpg",
+            "title": "Carte"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Am\u00e9rique du Nord",
+            "dataset": "data/quizzes\\23.json",
+            "id": 23,
+            "size": 8,
+            "thumbnail": "data/thumbnails/23.jpg",
+            "title": "Carte"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Am\u00e9rique du Sud",
+            "dataset": "data/quizzes\\24.json",
+            "id": 24,
+            "size": 9,
+            "thumbnail": "data/thumbnails/24.jpg",
+            "title": "Carte"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Asie",
+            "dataset": "data/quizzes\\25.json",
+            "id": 25,
+            "size": 21,
+            "thumbnail": "data/thumbnails/25.jpg",
+            "title": "Carte"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Europe",
+            "dataset": "data/quizzes\\26.json",
+            "id": 26,
+            "size": 43,
+            "thumbnail": "data/thumbnails/26.jpg",
+            "title": "Carte"
+        },
+        {
+            "category": "Couverture StreetView \u2013 Oc\u00e9anie",
+            "dataset": "data/quizzes\\27.json",
+            "id": 27,
+            "size": 4,
+            "thumbnail": "data/thumbnails/27.jpg",
+            "title": "Carte"
+        },
+        {
+            "category": "Langues \u2013 Totalit\u00e9",
+            "dataset": "data/quizzes\\28.json",
+            "id": 28,
+            "size": 48,
+            "thumbnail": "data/thumbnails/28.jpg",
+            "title": "Phrases"
+        },
+        {
+            "category": "Langues \u2013 Id\u00e9ogrammes",
+            "dataset": "data/quizzes\\29.json",
+            "id": 29,
+            "size": 3,
+            "thumbnail": "data/thumbnails/29.jpg",
+            "title": "Phrases"
+        },
+        {
+            "category": "Langues \u2013 Asie",
+            "dataset": "data/quizzes\\30.json",
+            "id": 30,
+            "size": 10,
+            "thumbnail": "data/thumbnails/30.jpg",
+            "title": "Phrases"
+        },
+        {
+            "category": "Langues \u2013 Europe de l'Est",
+            "dataset": "data/quizzes\\31.json",
+            "id": 31,
+            "size": 8,
+            "thumbnail": "data/thumbnails/31.jpg",
+            "title": "Phrases"
+        },
+        {
+            "category": "Langues \u2013 Europe de l'Ouest",
+            "dataset": "data/quizzes\\32.json",
+            "id": 32,
+            "size": 11,
+            "thumbnail": "data/thumbnails/32.jpg",
+            "title": "Phrases"
+        },
+        {
+            "category": "Langues \u2013 Europe du Nord",
+            "dataset": "data/quizzes\\33.json",
+            "id": 33,
+            "size": 5,
+            "thumbnail": "data/thumbnails/33.jpg",
+            "title": "Phrases"
+        },
+        {
+            "category": "Langues \u2013 Europe du Nord-Est",
+            "dataset": "data/quizzes\\34.json",
+            "id": 34,
+            "size": 4,
+            "thumbnail": "data/thumbnails/34.jpg",
+            "title": "Phrases"
+        },
+        {
+            "category": "Langues \u2013 Cyrillique",
+            "dataset": "data/quizzes\\35.json",
+            "id": 35,
+            "size": 7,
+            "thumbnail": "data/thumbnails/35.jpg",
+            "title": "Phrases"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Totalit\u00e9",
+            "dataset": "data/quizzes\\36.json",
+            "id": 36,
+            "size": 95,
+            "thumbnail": "data/thumbnails/36.jpg",
+            "title": "Drapeaux"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 \u00cele-de-France",
+            "dataset": "data/quizzes\\37.json",
+            "id": 37,
+            "size": 7,
+            "thumbnail": "data/thumbnails/37.jpg",
+            "title": "Drapeaux"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Nord-Ouest",
+            "dataset": "data/quizzes\\38.json",
+            "id": 38,
+            "size": 20,
+            "thumbnail": "data/thumbnails/38.jpg",
+            "title": "Drapeaux"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Nord-Est",
+            "dataset": "data/quizzes\\39.json",
+            "id": 39,
+            "size": 23,
+            "thumbnail": "data/thumbnails/39.jpg",
+            "title": "Drapeaux"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Sud-Est",
+            "dataset": "data/quizzes\\40.json",
+            "id": 40,
+            "size": 25,
+            "thumbnail": "data/thumbnails/40.jpg",
+            "title": "Drapeaux"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Sud-Ouest",
+            "dataset": "data/quizzes\\41.json",
+            "id": 41,
+            "size": 20,
+            "thumbnail": "data/thumbnails/41.jpg",
+            "title": "Drapeaux"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Totalit\u00e9",
+            "dataset": "data/quizzes\\42.json",
+            "id": 42,
+            "size": 95,
+            "thumbnail": "data/thumbnails/42.jpg",
+            "title": "Pr\u00e9fectures"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 \u00cele-de-France",
+            "dataset": "data/quizzes\\43.json",
+            "id": 43,
+            "size": 7,
+            "thumbnail": "data/thumbnails/43.jpg",
+            "title": "Pr\u00e9fectures"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Nord-Ouest",
+            "dataset": "data/quizzes\\44.json",
+            "id": 44,
+            "size": 20,
+            "thumbnail": "data/thumbnails/44.jpg",
+            "title": "Pr\u00e9fectures"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Nord-Est",
+            "dataset": "data/quizzes\\45.json",
+            "id": 45,
+            "size": 23,
+            "thumbnail": "data/thumbnails/45.jpg",
+            "title": "Pr\u00e9fectures"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Sud-Est",
+            "dataset": "data/quizzes\\46.json",
+            "id": 46,
+            "size": 25,
+            "thumbnail": "data/thumbnails/46.jpg",
+            "title": "Pr\u00e9fectures"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Sud-Ouest",
+            "dataset": "data/quizzes\\47.json",
+            "id": 47,
+            "size": 20,
+            "thumbnail": "data/thumbnails/47.jpg",
+            "title": "Pr\u00e9fectures"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Totalit\u00e9",
+            "dataset": "data/quizzes\\48.json",
+            "id": 48,
+            "size": 95,
+            "thumbnail": "data/thumbnails/48.jpg",
+            "title": "Codes"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 \u00cele-de-France",
+            "dataset": "data/quizzes\\49.json",
+            "id": 49,
+            "size": 7,
+            "thumbnail": "data/thumbnails/49.jpg",
+            "title": "Codes"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Nord-Ouest",
+            "dataset": "data/quizzes\\50.json",
+            "id": 50,
+            "size": 20,
+            "thumbnail": "data/thumbnails/50.jpg",
+            "title": "Codes"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Nord-Est",
+            "dataset": "data/quizzes\\51.json",
+            "id": 51,
+            "size": 23,
+            "thumbnail": "data/thumbnails/51.jpg",
+            "title": "Codes"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Sud-Est",
+            "dataset": "data/quizzes\\52.json",
+            "id": 52,
+            "size": 25,
+            "thumbnail": "data/thumbnails/52.jpg",
+            "title": "Codes"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Sud-Ouest",
+            "dataset": "data/quizzes\\53.json",
+            "id": 53,
+            "size": 20,
+            "thumbnail": "data/thumbnails/53.jpg",
+            "title": "Codes"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Totalit\u00e9",
+            "dataset": "data/quizzes\\54.json",
+            "id": 54,
+            "size": 95,
+            "thumbnail": "data/thumbnails/54.jpg",
+            "title": "Carte"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 \u00cele-de-France",
+            "dataset": "data/quizzes\\55.json",
+            "id": 55,
+            "size": 7,
+            "thumbnail": "data/thumbnails/55.jpg",
+            "title": "Carte"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Nord-Ouest",
+            "dataset": "data/quizzes\\56.json",
+            "id": 56,
+            "size": 20,
+            "thumbnail": "data/thumbnails/56.jpg",
+            "title": "Carte"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Nord-Est",
+            "dataset": "data/quizzes\\57.json",
+            "id": 57,
+            "size": 23,
+            "thumbnail": "data/thumbnails/57.jpg",
+            "title": "Carte"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Sud-Est",
+            "dataset": "data/quizzes\\58.json",
+            "id": 58,
+            "size": 25,
+            "thumbnail": "data/thumbnails/58.jpg",
+            "title": "Carte"
+        },
+        {
+            "category": "D\u00e9partements fran\u00e7ais \u2013 Sud-Ouest",
+            "dataset": "data/quizzes\\59.json",
+            "id": 59,
+            "size": 20,
+            "thumbnail": "data/thumbnails/59.jpg",
+            "title": "Carte"
+        },
+        {
+            "category": "\u00c9tats des \u00c9tats-Unis \u2013 Totalit\u00e9",
+            "dataset": "data/quizzes\\60.json",
+            "id": 60,
+            "size": 50,
+            "thumbnail": "data/thumbnails/60.jpg",
+            "title": "Drapeaux"
+        },
+        {
+            "category": "\u00c9tats des \u00c9tats-Unis \u2013 Totalit\u00e9",
+            "dataset": "data/quizzes\\61.json",
+            "id": 61,
+            "size": 50,
+            "thumbnail": "data/thumbnails/61.jpg",
+            "title": "Capitales"
+        },
+        {
+            "category": "\u00c9tats des \u00c9tats-Unis \u2013 Totalit\u00e9",
+            "dataset": "data/quizzes\\62.json",
+            "id": 62,
+            "size": 50,
+            "thumbnail": "data/thumbnails/62.jpg",
+            "title": "Carte"
+        }
+    ]
+}

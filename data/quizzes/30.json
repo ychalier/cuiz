@@ -1,0 +1,82 @@
+{
+    "category": "Langues \u2013 Asie",
+    "id": 30,
+    "input": "text",
+    "prompt": "sentence",
+    "questions": [
+        {
+            "answer": "Arabe",
+            "id": 0,
+            "label": "Arabe",
+            "prompt": "ara",
+            "tips": "Beaucoup de mots ont une ligne en-dessous.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Arabe\">Arabe (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Bengali",
+            "id": 1,
+            "label": "Bengali",
+            "prompt": "ben",
+            "tips": "Ligne horizontale au-dessus des lettres.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bengali\">Bengali (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "H\u00e9breu",
+            "id": 2,
+            "label": "H\u00e9breu",
+            "prompt": "heb",
+            "tips": "Bien des lettres ressemblent \u00e0 un <b>n</b>, parfois avec une barre suppl\u00e9mentaire.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/H%C3%A9breu\">H\u00e9breu (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Hindi",
+            "id": 3,
+            "label": "Hindi",
+            "prompt": "hin",
+            "tips": "Similaire au Bengali. Certaines lettres ressemblent \u00e0 un <b>h</b> renvers\u00e9 et retourn\u00e9, d'autres \u00e0 un <b>F</b> retourn\u00e9.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hindi\">Hindi (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Indon\u00e9sien",
+            "id": 4,
+            "label": "Indon\u00e9sien",
+            "prompt": "ind",
+            "tips": "Beaucoup de lettres <b>a</b>. Suffixes <b>kan</b>, <b>an</b> et <b>i</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indon%C3%A9sien\">Indon\u00e9sien (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Khmer",
+            "id": 5,
+            "label": "Khmer",
+            "prompt": "khm",
+            "tips": "Similaire au Tha\u00ef. Crochets en haut des lettres, qui poitent vers la droite.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Khmer\">Khmer (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Lao",
+            "id": 6,
+            "label": "Lao",
+            "prompt": "lao",
+            "tips": "Similaire au Tha\u00ef. Lettres courb\u00e9es.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lao\">Lao (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Singhalais",
+            "id": 7,
+            "label": "Singhalais",
+            "prompt": "sin",
+            "tips": "Les lettres ressemblent \u00e0 des <b>C</b> tourn\u00e9s et retourn\u00e9s, avec d'autres \u00e0 l'int\u00e9rieur.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Singhalais\">Singhalais (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Tha\u00ef",
+            "id": 8,
+            "label": "Tha\u00ef",
+            "prompt": "tha",
+            "tips": "Similaire au Khmer. Beaucoup de petits cercles sur les extr\u00e9mit\u00e9s des lettres.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tha%C3%AF\">Tha\u00ef (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Vietnamien",
+            "id": 9,
+            "label": "Vietnamien",
+            "prompt": "vie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vietnamien\">Vietnamien (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 10,
+    "thumbnail": "data/thumbnails/30.jpg",
+    "title": "Phrases"
+}

@@ -1,0 +1,91 @@
+{
+    "category": "Couverture StreetView \u2013 Afrique",
+    "id": 22,
+    "input": "map",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "za",
+            "id": 0,
+            "label": "Afrique du Sud",
+            "prompt": "Afrique du Sud",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Afrique_du_Sud\">Afrique du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "bw",
+            "id": 1,
+            "label": "Botswana",
+            "prompt": "Botswana",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Botswana\">Botswana (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "sz",
+            "id": 2,
+            "label": "Eswatini",
+            "prompt": "Eswatini",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Eswatini\">Eswatini (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "gh",
+            "id": 3,
+            "label": "Ghana",
+            "prompt": "Ghana",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ghana\">Ghana (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "ke",
+            "id": 4,
+            "label": "Kenya",
+            "prompt": "Kenya",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kenya\">Kenya (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "ls",
+            "id": 5,
+            "label": "Lesotho",
+            "prompt": "Lesotho",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lesotho\">Lesotho (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "mg",
+            "id": 6,
+            "label": "Madagascar",
+            "prompt": "Madagascar",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Madagascar\">Madagascar (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "ng",
+            "id": 7,
+            "label": "Nigeria",
+            "prompt": "Nigeria",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nigeria\">Nigeria (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "ug",
+            "id": 8,
+            "label": "Ouganda",
+            "prompt": "Ouganda",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ouganda\">Ouganda (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "sn",
+            "id": 9,
+            "label": "S\u00e9n\u00e9gal",
+            "prompt": "S\u00e9n\u00e9gal",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A9gal\">S\u00e9n\u00e9gal (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "tn",
+            "id": 10,
+            "label": "Tunisie",
+            "prompt": "Tunisie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tunisie\">Tunisie (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {
+        "source": "data/polys/world.json"
+    },
+    "size": 11,
+    "thumbnail": "data/thumbnails/22.jpg",
+    "title": "Carte"
+}

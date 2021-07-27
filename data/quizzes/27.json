@@ -1,0 +1,42 @@
+{
+    "category": "Couverture StreetView \u2013 Oc\u00e9anie",
+    "id": 27,
+    "input": "map",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "au",
+            "id": 0,
+            "label": "Australie",
+            "prompt": "Australie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Australie\">Australie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "nz",
+            "id": 1,
+            "label": "Nouvelle-Z\u00e9lande",
+            "prompt": "Nouvelle-Z\u00e9lande",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nouvelle-Z%C3%A9lande\">Nouvelle-Z\u00e9lande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "as",
+            "id": 2,
+            "label": "Samoa am\u00e9ricaines",
+            "prompt": "Samoa am\u00e9ricaines",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Samoa_am%C3%A9ricaines\">Samoa am\u00e9ricaines (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "mp",
+            "id": 3,
+            "label": "\u00celes Mariannes du Nord",
+            "prompt": "\u00celes Mariannes du Nord",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Eles_Mariannes_du_Nord\">\u00celes Mariannes du Nord (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {
+        "source": "data/polys/world.json"
+    },
+    "size": 4,
+    "thumbnail": "data/thumbnails/27.jpg",
+    "title": "Carte"
+}

@@ -1,0 +1,152 @@
+{
+    "category": "D\u00e9partements fran\u00e7ais \u2013 Nord-Ouest",
+    "id": 44,
+    "input": "text",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "Calvados",
+            "id": 0,
+            "label": "Caen (Calvados)",
+            "prompt": "Caen",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Calvados_(d%C3%A9partement)\">Calvados (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cher",
+            "id": 1,
+            "label": "Bourges (Cher)",
+            "prompt": "Bourges",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cher_(d%C3%A9partement)\">Cher (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "C\u00f4tes-d'Armor",
+            "id": 2,
+            "label": "Saint-Brieuc (C\u00f4tes-d'Armor)",
+            "prompt": "Saint-Brieuc",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/C%C3%B4tes-d%27Armor\">C\u00f4tes-d'Armor (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Eure",
+            "id": 3,
+            "label": "\u00c9vreux (Eure)",
+            "prompt": "\u00c9vreux",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Eure_(d%C3%A9partement)\">Eure (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Eure-et-Loir",
+            "id": 4,
+            "label": "Chartres (Eure-et-Loir)",
+            "prompt": "Chartres",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Eure-et-Loir\">Eure-et-Loir (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Finist\u00e8re",
+            "id": 5,
+            "label": "Quimper (Finist\u00e8re)",
+            "prompt": "Quimper",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Finist%C3%A8re\">Finist\u00e8re (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ille-et-Vilaine",
+            "id": 6,
+            "label": "Rennes (Ille-et-Vilaine)",
+            "prompt": "Rennes",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ille-et-Vilaine\">Ille-et-Vilaine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Indre",
+            "id": 7,
+            "label": "Ch\u00e2teauroux (Indre)",
+            "prompt": "Ch\u00e2teauroux",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indre_(d%C3%A9partement)\">Indre (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Indre-et-Loire",
+            "id": 8,
+            "label": "Tours (Indre-et-Loire)",
+            "prompt": "Tours",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indre-et-Loire\">Indre-et-Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Loir-et-Cher",
+            "id": 9,
+            "label": "Blois (Loir-et-Cher)",
+            "prompt": "Blois",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loir-et-Cher\">Loir-et-Cher (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Loire-Atlantique",
+            "id": 10,
+            "label": "Nantes (Loire-Atlantique)",
+            "prompt": "Nantes",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loire-Atlantique\">Loire-Atlantique (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Loiret",
+            "id": 11,
+            "label": "Orl\u00e9ans (Loiret)",
+            "prompt": "Orl\u00e9ans",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loiret_(d%C3%A9partement)\">Loiret (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Maine-et-Loire",
+            "id": 12,
+            "label": "Angers (Maine-et-Loire)",
+            "prompt": "Angers",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Maine-et-Loire\">Maine-et-Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Manche",
+            "id": 13,
+            "label": "Saint-L\u00f4 (Manche)",
+            "prompt": "Saint-L\u00f4",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Manche_(mer)\">Manche (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mayenne",
+            "id": 14,
+            "label": "Laval (Mayenne)",
+            "prompt": "Laval",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mayenne_(d%C3%A9partement)\">Mayenne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Morbihan",
+            "id": 15,
+            "label": "Vannes (Morbihan)",
+            "prompt": "Vannes",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Morbihan\">Morbihan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Orne",
+            "id": 16,
+            "label": "Alen\u00e7on (Orne)",
+            "prompt": "Alen\u00e7on",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Orne_(d%C3%A9partement)\">Orne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Sarthe",
+            "id": 17,
+            "label": "Le Mans (Sarthe)",
+            "prompt": "Le Mans",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Sarthe_(d%C3%A9partement)\">Sarthe (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Seine-Maritime",
+            "id": 18,
+            "label": "Rouen (Seine-Maritime)",
+            "prompt": "Rouen",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Seine-Maritime\">Seine-Maritime (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vend\u00e9e",
+            "id": 19,
+            "label": "La Roche-sur-Yon (Vend\u00e9e)",
+            "prompt": "La Roche-sur-Yon",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vend%C3%A9e_(d%C3%A9partement)\">Vend\u00e9e (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 20,
+    "thumbnail": "data/thumbnails/44.jpg",
+    "title": "Pr\u00e9fectures"
+}

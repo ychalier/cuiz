@@ -1,0 +1,173 @@
+{
+    "category": "D\u00e9partements fran\u00e7ais \u2013 Nord-Est",
+    "id": 45,
+    "input": "text",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "Aisne",
+            "id": 0,
+            "label": "Laon (Aisne)",
+            "prompt": "Laon",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Aisne_(d%C3%A9partement)\">Aisne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ardennes",
+            "id": 1,
+            "label": "Charleville-M\u00e9zi\u00e8res (Ardennes)",
+            "prompt": "Charleville-M\u00e9zi\u00e8res",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ardennes_(d%C3%A9partement)\">Ardennes (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Aube",
+            "id": 2,
+            "label": "Troyes (Aube)",
+            "prompt": "Troyes",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Aube_(d%C3%A9partement)\">Aube (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bas-Rhin",
+            "id": 3,
+            "label": "Strasbourg (Bas-Rhin)",
+            "prompt": "Strasbourg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bas-Rhin\">Bas-Rhin (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "C\u00f4te-d'Or",
+            "id": 4,
+            "label": "Dijon (C\u00f4te-d'Or)",
+            "prompt": "Dijon",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/C%C3%B4te-d%27Or\">C\u00f4te-d'Or (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Doubs",
+            "id": 5,
+            "label": "Besan\u00e7on (Doubs)",
+            "prompt": "Besan\u00e7on",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Doubs_(d%C3%A9partement)\">Doubs (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haut-Rhin",
+            "id": 6,
+            "label": "Colmar (Haut-Rhin)",
+            "prompt": "Colmar",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haut-Rhin\">Haut-Rhin (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Marne",
+            "id": 7,
+            "label": "Chaumont (Haute-Marne)",
+            "prompt": "Chaumont",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Marne\">Haute-Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Sa\u00f4ne",
+            "id": 8,
+            "label": "Vesoul (Haute-Sa\u00f4ne)",
+            "prompt": "Vesoul",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Sa%C3%B4ne\">Haute-Sa\u00f4ne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Jura",
+            "id": 9,
+            "label": "Lons-le-Saunier (Jura)",
+            "prompt": "Lons-le-Saunier",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Jura_(d%C3%A9partement)\">Jura (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Marne",
+            "id": 10,
+            "label": "Ch\u00e2lons-en-Champagne (Marne)",
+            "prompt": "Ch\u00e2lons-en-Champagne",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Marne_(d%C3%A9partement)\">Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Meurthe-et-Moselle",
+            "id": 11,
+            "label": "Nancy (Meurthe-et-Moselle)",
+            "prompt": "Nancy",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Meurthe-et-Moselle\">Meurthe-et-Moselle (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Meuse",
+            "id": 12,
+            "label": "Bar-le-Duc (Meuse)",
+            "prompt": "Bar-le-Duc",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Meuse_(fleuve)\">Meuse (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Moselle",
+            "id": 13,
+            "label": "Metz (Moselle)",
+            "prompt": "Metz",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Moselle_(rivi%C3%A8re)\">Moselle (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ni\u00e8vre",
+            "id": 14,
+            "label": "Nevers (Ni\u00e8vre)",
+            "prompt": "Nevers",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ni%C3%A8vre_(d%C3%A9partement)\">Ni\u00e8vre (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nord",
+            "id": 15,
+            "label": "Lille (Nord)",
+            "prompt": "Lille",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nord\">Nord (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Oise",
+            "id": 16,
+            "label": "Beauvais (Oise)",
+            "prompt": "Beauvais",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Orne_(d%C3%A9partement)\">Oise (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pas-de-Calais",
+            "id": 17,
+            "label": "Arras (Pas-de-Calais)",
+            "prompt": "Arras",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pas-de-Calais\">Pas-de-Calais (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Sa\u00f4ne-et-Loire",
+            "id": 18,
+            "label": "M\u00e2con (Sa\u00f4ne-et-Loire)",
+            "prompt": "M\u00e2con",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Sa%C3%B4ne-et-Loire\">Sa\u00f4ne-et-Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Somme",
+            "id": 19,
+            "label": "Amiens (Somme)",
+            "prompt": "Amiens",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Somme_(d%C3%A9partement)\">Somme (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Territoire de Belfort",
+            "id": 20,
+            "label": "Belfort (Territoire de Belfort)",
+            "prompt": "Belfort",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Territoire_de_Belfort\">Territoire de Belfort (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vosges",
+            "id": 21,
+            "label": "\u00c9pinal (Vosges)",
+            "prompt": "\u00c9pinal",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vosges_(d%C3%A9partement)\">Vosges (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Yonne",
+            "id": 22,
+            "label": "Auxerre (Yonne)",
+            "prompt": "Auxerre",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Yonne_(d%C3%A9partement)\">Yonne (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 23,
+    "thumbnail": "data/thumbnails/45.jpg",
+    "title": "Pr\u00e9fectures"
+}

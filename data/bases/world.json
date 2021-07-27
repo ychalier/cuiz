@@ -1,0 +1,3079 @@
+{
+    "categories": [
+        {
+            "img": "data/images/world.jpg",
+            "key": "[all]"
+        },
+        {
+            "img": "data/images/africa.jpg",
+            "key": "Afrique"
+        },
+        {
+            "img": "data/images/north-america.jpg",
+            "key": "Am\u00e9rique du Nord"
+        },
+        {
+            "img": "data/images/south-america.jpg",
+            "key": "Am\u00e9rique du Sud"
+        },
+        {
+            "img": "data/images/asia.jpg",
+            "key": "Asie"
+        },
+        {
+            "img": "data/images/europe.jpg",
+            "key": "Europe"
+        },
+        {
+            "img": "data/images/oceania.jpg",
+            "key": "Oc\u00e9anie"
+        }
+    ],
+    "entities": [
+        {
+            "category": "Afrique",
+            "label": "Afrique du Sud",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Pretoria"
+                    },
+                    {
+                        "tips": null,
+                        "value": "Bloemfontein"
+                    },
+                    {
+                        "tips": null,
+                        "value": "Le Cap"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "za"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".za"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Africa.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Afrique_du_Sud"
+        },
+        {
+            "category": "Europe",
+            "label": "Albanie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Tirana"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "al"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".al"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Albania.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Albanie"
+        },
+        {
+            "category": "Europe",
+            "label": "Allemagne",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Berlin"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "de"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".de"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Allemagne"
+        },
+        {
+            "category": "Europe",
+            "label": "Andorre",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Andorre-la-Vieille"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "ad"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".ad"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Andorra.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Andorre"
+        },
+        {
+            "category": "Am\u00e9rique du Sud",
+            "label": "Argentine",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Buenos Aires"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "ar"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".ar"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Argentina.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Argentine"
+        },
+        {
+            "category": "Oc\u00e9anie",
+            "label": "Australie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Canberra"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "au"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".au"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Australie"
+        },
+        {
+            "category": "Europe",
+            "label": "Autriche",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Vienne"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "at"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".at"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Austria.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Autriche"
+        },
+        {
+            "category": "Asie",
+            "label": "Bangladesh",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Dacca"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "bd"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".bd"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Bangladesh"
+        },
+        {
+            "category": "Europe",
+            "label": "Belgique",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Bruxelles"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "be"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".be"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belgium%20%28civil%29.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Belgique"
+        },
+        {
+            "category": "Asie",
+            "label": "Bhoutan",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Thimphou"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "bt"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".bt"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bhutan.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Bhoutan"
+        },
+        {
+            "category": "Am\u00e9rique du Sud",
+            "label": "Bolivie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Sucre"
+                    },
+                    {
+                        "tips": null,
+                        "value": "La Paz"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "bo"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".bo"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia%20%28state%29.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Bolivie"
+        },
+        {
+            "category": "Afrique",
+            "label": "Botswana",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Gaborone"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "bw"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".bw"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Botswana.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Botswana"
+        },
+        {
+            "category": "Am\u00e9rique du Sud",
+            "label": "Br\u00e9sil",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Brasilia"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "br"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".br"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brazil.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Br%C3%A9sil"
+        },
+        {
+            "category": "Europe",
+            "label": "Bulgarie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Sofia"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "bg"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".bg"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bulgaria.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Bulgarie"
+        },
+        {
+            "category": "Asie",
+            "label": "Cambodge",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Phnom Penh"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "kh"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".kh"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Cambodge"
+        },
+        {
+            "category": "Am\u00e9rique du Nord",
+            "label": "Canada",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Ottawa"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "ca"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".ca"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Canada%20%28Pantone%29.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Canada"
+        },
+        {
+            "category": "Am\u00e9rique du Sud",
+            "label": "Chili",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Santiago"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "cl"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".cl"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Chile.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Chili"
+        },
+        {
+            "category": "Am\u00e9rique du Sud",
+            "label": "Colombie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Bogota"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "co"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".co"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Colombia.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Colombie"
+        },
+        {
+            "category": "Asie",
+            "label": "Cor\u00e9e du Sud",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "S\u00e9oul"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "kr"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".kr"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Korea.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Cor%C3%A9e_du_Sud"
+        },
+        {
+            "category": "Europe",
+            "label": "Croatie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Zagreb"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "hr"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".hr"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Croatia.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Croatie"
+        },
+        {
+            "category": "Am\u00e9rique du Sud",
+            "label": "Cura\u00e7ao",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Willemstad"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "cw"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".cw"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cura%C3%A7ao.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Cura%C3%A7ao"
+        },
+        {
+            "category": "Europe",
+            "label": "Danemark",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Copenhague"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "dk"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".dk"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Denmark.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Danemark"
+        },
+        {
+            "category": "Europe",
+            "label": "Espagne",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Madrid"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "es"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".es"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Espagne"
+        },
+        {
+            "category": "Europe",
+            "label": "Estonie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Tallinn"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "ee"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".ee"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Estonia.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Estonie"
+        },
+        {
+            "category": "Afrique",
+            "label": "Eswatini",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Mbabane"
+                    },
+                    {
+                        "tips": null,
+                        "value": "Lobamba"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "sz"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".sz"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eswatini.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Eswatini"
+        },
+        {
+            "category": "Europe",
+            "label": "Finlande",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Helsinki"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "fi"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".fi"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Finland.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Finlande"
+        },
+        {
+            "category": "Europe",
+            "label": "France",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Paris"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "fr"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".fr"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/France"
+        },
+        {
+            "category": "Afrique",
+            "label": "Ghana",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Accra"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "gh"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".gh"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ghana.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Ghana"
+        },
+        {
+            "category": "Europe",
+            "label": "Gibraltar",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Gibraltar"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "gi"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".gi"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Gibraltar.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Gibraltar"
+        },
+        {
+            "category": "Am\u00e9rique du Nord",
+            "label": "Groenland",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Nuuk"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "gl"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".gl"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Greenland.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Groenland"
+        },
+        {
+            "category": "Europe",
+            "label": "Gr\u00e8ce",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Ath\u00e8nes"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "gr"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".gr"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Greece.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Gr%C3%A8ce"
+        },
+        {
+            "category": "Am\u00e9rique du Nord",
+            "label": "Guatemala",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Guatemala-Ville"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "gt"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".gt"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Guatemala"
+        },
+        {
+            "category": "Europe",
+            "label": "Hongrie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Budapest"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "hu"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".hu"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hungary.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Hongrie"
+        },
+        {
+            "category": "Asie",
+            "label": "Inde",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "New Delhi"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "in"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".in"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Inde"
+        },
+        {
+            "category": "Asie",
+            "label": "Indon\u00e9sie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Jakarta"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "id"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".id"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Indonesia.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Indon%C3%A9sie"
+        },
+        {
+            "category": "Europe",
+            "label": "Irlande",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Dublin"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "ie"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".ie"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ireland.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Irlande_(pays)"
+        },
+        {
+            "category": "Europe",
+            "label": "Islande",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Reykjavik"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "is"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".is"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iceland.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Islande"
+        },
+        {
+            "category": "Asie",
+            "label": "Isra\u00ebl",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "J\u00e9rusalem"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "il"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".il"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Israel.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Isra%C3%ABl"
+        },
+        {
+            "category": "Europe",
+            "label": "Italie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Rome"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "it"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".it"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Italie"
+        },
+        {
+            "category": "Asie",
+            "label": "Japon",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Tokyo"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "jp"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".jp"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Japon"
+        },
+        {
+            "category": "Europe",
+            "label": "Jersey",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Saint-H\u00e9lier"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "je"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".je"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jersey.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Jersey"
+        },
+        {
+            "category": "Asie",
+            "label": "Jordanie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Amman"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "jo"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".jo"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jordan.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Jordanie"
+        },
+        {
+            "category": "Afrique",
+            "label": "Kenya",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Nairobi"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "ke"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".ke"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kenya.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Kenya"
+        },
+        {
+            "category": "Asie",
+            "label": "Kirghizistan",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Bichkek"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "kg"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".kg"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kyrgyzstan.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Kirghizistan"
+        },
+        {
+            "category": "Asie",
+            "label": "Laos",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Vientiane"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "la"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".la"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Laos.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Laos"
+        },
+        {
+            "category": "Afrique",
+            "label": "Lesotho",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Maseru"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "ls"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".ls"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lesotho.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Lesotho"
+        },
+        {
+            "category": "Europe",
+            "label": "Lettonie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Riga"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "lv"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".lv"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Latvia.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Lettonie"
+        },
+        {
+            "category": "Europe",
+            "label": "Lituanie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Vilnius"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "lt"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".lv"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lithuania.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Lituanie"
+        },
+        {
+            "category": "Europe",
+            "label": "Luxembourg",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Luxembourg"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "lu"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".lu"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Luxembourg.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Luxembourg"
+        },
+        {
+            "category": "Europe",
+            "label": "Mac\u00e9doine du Nord",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Skopje"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "mk"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".mk"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Macedonia.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Mac%C3%A9doine_du_Nord"
+        },
+        {
+            "category": "Afrique",
+            "label": "Madagascar",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Antananarivo"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "mg"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".mg"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Madagascar.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Madagascar"
+        },
+        {
+            "category": "Asie",
+            "label": "Malaisie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Kuala Lumpur"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "my"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".my"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malaysia.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Malaisie"
+        },
+        {
+            "category": "Europe",
+            "label": "Malte",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "La Valette"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "mt"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".mt"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malta.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Malte"
+        },
+        {
+            "category": "Am\u00e9rique du Nord",
+            "label": "Mexique",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Mexico"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "mx"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".mx"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mexico.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Mexique"
+        },
+        {
+            "category": "Europe",
+            "label": "Monaco",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Monaco-Ville"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "mc"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".mc"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Monaco.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Monaco"
+        },
+        {
+            "category": "Asie",
+            "label": "Mongolie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Oulan-Bator"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "mn"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".mn"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mongolia.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Mongolie"
+        },
+        {
+            "category": "Europe",
+            "label": "Mont\u00e9n\u00e9gro",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Podgorica"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "me"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".me"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Montenegro.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Mont%C3%A9n%C3%A9gro"
+        },
+        {
+            "category": "Afrique",
+            "label": "Nigeria",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Abuja"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "ng"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".ng"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Nigeria"
+        },
+        {
+            "category": "Europe",
+            "label": "Norv\u00e8ge",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Oslo"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "no"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".no"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Norway.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Norv%C3%A8ge"
+        },
+        {
+            "category": "Oc\u00e9anie",
+            "label": "Nouvelle-Z\u00e9lande",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Wellington"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "nz"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".nz"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20Zealand.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Nouvelle-Z%C3%A9lande"
+        },
+        {
+            "category": "Afrique",
+            "label": "Ouganda",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Kampala"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "ug"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".ug"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Ouganda"
+        },
+        {
+            "category": "Europe",
+            "label": "Pays-Bas",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Amsterdam"
+                    },
+                    {
+                        "tips": null,
+                        "value": "La Haye"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "nl"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".nl"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Netherlands.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Pays-Bas"
+        },
+        {
+            "category": "Asie",
+            "label": "Philippines",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Manille"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "ph"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".ph"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Philippines.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Philippines"
+        },
+        {
+            "category": "Europe",
+            "label": "Pologne",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Varsovie"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "pl"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".pl"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Poland.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Pologne"
+        },
+        {
+            "category": "Am\u00e9rique du Nord",
+            "label": "Porto Rico",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "San Juan"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "pr"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".pr"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Puerto%20Rico.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Porto_Rico"
+        },
+        {
+            "category": "Europe",
+            "label": "Portugal",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Lisbonne"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "pt"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".pt"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Portugal.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Portugal"
+        },
+        {
+            "category": "Am\u00e9rique du Sud",
+            "label": "P\u00e9rou",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Lima"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "pe"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".pe"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Peru.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/P%C3%A9rou"
+        },
+        {
+            "category": "Europe",
+            "label": "Roumanie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Bucarest"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "ro"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".ro"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Romania.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Roumanie"
+        },
+        {
+            "category": "Europe",
+            "label": "Royaume-Uni",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Londres"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "gb"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".gb"
+                    },
+                    {
+                        "tips": null,
+                        "value": ".uk"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Royaume-Uni"
+        },
+        {
+            "category": "Europe",
+            "label": "Russie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Moscou"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "ru"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".ru"
+                    },
+                    {
+                        "tips": null,
+                        "value": ".su"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Russia.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Russie"
+        },
+        {
+            "category": "Am\u00e9rique du Nord",
+            "label": "R\u00e9publique dominicaine",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Saint-Domingue"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "do"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".do"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Dominican%20Republic.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/R%C3%A9publique_dominicaine"
+        },
+        {
+            "category": "Europe",
+            "label": "Saint-Marin",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Saint-Marin"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "sm"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".sm"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20San%20Marino.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Saint-Marin"
+        },
+        {
+            "category": "Oc\u00e9anie",
+            "label": "Samoa am\u00e9ricaines",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Pago Pago"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "as"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".as"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20American%20Samoa.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Samoa_am%C3%A9ricaines"
+        },
+        {
+            "category": "Europe",
+            "label": "Serbie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Belgrade"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "rs"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".rs"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Serbia.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Serbie"
+        },
+        {
+            "category": "Asie",
+            "label": "Singapour",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Singapour"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "sg"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".sg"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Singapore.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Singapour"
+        },
+        {
+            "category": "Europe",
+            "label": "Slovaquie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Bratislava"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "sk"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".sk"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Slovakia.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Slovaquie"
+        },
+        {
+            "category": "Europe",
+            "label": "Slov\u00e9nie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Ljubljana"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "si"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".si"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Slovenia.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Slov%C3%A9nie"
+        },
+        {
+            "category": "Asie",
+            "label": "Sri Lanka",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Colombo"
+                    },
+                    {
+                        "tips": null,
+                        "value": "Sri Jayawardenapura"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "lk"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".lk"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Sri_Lanka"
+        },
+        {
+            "category": "Europe",
+            "label": "Suisse",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Berne"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "ch"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".swiss"
+                    },
+                    {
+                        "tips": null,
+                        "value": ".ch"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Suisse"
+        },
+        {
+            "category": "Europe",
+            "label": "Su\u00e8de",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Stockholm"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "se"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".se"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sweden.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Su%C3%A8de"
+        },
+        {
+            "category": "Afrique",
+            "label": "S\u00e9n\u00e9gal",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Dakar"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "sn"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".sn"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Senegal.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A9gal"
+        },
+        {
+            "category": "Asie",
+            "label": "Ta\u00efwan",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Taipei"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "tw"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".tw"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20China.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Ta%C3%AFwan"
+        },
+        {
+            "category": "Europe",
+            "label": "Tch\u00e9quie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Prague"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "cz"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".cz"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Czech%20Republic.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Tch%C3%A9quie"
+        },
+        {
+            "category": "Asie",
+            "label": "Tha\u00eflande",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Bangkok"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "th"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".th"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Thailand.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Tha%C3%AFlande"
+        },
+        {
+            "category": "Afrique",
+            "label": "Tunisie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Tunis"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "tn"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".tn"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tunisia.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Tunisie"
+        },
+        {
+            "category": "Asie",
+            "label": "Turquie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Ankara"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "tr"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".tr"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkey.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Turquie"
+        },
+        {
+            "category": "Europe",
+            "label": "Ukraine",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Kiev"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "ua"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".ua"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ukraine.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Ukraine"
+        },
+        {
+            "category": "Am\u00e9rique du Sud",
+            "label": "Uruguay",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Montevideo"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "uy"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".uy"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uruguay.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Uruguay"
+        },
+        {
+            "category": "Asie",
+            "label": "Vi\u00eat Nam",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Hano\u00ef"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "vn"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".vn"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vietnam.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Vi%C3%AAt_Nam"
+        },
+        {
+            "category": "Am\u00e9rique du Sud",
+            "label": "\u00c9quateur",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Quito"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "ec"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".ec"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ecuador.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89quateur_(pays)"
+        },
+        {
+            "category": "Am\u00e9rique du Nord",
+            "label": "\u00c9tats-Unis",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Washington"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "us"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".us"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/%C3%89tats-Unis"
+        },
+        {
+            "category": "Asie",
+            "label": "\u00cele Christmas",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Flying Fish Cove"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "cx"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".cx"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Christmas%20Island.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/%C3%8Ele_Christmas_(Australie)"
+        },
+        {
+            "category": "Europe",
+            "label": "\u00cele de Man",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Douglas"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "im"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".im"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Isle%20of%20Man.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/%C3%8Ele_de_Man"
+        },
+        {
+            "category": "Europe",
+            "label": "\u00celes F\u00e9ro\u00e9",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "T\u00f3rshavn"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "fo"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".fo"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Faroe%20Islands.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/%C3%8Eles_F%C3%A9ro%C3%A9"
+        },
+        {
+            "category": "Oc\u00e9anie",
+            "label": "\u00celes Mariannes du Nord",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Saipan"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "mp"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".mp"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Northern%20Mariana%20Islands.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/%C3%8Eles_Mariannes_du_Nord"
+        },
+        {
+            "category": "Am\u00e9rique du Nord",
+            "label": "\u00celes Vierges des \u00c9tats-Unis",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Charlotte Amalie"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "vi"
+                    }
+                ],
+                "Domaines Internet": [
+                    {
+                        "tips": null,
+                        "value": ".vi"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20States%20Virgin%20Islands.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/%C3%8Eles_Vierges_des_%C3%89tats-Unis"
+        }
+    ],
+    "properties": [
+        {
+            "img": "data/images/flags.png",
+            "input": "text",
+            "key": "Drapeaux",
+            "prompt": "image",
+            "settings": {}
+        },
+        {
+            "img": "data/images/capitals.png",
+            "input": "text",
+            "key": "Capitales",
+            "prompt": "text",
+            "settings": {}
+        },
+        {
+            "img": "data/images/domains.png",
+            "input": "text",
+            "key": "Domaines Internet",
+            "prompt": "text",
+            "settings": {}
+        },
+        {
+            "img": "data/images/map.png",
+            "input": "map",
+            "key": "Carte",
+            "prompt": "text",
+            "settings": {
+                "source": "data/polys/world.json"
+            }
+        }
+    ],
+    "title": "Couverture StreetView"
+}

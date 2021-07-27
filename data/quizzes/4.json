@@ -1,0 +1,159 @@
+{
+    "category": "Couverture StreetView \u2013 Asie",
+    "id": 4,
+    "input": "text",
+    "prompt": "image",
+    "questions": [
+        {
+            "answer": "Bangladesh",
+            "id": 0,
+            "label": "Bangladesh",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bangladesh\">Bangladesh (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bhoutan",
+            "id": 1,
+            "label": "Bhoutan",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bhutan.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bhoutan\">Bhoutan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cambodge",
+            "id": 2,
+            "label": "Cambodge",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cambodge\">Cambodge (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cor\u00e9e du Sud",
+            "id": 3,
+            "label": "Cor\u00e9e du Sud",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Korea.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cor%C3%A9e_du_Sud\">Cor\u00e9e du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Inde",
+            "id": 4,
+            "label": "Inde",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Inde\">Inde (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Indon\u00e9sie",
+            "id": 5,
+            "label": "Indon\u00e9sie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Indonesia.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indon%C3%A9sie\">Indon\u00e9sie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Isra\u00ebl",
+            "id": 6,
+            "label": "Isra\u00ebl",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Israel.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Isra%C3%ABl\">Isra\u00ebl (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Japon",
+            "id": 7,
+            "label": "Japon",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Japon\">Japon (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Jordanie",
+            "id": 8,
+            "label": "Jordanie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jordan.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Jordanie\">Jordanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Kirghizistan",
+            "id": 9,
+            "label": "Kirghizistan",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kyrgyzstan.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kirghizistan\">Kirghizistan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Laos",
+            "id": 10,
+            "label": "Laos",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Laos.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Laos\">Laos (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Malaisie",
+            "id": 11,
+            "label": "Malaisie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malaysia.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Malaisie\">Malaisie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mongolie",
+            "id": 12,
+            "label": "Mongolie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mongolia.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mongolie\">Mongolie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Philippines",
+            "id": 13,
+            "label": "Philippines",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Philippines.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Philippines\">Philippines (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Singapour",
+            "id": 14,
+            "label": "Singapour",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Singapore.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Singapour\">Singapour (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Sri Lanka",
+            "id": 15,
+            "label": "Sri Lanka",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Sri_Lanka\">Sri Lanka (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ta\u00efwan",
+            "id": 16,
+            "label": "Ta\u00efwan",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20China.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ta%C3%AFwan\">Ta\u00efwan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tha\u00eflande",
+            "id": 17,
+            "label": "Tha\u00eflande",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Thailand.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tha%C3%AFlande\">Tha\u00eflande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Turquie",
+            "id": 18,
+            "label": "Turquie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Turkey.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Turquie\">Turquie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vi\u00eat Nam",
+            "id": 19,
+            "label": "Vi\u00eat Nam",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vietnam.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vi%C3%AAt_Nam\">Vi\u00eat Nam (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00cele Christmas",
+            "id": 20,
+            "label": "\u00cele Christmas",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Christmas%20Island.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Ele_Christmas_(Australie)\">\u00cele Christmas (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 21,
+    "thumbnail": "data/thumbnails/4.jpg",
+    "title": "Drapeaux"
+}

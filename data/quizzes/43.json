@@ -1,0 +1,61 @@
+{
+    "category": "D\u00e9partements fran\u00e7ais \u2013 \u00cele-de-France",
+    "id": 43,
+    "input": "text",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "Essonne",
+            "id": 0,
+            "label": "\u00c9vry-Courcouronnes (Essonne)",
+            "prompt": "\u00c9vry-Courcouronnes",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Essonne_(d%C3%A9partement)\">Essonne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Hauts-de-Seine",
+            "id": 1,
+            "label": "Nanterre (Hauts-de-Seine)",
+            "prompt": "Nanterre",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hauts-de-Seine\">Hauts-de-Seine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Seine-Saint-Denis",
+            "id": 2,
+            "label": "Bobigny (Seine-Saint-Denis)",
+            "prompt": "Bobigny",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Seine-Saint-Denis\">Seine-Saint-Denis (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Seine-et-Marne",
+            "id": 3,
+            "label": "Melun (Seine-et-Marne)",
+            "prompt": "Melun",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Seine-et-Marne\">Seine-et-Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Val-d'Oise",
+            "id": 4,
+            "label": "Cergy (Val-d'Oise)",
+            "prompt": "Cergy",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Val-d%27Oise\">Val-d'Oise (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Val-de-Marne",
+            "id": 5,
+            "label": "Cr\u00e9teil (Val-de-Marne)",
+            "prompt": "Cr\u00e9teil",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Val-de-Marne\">Val-de-Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Yvelines",
+            "id": 6,
+            "label": "Versailles (Yvelines)",
+            "prompt": "Versailles",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Yvelines\">Yvelines (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 7,
+    "thumbnail": "data/thumbnails/43.jpg",
+    "title": "Pr\u00e9fectures"
+}

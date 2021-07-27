@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+        integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+        crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+        integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+        crossorigin=""></script>
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ychalier/pifekit/pifekit.css" />
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/ychalier/pifekit/pifekit.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/seedrandom/3.0.5/seedrandom.min.js"></script>
+    <link rel="icon" href="/assets/globe.png" />
+    <link rel="stylesheet" type="text/css" href="master.css" />
+    <title>Cuiz</title>
+    <script type="text/javascript" src="js/master.js"></script>
+    <script type="text/javascript" src="js/misc.js"></script>
+    <script type="text/javascript" src="js/history.js"></script>
+    <script type="text/javascript" src="js/storage.js"></script>
+    <script type="text/javascript" src="js/config.js"></script>
+    <script type="text/javascript" src="js/quiz.js"></script>
+    <script type="text/javascript" src="js/quiz-input.js"></script>
+    <script type="text/javascript" src="js/quiz-prompt.js"></script>
+    <script type="text/javascript" src="js/menu.js"></script>
+</head>
+
+<body class="dark">
+
+    <div id="confetti-container"></div>
+
+    <div class="columns">
+        <div class="column col-3 col-xl-2 col-lg-1 col-md-12 col-sm-12 col-xs-12"></div>
+        <div class="column col-6 col-xl-8 col-lg-10 col-md-12 col-sm-12 col-xs-12">
+            <div class="container">
+                <header class="navbar my-2">
+                    <section class="navbar-section">
+                        <a href="/" class="navbar-brand mr-2">Cuiz</a>
+                        <a onclick="showModal('modal-help')" class="btn btn-link">Aide</a>
+                    </section>
+                    <section class="navbar-section">
+                        <div class="input-group input-inline">
+                            <input style="border: none" id="input-search-quiz" class="form-input" type="text" placeholder="Chercher un quiz…">
+                        </div>
+                        <div class="dropdown dropdown-right">
+                            <a class="btn btn-link dropdown-toggle" tabindex="0"><i class="icon icon-gear"></i></a>
+                            <ul class="menu">
+                                <li class="menu-item">
+                                    <button class="btn btn-link" id="btn-clear-history">Effacer l'historique</button>
+                                </li>
+                                <li class="menu-item">
+                                    <button class="btn btn-link" id="btn-make-suggestion">Faire une suggestion</button>
+                                </li>
+                                <li class="menu-item">
+                                    <button class="btn btn-link" id="btn-open-config">Options</button>
+                                </li>
+                                <li class="menu-item">
+                                    <button class="btn btn-link" onclick="showModal('modal-upload-json')">Quiz personnalisé</button>
+                                </li>
+                            </ul>
+                        </div>
+                    </section>
+                </header>
+                <div id="main-container"></div>
+                <footer class="text-center my-2">
+                    <hr>
+                    <div>
+                        <a href="https://github.com/ychalier/cuiz">GitHub</a>&nbsp;&mdash;&nbsp;<a onclick="showModal('modal-legal')" href="javascript:void(0)">Mentions légales</a>
+                    </div>
+                    <div class="text-small">2021&nbsp;&ndash;&nbsp;Yohan Chalier&nbsp;&ndash;&nbsp;Tous droits réservés
+                    </div>
+                </footer>
+            </div>
+        </div>
+        <div class="column col-3 col-xl-2 col-lg-1 col-md-12 col-sm-12 col-xs-12"></div>
+    </div>
+
+    <template id="template-menu">
+        <div class="grid quiz-menu">
+            <div class="grid-sizer"></div>
+            <div class="gutter-sizer"></div>
+        </div>
+    </template>
+
+    <template id="template-menu-item">
+        <div class="grid-item quiz-menu-item">
+            <div class="card">
+                <div class="card-image">
+                    <img class="img-responsive quiz-thumbnail" alt="Miniature du quiz" />
+                </div>
+                <div class="card-header">
+                    <div class="card-title h5 quiz-title"></div>
+                    <div class="card-subtitle text-gray"><span class="quiz-category"></span></div>
+                </div>
+                
+                <div class="card-footer quiz-menu-item-footer">
+                    <div></div>
+                    <div class="quiz-pb"></div>
+                </div>
+            </div>
+        </div>
+    </template>
+
+    <template id="template-best-run">
+        <span class="run">
+            <i class="icon icon-trophy"></i>&nbsp;<span class="run-rating">&mdash;</span>&nbsp;&middot;&nbsp;<span class="run-time">&mdash;</span>
+        </span>
+    </template>
+
+    <template id="template-quiz">
+        <div class="quiz">
+            <div class="quiz-header">
+                <div class="quiz-header-title">
+                    <div>
+                        <span class="quiz-category"></span> &ndash; <span class="quiz-title"></span>
+                    </div>
+                    <div>
+                        <div class="quiz-test-on">
+                            <div class="popover popover-left">
+                                <a href="javascript:void(0)" style="text-decoration:none">🧠</a>
+                                <div class="popover-container">
+                                    <div class="card">
+                                        <div class="card-header">
+                                            <div class="card-title">Mode d'évaluation activé</div>
+                                            <div class="card-subtitle">Le score sera enregistré à la fin du quiz</div>
+                                        </div>
+                                        <div class="card-footer">
+                                            <button class="btn btn-link" onclick="GLOBAL_CONFIG.loadModeEasy()">Désactiver</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="quiz-test-off">
+                            <div class="popover popover-left">
+                                <a href="javascript:void(0)" style="text-decoration:none; opacity: 20%">🧠</a>
+                                <div class="popover-container">
+                                    <div class="card">
+                                        <div class="card-header">
+                                            <div class="card-title">Mode d'évaluation désactivé</div>
+                                            <div class="card-subtitle">Le score <b>ne sera pas</b> enregistré à la fin du quiz</div>
+                                        </div>
+                                        <div class="card-footer">
+                                            <button class="btn btn-primary" onclick="GLOBAL_CONFIG.loadModeTest()">Activer</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="quiz-progress">
+                    <progress class="progress quiz-progress-bar" value="0" max="1"></progress>
+                    <div class="quiz-progress-text"><span class="quiz-score" title="Score actuel"></span>&nbsp;&middot;&nbsp;<span class="quiz-time" title="Temps écoulé"></span></div>
+                </div>
+            </div>
+            <div class="quiz-prompt my-2"></div>
+            <div class="quiz-input"></div>
+            <div class="quiz-footer my-2">
+                <div>
+                    <span class="quiz-tries"></span>
+                </div>
+                <div>
+                    QUESTION #<span class="quiz-id"></span>.<span class="question-id"></span>
+                </div>
+                <div>
+                    <button class="btn btn-link btn-signal">Signaler</button>
+                    <button class="btn btn-link btn-terminate">Terminer</button>
+                    <button class="btn btn-link btn-restart">Recommencer</button>
+                </div>
+            </div>
+        </div>
+    </template>
+
+    <template id="template-prompt-image">
+        <img class="prompt-image img-responsive" alt="Image de la question" />
+        <div class="prompt-previous-answers hidden">
+            <small>Réponses précédentes&nbsp;: <span class="prompt-previous-answers-list"></span></small>
+        </div>
+    </template>
+
+    <template id="template-prompt-text">
+        <div class="prompt-text"></div>
+        <div class="prompt-previous-answers hidden">
+            <small>Réponses précédentes&nbsp;: <span class="prompt-previous-answers-list"></span></small>
+        </div>
+    </template>
+
+    <template id="template-prompt-sentence">
+        <div class="prompt-sentence"></div>
+        <button class="btn btn-action s-circle another-sentence" title="Afficher une autre phrase"><i
+                class="icon icon-refresh"></i></button>
+    </template>
+
+    <template id="template-input-text">
+        <form autocomplete="off">
+            <fieldset>
+                <div class="input-group has-icon-left">
+                    <input class="form-input" type="text" autocomplete="off" />
+                    <svg class="form-icon icon" id="text-input-icon" viewBox="0 0 6.2429136 6.2803506">
+                        <path
+                            d="M 4.5504173,3.1599426 1.6924963,0.30202162 Z m -2.858445,2.858444 2.858445,-2.858444 z m 2.858445,-2.858444 -2.857921,-2.85792098 m -5.24e-4,5.71636498 2.858445,-2.858444 z">
+                            <animate id="animToCross" begin="indefinite" attributeName="d" dur="0.2s" fill="freeze"
+                                to="m 3.1225045,3.1225045 2.858445,-2.858444 z m 2.858444,2.858445 -2.858444,-2.858445 z m -2.858444,-2.858445 -2.857921,-2.857921 m -5.24e-4,5.716365 2.858445,-2.858444 z">
+                            </animate>
+                            <animate id="animToCheck" begin="indefinite" attributeName="d" dur="0.2s" fill="freeze"
+                                to="M 2.9235634,5.9782394 5.7633024,0.26134938 Z M 5.7633024,0.26134938 2.9235634,5.9782394 Z M 2.9235634,5.9782394 0.48124937,3.9034194 m 0,0 2.44231403,2.07482 z">
+                            </animate>
+                            <animate id="animToTag" begin="indefinite" attributeName="d" dur="0.2s" fill="freeze"
+                                to="M 4.5504173,3.1599426 1.6924963,0.30202162 Z m -2.858445,2.858444 2.858445,-2.858444 z m 2.858445,-2.858444 -2.857921,-2.85792098 m -5.24e-4,5.71636498 2.858445,-2.858444 z">
+                            </animate>
+                        </path>
+                    </svg>
+                </div>
+            </fieldset>
+        </form>
+        <div class="autocomplete"></div>
+        <div class="answer collapsible card">
+            <div class="card-header">
+                <div class="card-title h5"><b class="answer-value"></b></div>
+            </div>
+            <div class="card-body answer-tips"></div>
+            <div class="card-footer">
+                <button class="btn btn-link answer-close">Ok</button>
+            </div>
+        </div>
+    </template>
+
+    <template id="template-input-map">
+        <div class="input-map video-responsive"></div>
+    </template>
+
+    <template id="template-quiz-end">
+
+        <div class="card my-2">
+            <div class="card-header">
+                <div class="card-title h5 quiz-title"></div>
+                <div class="card-subtitle quiz-pb" title="Meilleur score"></div>
+            </div>
+            <div class="card-body">
+                <div class="card-hero quiz-summary">
+                    <div class="columns my-2">
+                        <div class="column col-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 text-right">
+                            <div class="result-column">
+                                <i class="icon icon-task"></i>
+                                &nbsp;
+                                <span class="quiz-rating"></span><small>%</small>
+                            </div>
+                        </div>
+                        <div class="column col-6 col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 text-left">
+                            <div class="result-column">
+                                <i class="icon icon-timer"></i>
+                                &nbsp;
+                                <span class="quiz-time"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-hero quiz-new-record">
+                    <span>NOUVEAU RECORD</span>
+                    <form id="form-share-record">
+                        <div class="form-group">
+                            <div class="input-group">
+                                <input class="form-input text-uppercase" name="name" placeholder="AAA" type="text" minlength="3" maxlength="3" size="3" required spellcheck="false"/>
+                                <button class="btn input-group-button">Partager</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="card-footer">
+                <button class="btn btn-primary button-restart">Recommencer</button>
+                <a href="/" class="btn">Menu</a>
+            </div>
+        </div>
+
+        <div class="columns my-2">
+
+            <div class="column col-6 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+                <div class="card my-2">
+                    <div class="card-header">
+                        <div class="card-title h5 quiz-title">Classement</div>
+                    </div>
+                    <div class="card-body">
+                        <div class="quiz-leaderboard"></div>
+                    </div>
+                </div>
+
+                <div class="card my-2">
+                    <div class="card-header">
+                        <div class="card-title h5 quiz-title">Historique</div>
+                        <div class="card-subtitle"><span class="quiz-attempts"></span></div>
+                    </div>
+                    <div class="card-body">
+                        <div class="chart-container" style="position: relative; width: 100%; height: 16em">
+                            <canvas id="quiz-history-chart" ></canvas>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <button class="btn btn-primary btn-erase-quiz-history">Effacer</button>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="column col-6 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12">
+
+                <div class="card my-2">
+                    <div class="card-header">
+                        <div class="card-title h5">Réponses</div>
+                    </div>
+                    <div class="card-body">
+                        <table class="table table-scroll answers"></table>
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+
+    </template>
+
+    <template id="template-answer-time">
+        <div class="answer-time">
+            <div class="answer-time-duration">
+                <i class="icon icon-timer"></i> <span class="answer-time-value"></span> <small>s</small>
+            </div>
+            <div class="answer-time-bar">
+                <div class="answer-time-bar-filled"></div>
+            </div>
+        </div>
+    </template>
+
+    <template id="template-leaderboard">
+        <table class="table text-center table-condensed">
+            <tr class="text-secondary">
+                <th>Rang</th>
+                <th>Joueur</th>
+                <th>Score</th>
+                <th>Temps</th>
+                <th>Date</th>
+            </tr>
+        </table>
+    </template>
+
+    <div class="modal" id="modal-config">
+        <span class="modal-overlay" aria-label="Close" onclick="closeModal('modal-config')"></span>
+        <div class="modal-container">
+            <div class="modal-header">
+                <span class="btn btn-clear float-right" onclick="closeModal('modal-config')" aria-label="Close"></span>
+                <div class="modal-title h5">Options</div>
+                <div class="modal-subtitle text-gray">La configuration des quizs influe sur leur difficulté, vous pouvez l'adapter en fonction de votre progression</div>
+            </div>
+            <div class="modal-body">
+                <div class="btn-group btn-group-block">
+                    <button class="btn" id="btn-load-config-easy" onclick="GLOBAL_CONFIG.loadModeEasy();">Découverte</button>
+                    <button class="btn" id="btn-load-config-medium" onclick="GLOBAL_CONFIG.loadModeMedium();">Intermédiaire</button>
+                    <button class="btn" id="btn-load-config-test" onclick="GLOBAL_CONFIG.loadModeTest();">Évalutation</button>
+                </div>
+                <p class="form-input-hint">
+                    Pour enregistrer un score, et éventuellement le partager publiquement, il est nécessaire d'être en mode évaluation dès le début du quiz.
+                </p>
+                <form class="form-config">
+                    <h6>Général</h6>
+                    <div class="form-group">
+                        <label class="form-label" for="input-config-maxAttempts">Nombre d'essais par question</label>
+                        <input class="form-input" id="input-config-maxAttempts" type="number" placeholder="1, 2, …"
+                            min="1" />
+                    </div>
+                    <div class="form-group">
+                        <label class="form-switch">
+                            <input type="checkbox" id="input-config-showCorrectAnswer" />
+                            <i class="form-icon"></i> Donner les bonnes réponses en cas d'erreur
+                        </label>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-switch">
+                            <input type="checkbox" id="input-config-askAgain" />
+                            <i class="form-icon"></i> Reposer les questions échouées
+                        </label>
+                    </div>
+                    <br>
+                    <h6>Saisie textuelle</h6>
+                    <div class="form-group">
+                        <label class="form-switch">
+                            <input type="checkbox" id="input-config-displayAutocomplete" />
+                            <i class="form-icon"></i> Afficher les suggestions d'auto-complétion
+                        </label>
+                    </div>
+                    <br>
+                    <h6>Carte</h6>
+                    <div class="form-group">
+                        <label class="form-switch">
+                            <input type="checkbox" id="input-config-showBorders" />
+                            <i class="form-icon"></i> Afficher les frontières
+                        </label>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-switch">
+                            <input type="checkbox" id="input-config-keepTrace" />
+                            <i class="form-icon"></i> Laisser affichées les réponses précédentes
+                        </label>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" id="modal-signal">
+        <span class="modal-overlay" aria-label="Close" onclick="closeModal('modal-signal')"></span>
+        <div class="modal-container">
+            <div class="modal-header">
+                <span class="btn btn-clear float-right" onclick="closeModal('modal-signal')" aria-label="Close"></span>
+                <div class="modal-title h5">Faire un signalement</div>
+                <div class="modal-subtitle text-gray">Merci de nous signaler toute erreur ou imprécision dans les quizs&nbsp;!</div>
+            </div>
+            <form id="form-signal">
+                <div class="modal-body">
+                    <input type="number" name="quizId" disabled hidden />
+                    <input type="number" name="questionId" disabled hidden />
+                    <div class="form-group">
+                        <label class="form-label">Raison du signalement</label>
+                        <select class="form-select" name="reason">
+                            <option value="suggestion">Faire une suggestion</option>
+                            <option value="promptWrong">La question est mal formulée ou incorrecte</option>
+                            <option value="answerWrong">La réponse est fausse</option>
+                            <option value="tipsWrong">Le conseil est faux ou imprécis</option>
+                            <option value="other">Autre</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Commentaire</label>
+                        <textarea class="form-input" name="comment"></textarea>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-primary">Signaler</button>
+                    <a class="btn btn-link" onclick="closeModal('modal-signal')">Annuler</a>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="modal" id="modal-upload-json">
+        <span class="modal-overlay" aria-label="Close" onclick="closeModal('modal-upload-json')"></span>
+        <div class="modal-container">
+            <div class="modal-header">
+                <span class="btn btn-clear float-right" onclick="closeModal('modal-upload-json')" aria-label="Close"></span>
+                <div class="modal-title h5">Quiz personnalisé</div>
+                <div class="modal-subtitle text-gray">Jouer à un quiz non-officiel en utilisant un fichier au <a>format défini ici</a></div>
+            </div>
+            <form id="form-upload-json">
+                <div class="modal-body">
+                    <div class="form-group">
+                        <label class="form-label">Téléverser un fichier JSON</label>
+                        <input class="form-input" type="file" name="upload-json-file" />
+                    </div>
+                    <div class="divider text-center" data-content="OU"></div>
+                    <div class="form-group">
+                        <label class="form-label">Utiliser une URL vers un fichier JSON</label>
+                        <input class="form-input" type="url" name="upload-json-url" />
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <input type="submit" class="btn btn-primary" value="Jouer"/>
+                    <button class="btn btn-link" onclick="closeModal('modal-upload-json')">Annuler</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="modal" id="modal-help">
+        <span class="modal-overlay" aria-label="Close" onclick="closeModal('modal-help')"></span>
+        <div class="modal-container">
+            <div class="modal-header">
+                <span class="btn btn-clear float-right" onclick="closeModal('modal-help')" aria-label="Close"></span>
+                <div class="modal-title h5">Aide</div>
+                <div class="modal-subtitle">Voici quelques explications sur le fonctionnement de ce site.</div>
+            </div>
+            <div class="modal-body">
+                <h6>Mode d'évaluation</h6>
+                <p>
+                    Le menu &laquo;&nbsp;Options&nbsp;&raquo; propose plusieurs niveaux de
+                    difficulté. Afin que le score d'un quiz soit enregistré, il faut jouer en mode
+                    &laquo;&nbsp;évaluation&nbsp;&raquo;. Le résultat du quiz sera alors stocké
+                    dans la mémoire locale et affiché dans le petit graphique d'historique. S'il
+                    s'agit d'un nouveau record, il sera également possible de le partager dans le
+                    tableau des scores public.
+                </p>
+                <p>
+                    Durant un quiz, un petit icone 🧠, dans la barre de titre du quiz, indique si le
+                    mode évaluation est activé. Si l'icone est transparent, le mode est désactivé. Il
+                    est alors possible de l'activer en cliquer sur le 🧠. 
+                </p>
+                <h6>Saisie textuelle</h6>
+                <p>
+                    Pour faciliter la saisie des réponses pour les quizs à réponses textuelle, il
+                    existe une fonctionnalité d'auto-complétion. En tapant quelques lettres dans
+                    la barre de réponse, des suggestions s'affichent. Il n'est pas nécessaire de
+                    respecter la casse ou les accents. Pour valider une de ces suggestions, il faut
+                    soit cliquer dessus, soit, s'il n'y en a qu'une de proposée, appuyer sur la
+                    touche <kbd>TAB</kbd>. Attention&nbsp;: cela validera automatiquement la
+                    réponse, même si elle est erronée&nbsp;!
+                </p>
+                <h6>Affichage de la correction sur une carte</h6>
+                <p>
+                    Lorsque le quiz nécessite de pointer des zones sur une carte, que l'on se
+                    trompe lors d'une question et que le paramètre &laquo;&nbsp;Donner les bonnes
+                    réponses en cas d'erreur&nbsp;&raquo; est activé, la zone qu'il fallait
+                    cliquer devient orange et un marqueur se pose dessus. Le quiz est bloqué tant
+                    que l'utilisateur ne clique pas sur ce marqueur.
+                </p>
+                <h6>Chercher un quiz</h6>
+                <p>
+                    Les quizs sont organisés par thèmes (drapeaux, capitales, …) et par catégories
+                    (pays StreetView-és, départements français, …). Pour rapidement accéder à un
+                    quiz en particulier, vous pouvez utiliser la barre de recherche située dans la
+                    barre de menu, en tapant un thème ou une catégorie.
+                </p>
+                <h6>Lien vers un quiz</h6>
+                <p>
+                    Chaque quiz possède un identifiant. Pour obtenir l'identifiant d'un quiz,
+                    lancez-le. En bas de la fenêtre se trouve l'identifiant de la question, sous la
+                    forme <code>QUESTION #XXX.YYY</code>. L'identifiant du quiz est le nombre avant
+                    le point (<code>XXX</code>). Vous pouvez utiliser cet identifiant pour accéder
+                    directement à un quiz, sans passer par le menu, en passant par l'adresse
+                    suivante&nbsp;: <code>https://ychalier.github.io/cuiz/?quiz=XXX</code>.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal" id="modal-legal">
+        <span class="modal-overlay" aria-label="Close" onclick="closeModal('modal-legal')"></span>
+        <div class="modal-container">
+            <div class="modal-header">
+                <span class="btn btn-clear float-right" onclick="closeModal('modal-legal')" aria-label="Close"></span>
+                <div class="modal-title h5">Mentions légales</div>
+            </div>
+            <div class="modal-body">
+                <p>
+                    Ce site est édité par Yohan CHALIER et hébergé sur la plateforme <a href="https://github.com/">GitHub</a>.
+                </p>
+                <ul>
+                    <li>Email&nbsp;: <u>yohan@chalier.fr</u></li>
+                    <li>Site Web&nbsp;: <a href="https://chalier.fr">https://chalier.fr</a>
+                </ul>
+                <h6>Respect de la vie privée</h6>
+                <p>
+                    Ce site ne récolte aucune donnée de traçage. Les historiques des quizs sont stockés localement
+                    par le navigateur. Seuls les records manuellement partagés sont enregistrés.
+                </p>
+                <p>
+                    Pour toute question regardant les données personnelles, merci de me contacter à l'adresse
+                    <u>yohan@chalier.fr</u>.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+        window.addEventListener("load", onWindowLoad);
+    </script>
+
+</body>
+
+</html>

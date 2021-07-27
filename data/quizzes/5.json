@@ -1,0 +1,313 @@
+{
+    "category": "Couverture StreetView \u2013 Europe",
+    "id": 5,
+    "input": "text",
+    "prompt": "image",
+    "questions": [
+        {
+            "answer": "Albanie",
+            "id": 0,
+            "label": "Albanie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Albania.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Albanie\">Albanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Allemagne",
+            "id": 1,
+            "label": "Allemagne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Allemagne\">Allemagne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Andorre",
+            "id": 2,
+            "label": "Andorre",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Andorra.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Andorre\">Andorre (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Autriche",
+            "id": 3,
+            "label": "Autriche",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Austria.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Autriche\">Autriche (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Belgique",
+            "id": 4,
+            "label": "Belgique",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belgium%20%28civil%29.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Belgique\">Belgique (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bulgarie",
+            "id": 5,
+            "label": "Bulgarie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bulgaria.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bulgarie\">Bulgarie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Croatie",
+            "id": 6,
+            "label": "Croatie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Croatia.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Croatie\">Croatie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Danemark",
+            "id": 7,
+            "label": "Danemark",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Denmark.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Danemark\">Danemark (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Espagne",
+            "id": 8,
+            "label": "Espagne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Espagne\">Espagne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Estonie",
+            "id": 9,
+            "label": "Estonie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Estonia.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Estonie\">Estonie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Finlande",
+            "id": 10,
+            "label": "Finlande",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Finland.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Finlande\">Finlande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "France",
+            "id": 11,
+            "label": "France",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20France.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/France\">France (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Gibraltar",
+            "id": 12,
+            "label": "Gibraltar",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Gibraltar.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Gibraltar\">Gibraltar (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Gr\u00e8ce",
+            "id": 13,
+            "label": "Gr\u00e8ce",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Greece.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Gr%C3%A8ce\">Gr\u00e8ce (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Hongrie",
+            "id": 14,
+            "label": "Hongrie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hungary.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hongrie\">Hongrie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Irlande",
+            "id": 15,
+            "label": "Irlande",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ireland.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Irlande_(pays)\">Irlande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Islande",
+            "id": 16,
+            "label": "Islande",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iceland.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Islande\">Islande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Italie",
+            "id": 17,
+            "label": "Italie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Italie\">Italie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Jersey",
+            "id": 18,
+            "label": "Jersey",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jersey.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Jersey\">Jersey (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Lettonie",
+            "id": 19,
+            "label": "Lettonie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Latvia.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lettonie\">Lettonie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Lituanie",
+            "id": 20,
+            "label": "Lituanie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lithuania.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lituanie\">Lituanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Luxembourg",
+            "id": 21,
+            "label": "Luxembourg",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Luxembourg.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Luxembourg\">Luxembourg (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mac\u00e9doine du Nord",
+            "id": 22,
+            "label": "Mac\u00e9doine du Nord",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Macedonia.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mac%C3%A9doine_du_Nord\">Mac\u00e9doine du Nord (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Malte",
+            "id": 23,
+            "label": "Malte",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Malta.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Malte\">Malte (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Monaco",
+            "id": 24,
+            "label": "Monaco",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Monaco.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Monaco\">Monaco (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mont\u00e9n\u00e9gro",
+            "id": 25,
+            "label": "Mont\u00e9n\u00e9gro",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Montenegro.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mont%C3%A9n%C3%A9gro\">Mont\u00e9n\u00e9gro (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Norv\u00e8ge",
+            "id": 26,
+            "label": "Norv\u00e8ge",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Norway.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Norv%C3%A8ge\">Norv\u00e8ge (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pays-Bas",
+            "id": 27,
+            "label": "Pays-Bas",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Netherlands.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pays-Bas\">Pays-Bas (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pologne",
+            "id": 28,
+            "label": "Pologne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Poland.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pologne\">Pologne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Portugal",
+            "id": 29,
+            "label": "Portugal",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Portugal.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Portugal\">Portugal (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Roumanie",
+            "id": 30,
+            "label": "Roumanie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Romania.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Roumanie\">Roumanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Royaume-Uni",
+            "id": 31,
+            "label": "Royaume-Uni",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20United%20Kingdom.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Royaume-Uni\">Royaume-Uni (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Russie",
+            "id": 32,
+            "label": "Russie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Russia.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Russie\">Russie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Saint-Marin",
+            "id": 33,
+            "label": "Saint-Marin",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20San%20Marino.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Saint-Marin\">Saint-Marin (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Serbie",
+            "id": 34,
+            "label": "Serbie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Serbia.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Serbie\">Serbie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Slovaquie",
+            "id": 35,
+            "label": "Slovaquie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Slovakia.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Slovaquie\">Slovaquie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Slov\u00e9nie",
+            "id": 36,
+            "label": "Slov\u00e9nie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Slovenia.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Slov%C3%A9nie\">Slov\u00e9nie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Suisse",
+            "id": 37,
+            "label": "Suisse",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Suisse\">Suisse (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Su\u00e8de",
+            "id": 38,
+            "label": "Su\u00e8de",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sweden.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Su%C3%A8de\">Su\u00e8de (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tch\u00e9quie",
+            "id": 39,
+            "label": "Tch\u00e9quie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Czech%20Republic.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tch%C3%A9quie\">Tch\u00e9quie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ukraine",
+            "id": 40,
+            "label": "Ukraine",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ukraine.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ukraine\">Ukraine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00cele de Man",
+            "id": 41,
+            "label": "\u00cele de Man",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Isle%20of%20Man.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Ele_de_Man\">\u00cele de Man (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00celes F\u00e9ro\u00e9",
+            "id": 42,
+            "label": "\u00celes F\u00e9ro\u00e9",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Faroe%20Islands.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Eles_F%C3%A9ro%C3%A9\">\u00celes F\u00e9ro\u00e9 (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 43,
+    "thumbnail": "data/thumbnails/5.jpg",
+    "title": "Drapeaux"
+}

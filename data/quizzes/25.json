@@ -1,0 +1,161 @@
+{
+    "category": "Couverture StreetView \u2013 Asie",
+    "id": 25,
+    "input": "map",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "bd",
+            "id": 0,
+            "label": "Bangladesh",
+            "prompt": "Bangladesh",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bangladesh\">Bangladesh (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "bt",
+            "id": 1,
+            "label": "Bhoutan",
+            "prompt": "Bhoutan",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bhoutan\">Bhoutan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "kh",
+            "id": 2,
+            "label": "Cambodge",
+            "prompt": "Cambodge",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cambodge\">Cambodge (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "kr",
+            "id": 3,
+            "label": "Cor\u00e9e du Sud",
+            "prompt": "Cor\u00e9e du Sud",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cor%C3%A9e_du_Sud\">Cor\u00e9e du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "in",
+            "id": 4,
+            "label": "Inde",
+            "prompt": "Inde",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Inde\">Inde (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "id",
+            "id": 5,
+            "label": "Indon\u00e9sie",
+            "prompt": "Indon\u00e9sie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indon%C3%A9sie\">Indon\u00e9sie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "il",
+            "id": 6,
+            "label": "Isra\u00ebl",
+            "prompt": "Isra\u00ebl",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Isra%C3%ABl\">Isra\u00ebl (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "jp",
+            "id": 7,
+            "label": "Japon",
+            "prompt": "Japon",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Japon\">Japon (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "jo",
+            "id": 8,
+            "label": "Jordanie",
+            "prompt": "Jordanie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Jordanie\">Jordanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "kg",
+            "id": 9,
+            "label": "Kirghizistan",
+            "prompt": "Kirghizistan",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kirghizistan\">Kirghizistan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "la",
+            "id": 10,
+            "label": "Laos",
+            "prompt": "Laos",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Laos\">Laos (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "my",
+            "id": 11,
+            "label": "Malaisie",
+            "prompt": "Malaisie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Malaisie\">Malaisie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "mn",
+            "id": 12,
+            "label": "Mongolie",
+            "prompt": "Mongolie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mongolie\">Mongolie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "ph",
+            "id": 13,
+            "label": "Philippines",
+            "prompt": "Philippines",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Philippines\">Philippines (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "sg",
+            "id": 14,
+            "label": "Singapour",
+            "prompt": "Singapour",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Singapour\">Singapour (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "lk",
+            "id": 15,
+            "label": "Sri Lanka",
+            "prompt": "Sri Lanka",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Sri_Lanka\">Sri Lanka (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "tw",
+            "id": 16,
+            "label": "Ta\u00efwan",
+            "prompt": "Ta\u00efwan",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ta%C3%AFwan\">Ta\u00efwan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "th",
+            "id": 17,
+            "label": "Tha\u00eflande",
+            "prompt": "Tha\u00eflande",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tha%C3%AFlande\">Tha\u00eflande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "tr",
+            "id": 18,
+            "label": "Turquie",
+            "prompt": "Turquie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Turquie\">Turquie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "vn",
+            "id": 19,
+            "label": "Vi\u00eat Nam",
+            "prompt": "Vi\u00eat Nam",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vi%C3%AAt_Nam\">Vi\u00eat Nam (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "cx",
+            "id": 20,
+            "label": "\u00cele Christmas",
+            "prompt": "\u00cele Christmas",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Ele_Christmas_(Australie)\">\u00cele Christmas (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {
+        "source": "data/polys/world.json"
+    },
+    "size": 21,
+    "thumbnail": "data/thumbnails/25.jpg",
+    "title": "Carte"
+}

@@ -1,0 +1,40 @@
+{
+    "category": "Langues \u2013 Europe du Nord-Est",
+    "id": 34,
+    "input": "text",
+    "prompt": "sentence",
+    "questions": [
+        {
+            "answer": "Estonien",
+            "id": 0,
+            "label": "Estonien",
+            "prompt": "est",
+            "tips": "Similaire au finnois. Lettre <b>\u00f5</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Estonien\">Estonien (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Letton",
+            "id": 1,
+            "label": "Letton",
+            "prompt": "lvs",
+            "tips": "Lettres <b>\u013c</b>, <b>\u0137</b>, <b>\u0146</b>, <b>\u0101</b>, <b>\u0113</b>, <b>\u012b</b>, <b>\u014d</b>, <b>\u016b</b> et <b>\u017e</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Letton\">Letton (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Lituanien",
+            "id": 2,
+            "label": "Lituanien",
+            "prompt": "lit",
+            "tips": "La lettre <b>\u0117</b> est unique. Lettres <b>\u0161</b>, <b>\u017e</b>, <b>\u016b</b> et <b>\u010d</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lituanien\">Lituanien (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Polonais",
+            "id": 3,
+            "label": "Polonais",
+            "prompt": "pol",
+            "tips": "Beaucoup de <b>z</b>, souvent de la forme <b>rz</b>, <b>sz</b> ou <b>cz</b>. Lettres <b>\u00f3</b>, <b>\u0142</b>, <b>\u017c</b>, <b>\u015b</b>, <b>\u0229</b> et <b>\u0144</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Polonais\">Polonais (Wikip\u00e9dia)</a>."
+        }
+    ],
+    "settings": {},
+    "size": 4,
+    "thumbnail": "data/thumbnails/34.jpg",
+    "title": "Phrases"
+}

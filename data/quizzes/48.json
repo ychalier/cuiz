@@ -1,0 +1,677 @@
+{
+    "category": "D\u00e9partements fran\u00e7ais \u2013 Totalit\u00e9",
+    "id": 48,
+    "input": "text",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "Ain",
+            "id": 0,
+            "label": "01 (Ain)",
+            "prompt": "01",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ain_(d%C3%A9partement)\">Ain (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Aisne",
+            "id": 1,
+            "label": "02 (Aisne)",
+            "prompt": "02",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Aisne_(d%C3%A9partement)\">Aisne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Allier",
+            "id": 2,
+            "label": "03 (Allier)",
+            "prompt": "03",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Allier_(d%C3%A9partement)\">Allier (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Alpes-Maritimes",
+            "id": 3,
+            "label": "06 (Alpes-Maritimes)",
+            "prompt": "06",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Alpes-Maritimes\">Alpes-Maritimes (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Alpes-de-Haute-Provence",
+            "id": 4,
+            "label": "04 (Alpes-de-Haute-Provence)",
+            "prompt": "04",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Alpes-de-Haute-Provence\">Alpes-de-Haute-Provence (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ardennes",
+            "id": 5,
+            "label": "08 (Ardennes)",
+            "prompt": "08",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ardennes_(d%C3%A9partement)\">Ardennes (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ard\u00e8che",
+            "id": 6,
+            "label": "07 (Ard\u00e8che)",
+            "prompt": "07",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ard%C3%A8che_(d%C3%A9partement)\">Ard\u00e8che (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ari\u00e8ge",
+            "id": 7,
+            "label": "09 (Ari\u00e8ge)",
+            "prompt": "09",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ari%C3%A8ge_(d%C3%A9partement)\">Ari\u00e8ge (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Aube",
+            "id": 8,
+            "label": "10 (Aube)",
+            "prompt": "10",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Aube_(d%C3%A9partement)\">Aube (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Aude",
+            "id": 9,
+            "label": "11 (Aude)",
+            "prompt": "11",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Aude_(d%C3%A9partement)\">Aude (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Aveyron",
+            "id": 10,
+            "label": "12 (Aveyron)",
+            "prompt": "12",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Aveyron_(d%C3%A9partement)\">Aveyron (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bas-Rhin",
+            "id": 11,
+            "label": "67 (Bas-Rhin)",
+            "prompt": "67",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bas-Rhin\">Bas-Rhin (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bouches-du-Rh\u00f4ne",
+            "id": 12,
+            "label": "13 (Bouches-du-Rh\u00f4ne)",
+            "prompt": "13",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bouches-du-Rh%C3%B4ne\">Bouches-du-Rh\u00f4ne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Calvados",
+            "id": 13,
+            "label": "14 (Calvados)",
+            "prompt": "14",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Calvados_(d%C3%A9partement)\">Calvados (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cantal",
+            "id": 14,
+            "label": "15 (Cantal)",
+            "prompt": "15",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cantal_(d%C3%A9partement)\">Cantal (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Charente",
+            "id": 15,
+            "label": "16 (Charente)",
+            "prompt": "16",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Charente-Maritime\">Charente (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Charente-Maritime",
+            "id": 16,
+            "label": "17 (Charente-Maritime)",
+            "prompt": "17",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Charente-Maritime\">Charente-Maritime (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cher",
+            "id": 17,
+            "label": "18 (Cher)",
+            "prompt": "18",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cher_(d%C3%A9partement)\">Cher (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Corr\u00e8ze",
+            "id": 18,
+            "label": "19 (Corr\u00e8ze)",
+            "prompt": "19",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Corr%C3%A8ze_(d%C3%A9partement)\">Corr\u00e8ze (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Corse-du-Sud",
+            "id": 19,
+            "label": "2A (Corse-du-Sud)",
+            "prompt": "2A",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Corse-du-Sud\">Corse-du-Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Creuse",
+            "id": 20,
+            "label": "23 (Creuse)",
+            "prompt": "23",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Creuse_(d%C3%A9partement)\">Creuse (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "C\u00f4te-d'Or",
+            "id": 21,
+            "label": "21 (C\u00f4te-d'Or)",
+            "prompt": "21",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/C%C3%B4te-d%27Or\">C\u00f4te-d'Or (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "C\u00f4tes-d'Armor",
+            "id": 22,
+            "label": "22 (C\u00f4tes-d'Armor)",
+            "prompt": "22",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/C%C3%B4tes-d%27Armor\">C\u00f4tes-d'Armor (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Deux-S\u00e8vres",
+            "id": 23,
+            "label": "79 (Deux-S\u00e8vres)",
+            "prompt": "79",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Deux-S%C3%A8vres\">Deux-S\u00e8vres (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Dordogne",
+            "id": 24,
+            "label": "24 (Dordogne)",
+            "prompt": "24",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Dordogne_(d%C3%A9partement)\">Dordogne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Doubs",
+            "id": 25,
+            "label": "25 (Doubs)",
+            "prompt": "25",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Doubs_(d%C3%A9partement)\">Doubs (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Dr\u00f4me",
+            "id": 26,
+            "label": "26 (Dr\u00f4me)",
+            "prompt": "26",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Dr%C3%B4me_(d%C3%A9partement)\">Dr\u00f4me (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Essonne",
+            "id": 27,
+            "label": "91 (Essonne)",
+            "prompt": "91",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Essonne_(d%C3%A9partement)\">Essonne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Eure",
+            "id": 28,
+            "label": "27 (Eure)",
+            "prompt": "27",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Eure_(d%C3%A9partement)\">Eure (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Eure-et-Loir",
+            "id": 29,
+            "label": "28 (Eure-et-Loir)",
+            "prompt": "28",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Eure-et-Loir\">Eure-et-Loir (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Finist\u00e8re",
+            "id": 30,
+            "label": "29 (Finist\u00e8re)",
+            "prompt": "29",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Finist%C3%A8re\">Finist\u00e8re (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Gard",
+            "id": 31,
+            "label": "30 (Gard)",
+            "prompt": "30",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Gard\">Gard (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Gers",
+            "id": 32,
+            "label": "32 (Gers)",
+            "prompt": "32",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Gers_(d%C3%A9partement)\">Gers (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Gironde",
+            "id": 33,
+            "label": "33 (Gironde)",
+            "prompt": "33",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Gironde_(d%C3%A9partement)\">Gironde (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haut-Rhin",
+            "id": 34,
+            "label": "68 (Haut-Rhin)",
+            "prompt": "68",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haut-Rhin\">Haut-Rhin (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Corse",
+            "id": 35,
+            "label": "2B (Haute-Corse)",
+            "prompt": "2B",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Corse\">Haute-Corse (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Garonne",
+            "id": 36,
+            "label": "31 (Haute-Garonne)",
+            "prompt": "31",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Garonne\">Haute-Garonne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Loire",
+            "id": 37,
+            "label": "43 (Haute-Loire)",
+            "prompt": "43",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Loire\">Haute-Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Marne",
+            "id": 38,
+            "label": "52 (Haute-Marne)",
+            "prompt": "52",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Marne\">Haute-Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Savoie",
+            "id": 39,
+            "label": "74 (Haute-Savoie)",
+            "prompt": "74",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Savoie\">Haute-Savoie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Sa\u00f4ne",
+            "id": 40,
+            "label": "70 (Haute-Sa\u00f4ne)",
+            "prompt": "70",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Sa%C3%B4ne\">Haute-Sa\u00f4ne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Vienne",
+            "id": 41,
+            "label": "87 (Haute-Vienne)",
+            "prompt": "87",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Vienne\">Haute-Vienne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Hautes-Alpes",
+            "id": 42,
+            "label": "05 (Hautes-Alpes)",
+            "prompt": "05",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hautes-Alpes\">Hautes-Alpes (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Hautes-Pyr\u00e9n\u00e9es",
+            "id": 43,
+            "label": "65 (Hautes-Pyr\u00e9n\u00e9es)",
+            "prompt": "65",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hautes-Pyr%C3%A9n%C3%A9es\">Hautes-Pyr\u00e9n\u00e9es (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Hauts-de-Seine",
+            "id": 44,
+            "label": "92 (Hauts-de-Seine)",
+            "prompt": "92",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hauts-de-Seine\">Hauts-de-Seine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "H\u00e9rault",
+            "id": 45,
+            "label": "34 (H\u00e9rault)",
+            "prompt": "34",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/H%C3%A9rault_(d%C3%A9partement)\">H\u00e9rault (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ille-et-Vilaine",
+            "id": 46,
+            "label": "35 (Ille-et-Vilaine)",
+            "prompt": "35",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ille-et-Vilaine\">Ille-et-Vilaine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Indre",
+            "id": 47,
+            "label": "36 (Indre)",
+            "prompt": "36",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indre_(d%C3%A9partement)\">Indre (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Indre-et-Loire",
+            "id": 48,
+            "label": "37 (Indre-et-Loire)",
+            "prompt": "37",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indre-et-Loire\">Indre-et-Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Is\u00e8re",
+            "id": 49,
+            "label": "38 (Is\u00e8re)",
+            "prompt": "38",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Is%C3%A8re_(d%C3%A9partement)\">Is\u00e8re (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Jura",
+            "id": 50,
+            "label": "39 (Jura)",
+            "prompt": "39",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Jura_(d%C3%A9partement)\">Jura (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Landes",
+            "id": 51,
+            "label": "40 (Landes)",
+            "prompt": "40",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Landes_(d%C3%A9partement)\">Landes (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Loir-et-Cher",
+            "id": 52,
+            "label": "41 (Loir-et-Cher)",
+            "prompt": "41",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loir-et-Cher\">Loir-et-Cher (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Loire",
+            "id": 53,
+            "label": "42 (Loire)",
+            "prompt": "42",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loire_(d%C3%A9partement)\">Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Loire-Atlantique",
+            "id": 54,
+            "label": "44 (Loire-Atlantique)",
+            "prompt": "44",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loire-Atlantique\">Loire-Atlantique (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Loiret",
+            "id": 55,
+            "label": "45 (Loiret)",
+            "prompt": "45",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loiret_(d%C3%A9partement)\">Loiret (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Lot",
+            "id": 56,
+            "label": "46 (Lot)",
+            "prompt": "46",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lot_(d%C3%A9partement)\">Lot (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Lot-et-Garonne",
+            "id": 57,
+            "label": "47 (Lot-et-Garonne)",
+            "prompt": "47",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lot-et-Garonne\">Lot-et-Garonne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Loz\u00e8re",
+            "id": 58,
+            "label": "48 (Loz\u00e8re)",
+            "prompt": "48",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loz%C3%A8re_(d%C3%A9partement)\">Loz\u00e8re (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Maine-et-Loire",
+            "id": 59,
+            "label": "49 (Maine-et-Loire)",
+            "prompt": "49",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Maine-et-Loire\">Maine-et-Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Manche",
+            "id": 60,
+            "label": "50 (Manche)",
+            "prompt": "50",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Manche_(mer)\">Manche (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Marne",
+            "id": 61,
+            "label": "51 (Marne)",
+            "prompt": "51",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Marne_(d%C3%A9partement)\">Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mayenne",
+            "id": 62,
+            "label": "53 (Mayenne)",
+            "prompt": "53",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mayenne_(d%C3%A9partement)\">Mayenne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Meurthe-et-Moselle",
+            "id": 63,
+            "label": "54 (Meurthe-et-Moselle)",
+            "prompt": "54",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Meurthe-et-Moselle\">Meurthe-et-Moselle (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Meuse",
+            "id": 64,
+            "label": "55 (Meuse)",
+            "prompt": "55",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Meuse_(fleuve)\">Meuse (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Morbihan",
+            "id": 65,
+            "label": "56 (Morbihan)",
+            "prompt": "56",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Morbihan\">Morbihan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Moselle",
+            "id": 66,
+            "label": "57 (Moselle)",
+            "prompt": "57",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Moselle_(rivi%C3%A8re)\">Moselle (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ni\u00e8vre",
+            "id": 67,
+            "label": "58 (Ni\u00e8vre)",
+            "prompt": "58",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ni%C3%A8vre_(d%C3%A9partement)\">Ni\u00e8vre (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nord",
+            "id": 68,
+            "label": "59 (Nord)",
+            "prompt": "59",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nord\">Nord (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Oise",
+            "id": 69,
+            "label": "60 (Oise)",
+            "prompt": "60",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Orne_(d%C3%A9partement)\">Oise (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Orne",
+            "id": 70,
+            "label": "61 (Orne)",
+            "prompt": "61",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Orne_(d%C3%A9partement)\">Orne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pas-de-Calais",
+            "id": 71,
+            "label": "62 (Pas-de-Calais)",
+            "prompt": "62",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pas-de-Calais\">Pas-de-Calais (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Puy-de-D\u00f4me",
+            "id": 72,
+            "label": "63 (Puy-de-D\u00f4me)",
+            "prompt": "63",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Puy-de-D%C3%B4me\">Puy-de-D\u00f4me (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pyr\u00e9n\u00e9es-Atlantiques",
+            "id": 73,
+            "label": "64 (Pyr\u00e9n\u00e9es-Atlantiques)",
+            "prompt": "64",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pyr%C3%A9n%C3%A9es-Atlantiques\">Pyr\u00e9n\u00e9es-Atlantiques (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pyr\u00e9n\u00e9es-Orientales",
+            "id": 74,
+            "label": "66 (Pyr\u00e9n\u00e9es-Orientales)",
+            "prompt": "66",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pyr%C3%A9n%C3%A9es-Orientales\">Pyr\u00e9n\u00e9es-Orientales (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Rh\u00f4ne",
+            "id": 75,
+            "label": "69 (Rh\u00f4ne)",
+            "prompt": "69",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Rh%C3%B4ne\">Rh\u00f4ne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Sarthe",
+            "id": 76,
+            "label": "72 (Sarthe)",
+            "prompt": "72",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Sarthe_(d%C3%A9partement)\">Sarthe (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Savoie",
+            "id": 77,
+            "label": "73 (Savoie)",
+            "prompt": "73",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Savoir\">Savoie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Sa\u00f4ne-et-Loire",
+            "id": 78,
+            "label": "71 (Sa\u00f4ne-et-Loire)",
+            "prompt": "71",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Sa%C3%B4ne-et-Loire\">Sa\u00f4ne-et-Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Seine-Maritime",
+            "id": 79,
+            "label": "76 (Seine-Maritime)",
+            "prompt": "76",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Seine-Maritime\">Seine-Maritime (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Seine-Saint-Denis",
+            "id": 80,
+            "label": "93 (Seine-Saint-Denis)",
+            "prompt": "93",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Seine-Saint-Denis\">Seine-Saint-Denis (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Seine-et-Marne",
+            "id": 81,
+            "label": "77 (Seine-et-Marne)",
+            "prompt": "77",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Seine-et-Marne\">Seine-et-Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Somme",
+            "id": 82,
+            "label": "80 (Somme)",
+            "prompt": "80",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Somme_(d%C3%A9partement)\">Somme (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tarn",
+            "id": 83,
+            "label": "81 (Tarn)",
+            "prompt": "81",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tarn-et-Garonne\">Tarn (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tarn-et-Garonne",
+            "id": 84,
+            "label": "82 (Tarn-et-Garonne)",
+            "prompt": "82",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tarn-et-Garonne\">Tarn-et-Garonne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Territoire de Belfort",
+            "id": 85,
+            "label": "90 (Territoire de Belfort)",
+            "prompt": "90",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Territoire_de_Belfort\">Territoire de Belfort (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Val-d'Oise",
+            "id": 86,
+            "label": "95 (Val-d'Oise)",
+            "prompt": "95",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Val-d%27Oise\">Val-d'Oise (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Val-de-Marne",
+            "id": 87,
+            "label": "94 (Val-de-Marne)",
+            "prompt": "94",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Val-de-Marne\">Val-de-Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Var",
+            "id": 88,
+            "label": "83 (Var)",
+            "prompt": "83",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Var_(d%C3%A9partement)\">Var (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vaucluse",
+            "id": 89,
+            "label": "84 (Vaucluse)",
+            "prompt": "84",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vaucluse_(d%C3%A9partement)\">Vaucluse (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vend\u00e9e",
+            "id": 90,
+            "label": "85 (Vend\u00e9e)",
+            "prompt": "85",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vend%C3%A9e_(d%C3%A9partement)\">Vend\u00e9e (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vienne",
+            "id": 91,
+            "label": "86 (Vienne)",
+            "prompt": "86",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vienne_(d%C3%A9partement)\">Vienne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vosges",
+            "id": 92,
+            "label": "88 (Vosges)",
+            "prompt": "88",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vosges_(d%C3%A9partement)\">Vosges (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Yonne",
+            "id": 93,
+            "label": "89 (Yonne)",
+            "prompt": "89",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Yonne_(d%C3%A9partement)\">Yonne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Yvelines",
+            "id": 94,
+            "label": "78 (Yvelines)",
+            "prompt": "78",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Yvelines\">Yvelines (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 95,
+    "thumbnail": "data/thumbnails/48.jpg",
+    "title": "Codes"
+}

@@ -1,0 +1,173 @@
+{
+    "category": "D\u00e9partements fran\u00e7ais \u2013 Nord-Est",
+    "id": 39,
+    "input": "text",
+    "prompt": "image",
+    "questions": [
+        {
+            "answer": "Aisne",
+            "id": 0,
+            "label": "Aisne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Aisne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Aisne_(d%C3%A9partement)\">Aisne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ardennes",
+            "id": 1,
+            "label": "Ardennes",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Ardennes.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ardennes_(d%C3%A9partement)\">Ardennes (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Aube",
+            "id": 2,
+            "label": "Aube",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Aube.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Aube_(d%C3%A9partement)\">Aube (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bas-Rhin",
+            "id": 3,
+            "label": "Bas-Rhin",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Basse-Alsace.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bas-Rhin\">Bas-Rhin (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "C\u00f4te-d'Or",
+            "id": 4,
+            "label": "C\u00f4te-d'Or",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20C%C3%B4te-d%27Or.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/C%C3%B4te-d%27Or\">C\u00f4te-d'Or (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Doubs",
+            "id": 5,
+            "label": "Doubs",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposed%20flag%20of%20Doubs.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Doubs_(d%C3%A9partement)\">Doubs (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haut-Rhin",
+            "id": 6,
+            "label": "Haut-Rhin",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Haute-Alsace.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haut-Rhin\">Haut-Rhin (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Marne",
+            "id": 7,
+            "label": "Haute-Marne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Haute-Marne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Marne\">Haute-Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Sa\u00f4ne",
+            "id": 8,
+            "label": "Haute-Sa\u00f4ne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Haute-Sa%C3%B4ne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Sa%C3%B4ne\">Haute-Sa\u00f4ne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Jura",
+            "id": 9,
+            "label": "Jura",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jura%20%28department%29.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Jura_(d%C3%A9partement)\">Jura (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Marne",
+            "id": 10,
+            "label": "Marne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Marne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Marne_(d%C3%A9partement)\">Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Meurthe-et-Moselle",
+            "id": 11,
+            "label": "Meurthe-et-Moselle",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Meurthe-et-Moselle.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Meurthe-et-Moselle\">Meurthe-et-Moselle (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Meuse",
+            "id": 12,
+            "label": "Meuse",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Meuse.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Meuse_(fleuve)\">Meuse (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Moselle",
+            "id": 13,
+            "label": "Moselle",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/MoselleFlag.gif",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Moselle_(rivi%C3%A8re)\">Moselle (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ni\u00e8vre",
+            "id": 14,
+            "label": "Ni\u00e8vre",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Ni%C3%A8vre.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ni%C3%A8vre_(d%C3%A9partement)\">Ni\u00e8vre (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nord",
+            "id": 15,
+            "label": "Nord",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Nord.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nord\">Nord (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Oise",
+            "id": 16,
+            "label": "Oise",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Oise.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Orne_(d%C3%A9partement)\">Oise (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pas-de-Calais",
+            "id": 17,
+            "label": "Pas-de-Calais",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Pas-de-Calais%20proposed%20Flag.gif",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pas-de-Calais\">Pas-de-Calais (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Sa\u00f4ne-et-Loire",
+            "id": 18,
+            "label": "Sa\u00f4ne-et-Loire",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposition%20de%20drapeau%20pour%20le%20d%C3%A9partement%20de%20Sa%C3%B4ne-et-Loire.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Sa%C3%B4ne-et-Loire\">Sa\u00f4ne-et-Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Somme",
+            "id": 19,
+            "label": "Somme",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Somme.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Somme_(d%C3%A9partement)\">Somme (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Territoire de Belfort",
+            "id": 20,
+            "label": "Territoire de Belfort",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Territoire%20de%20Belfort.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Territoire_de_Belfort\">Territoire de Belfort (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vosges",
+            "id": 21,
+            "label": "Vosges",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Vosges.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vosges_(d%C3%A9partement)\">Vosges (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Yonne",
+            "id": 22,
+            "label": "Yonne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Yonne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Yonne_(d%C3%A9partement)\">Yonne (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 23,
+    "thumbnail": "data/thumbnails/39.jpg",
+    "title": "Drapeaux"
+}

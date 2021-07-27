@@ -1,0 +1,362 @@
+{
+    "category": "\u00c9tats des \u00c9tats-Unis \u2013 Totalit\u00e9",
+    "id": 60,
+    "input": "text",
+    "prompt": "image",
+    "questions": [
+        {
+            "answer": "Alabama",
+            "id": 0,
+            "label": "Alabama",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Alabama.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Alabama\">Alabama (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Alaska",
+            "id": 1,
+            "label": "Alaska",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Alaska.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Alaska\">Alaska (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Arizona",
+            "id": 2,
+            "label": "Arizona",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Arizona.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Arizona\">Arizona (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Arkansas",
+            "id": 3,
+            "label": "Arkansas",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Arkansas.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Arkansas\">Arkansas (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Californie",
+            "id": 4,
+            "label": "Californie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20California.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Californie\">Californie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Caroline du Nord",
+            "id": 5,
+            "label": "Caroline du Nord",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Carolina.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Caroline_du_Nord\">Caroline du Nord (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Caroline du Sud",
+            "id": 6,
+            "label": "Caroline du Sud",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Carolina.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Caroline_du_Sud\">Caroline du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Colorado",
+            "id": 7,
+            "label": "Colorado",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Colorado.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Colorado\">Colorado (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Connecticut",
+            "id": 8,
+            "label": "Connecticut",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Connecticut.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Connecticut\">Connecticut (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Dakota du Nord",
+            "id": 9,
+            "label": "Dakota du Nord",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Dakota.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Dakota_du_Nord\">Dakota du Nord (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Dakota du Sud",
+            "id": 10,
+            "label": "Dakota du Sud",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Dakota.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Dakota_du_Sud\">Dakota du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Delaware",
+            "id": 11,
+            "label": "Delaware",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Delaware.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Delaware\">Delaware (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Floride",
+            "id": 12,
+            "label": "Floride",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Florida.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tallahassee\">Floride (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "G\u00e9orgie",
+            "id": 13,
+            "label": "G\u00e9orgie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Georgia%20%28U.S.%20state%29.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/G%C3%A9orgie_(%C3%89tats-Unis)\">G\u00e9orgie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Hawa\u00ef",
+            "id": 14,
+            "label": "Hawa\u00ef",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hawaii.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hawa%C3%AF\">Hawa\u00ef (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Idaho",
+            "id": 15,
+            "label": "Idaho",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Idaho.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Idaho\">Idaho (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Illinois",
+            "id": 16,
+            "label": "Illinois",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Illinois.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Illinois\">Illinois (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Indiana",
+            "id": 17,
+            "label": "Indiana",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Indiana.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indiana\">Indiana (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Iowa",
+            "id": 18,
+            "label": "Iowa",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iowa.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Iowa\">Iowa (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Kansas",
+            "id": 19,
+            "label": "Kansas",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kansas.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kansas\">Kansas (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Kentucky",
+            "id": 20,
+            "label": "Kentucky",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kentucky.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kentucky\">Kentucky (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Louisiane",
+            "id": 21,
+            "label": "Louisiane",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Louisiana.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Louisiane\">Louisiane (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Maine",
+            "id": 22,
+            "label": "Maine",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Maine.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Maine\">Maine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Maryland",
+            "id": 23,
+            "label": "Maryland",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Maryland.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Maryland\">Maryland (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Massachusetts",
+            "id": 24,
+            "label": "Massachusetts",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Massachusetts.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Massachusetts\">Massachusetts (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Michigan",
+            "id": 25,
+            "label": "Michigan",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Michigan.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Michigan\">Michigan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Minnesota",
+            "id": 26,
+            "label": "Minnesota",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Minnesota.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Minnesota\">Minnesota (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mississippi",
+            "id": 27,
+            "label": "Mississippi",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mississippi.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mississippi_(%C3%89tat)\">Mississippi (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Missouri",
+            "id": 28,
+            "label": "Missouri",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Missouri.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Missouri_(%C3%89tat)\">Missouri (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Montana",
+            "id": 29,
+            "label": "Montana",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Montana.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Montana\">Montana (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nebraska",
+            "id": 30,
+            "label": "Nebraska",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nebraska.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nebraska\">Nebraska (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nevada",
+            "id": 31,
+            "label": "Nevada",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nevada.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nevada\">Nevada (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "New Hampshire",
+            "id": 32,
+            "label": "New Hampshire",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20Hampshire.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/New_Hampshire\">New Hampshire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "New Jersey",
+            "id": 33,
+            "label": "New Jersey",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20Jersey.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/New_Jersey\">New Jersey (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "New York",
+            "id": 34,
+            "label": "New York",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20York.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/New_York\">New York (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nouveau-Mexique",
+            "id": 35,
+            "label": "Nouveau-Mexique",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20Mexico.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nouveau-Mexique\">Nouveau-Mexique (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ohio",
+            "id": 36,
+            "label": "Ohio",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ohio.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ohio\">Ohio (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Oklahoma",
+            "id": 37,
+            "label": "Oklahoma",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oklahoma.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Oklahoma\">Oklahoma (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Oregon",
+            "id": 38,
+            "label": "Oregon",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oregon.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Oregon\">Oregon (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pennsylvanie",
+            "id": 39,
+            "label": "Pennsylvanie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pennsylvania.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pennsylvanie\">Pennsylvanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Rhode Island",
+            "id": 40,
+            "label": "Rhode Island",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rhode%20Island.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Rhode_Island\">Rhode Island (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tennessee",
+            "id": 41,
+            "label": "Tennessee",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tennessee.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tennessee\">Tennessee (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Texas",
+            "id": 42,
+            "label": "Texas",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Texas.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Texas\">Texas (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Utah",
+            "id": 43,
+            "label": "Utah",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Utah.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Utah\">Utah (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vermont",
+            "id": 44,
+            "label": "Vermont",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vermont.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vermont\">Vermont (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Virginie",
+            "id": 45,
+            "label": "Virginie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Virginia.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Virginie_(%C3%89tats-Unis)\">Virginie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Virginie-Occidentale",
+            "id": 46,
+            "label": "Virginie-Occidentale",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20West%20Virginia.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Virginie-Occidentale\">Virginie-Occidentale (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Washington",
+            "id": 47,
+            "label": "Washington",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Washington.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Washington_(%C3%89tat)\">Washington (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Wisconsin",
+            "id": 48,
+            "label": "Wisconsin",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Wisconsin.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Wisconsin\">Wisconsin (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Wyoming",
+            "id": 49,
+            "label": "Wyoming",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Wyoming.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Wyoming\">Wyoming (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 50,
+    "thumbnail": "data/thumbnails/60.jpg",
+    "title": "Drapeaux"
+}

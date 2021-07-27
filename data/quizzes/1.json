@@ -1,0 +1,89 @@
+{
+    "category": "Couverture StreetView \u2013 Afrique",
+    "id": 1,
+    "input": "text",
+    "prompt": "image",
+    "questions": [
+        {
+            "answer": "Afrique du Sud",
+            "id": 0,
+            "label": "Afrique du Sud",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Africa.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Afrique_du_Sud\">Afrique du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Botswana",
+            "id": 1,
+            "label": "Botswana",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Botswana.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Botswana\">Botswana (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Eswatini",
+            "id": 2,
+            "label": "Eswatini",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eswatini.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Eswatini\">Eswatini (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ghana",
+            "id": 3,
+            "label": "Ghana",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ghana.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ghana\">Ghana (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Kenya",
+            "id": 4,
+            "label": "Kenya",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kenya.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kenya\">Kenya (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Lesotho",
+            "id": 5,
+            "label": "Lesotho",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lesotho.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lesotho\">Lesotho (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Madagascar",
+            "id": 6,
+            "label": "Madagascar",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Madagascar.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Madagascar\">Madagascar (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nigeria",
+            "id": 7,
+            "label": "Nigeria",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nigeria\">Nigeria (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ouganda",
+            "id": 8,
+            "label": "Ouganda",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Uganda.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ouganda\">Ouganda (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "S\u00e9n\u00e9gal",
+            "id": 9,
+            "label": "S\u00e9n\u00e9gal",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Senegal.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A9gal\">S\u00e9n\u00e9gal (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tunisie",
+            "id": 10,
+            "label": "Tunisie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tunisia.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tunisie\">Tunisie (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 11,
+    "thumbnail": "data/thumbnails/1.jpg",
+    "title": "Drapeaux"
+}

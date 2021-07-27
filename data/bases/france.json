@@ -1,0 +1,3008 @@
+{
+    "categories": [
+        {
+            "img": "data/images/france.jpg",
+            "key": "[all]"
+        },
+        {
+            "img": "data/images/france-01.jpg",
+            "key": "\u00cele-de-France"
+        },
+        {
+            "img": "data/images/france-02.jpg",
+            "key": "Nord-Ouest"
+        },
+        {
+            "img": "data/images/france-03.jpg",
+            "key": "Nord-Est"
+        },
+        {
+            "img": "data/images/france-04.jpg",
+            "key": "Sud-Est"
+        },
+        {
+            "img": "data/images/france-05.jpg",
+            "key": "Sud-Ouest"
+        }
+    ],
+    "entities": [
+        {
+            "category": "Sud-Est",
+            "label": "Ain",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "01"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "01"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ain.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Bourg-en-Bresse"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Ain_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Aisne",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "02"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "02"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Aisne.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Laon"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Aisne_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Allier",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "03"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "03"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Allier.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Moulins"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Allier_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Alpes-Maritimes",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "06"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "06"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20County%20of%20Nice.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Nice"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Alpes-Maritimes"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Alpes-de-Haute-Provence",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "04"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "04"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Alpes-de-Haute-Provence.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Digne-les-Bains"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Alpes-de-Haute-Provence"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Ardennes",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "08"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "08"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Ardennes.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Charleville-M\u00e9zi\u00e8res"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Ardennes_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Ard\u00e8che",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "07"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "07"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Ard%C3%A8che.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Privas"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Ard%C3%A8che_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Ari\u00e8ge",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "09"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "09"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposition%20de%20drapeau%20pour%20le%20d%C3%A9partement%20de%20l%27Ari%C3%A8ge.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Foix"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Ari%C3%A8ge_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Aube",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "10"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "10"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Aube.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Troyes"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Aube_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Aude",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "11"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "11"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-offiicel%20fr%20d%C3%A9partement%20Aude.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Carcassonne"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Aude_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Aveyron",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "12"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "12"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rouergue.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Rodez"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Aveyron_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Bas-Rhin",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "67"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "67"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Basse-Alsace.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Strasbourg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Bas-Rhin"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Bouches-du-Rh\u00f4ne",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "13"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "13"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Bouches-du-Rh%C3%B4ne.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Marseille"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Bouches-du-Rh%C3%B4ne"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Calvados",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "14"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "14"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Calvados.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Caen"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Calvados_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Cantal",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "15"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "15"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Cantal.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Aurillac"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Cantal_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Charente",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "16"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "16"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Charente.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Angoul\u00eame"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Charente-Maritime"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Charente-Maritime",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "17"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "17"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/CharenteMaritimeFlag.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "La Rochelle"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Charente-Maritime"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Cher",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "18"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "18"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Cher.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Bourges"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Cher_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Corr\u00e8ze",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "19"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "19"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20d%C3%A9partement%20fr%20Corr%C3%A8ze.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Tulle"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Corr%C3%A8ze_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Corse-du-Sud",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "2A"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "2A"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Corsica.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Ajaccio"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Corse-du-Sud"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Creuse",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "23"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "23"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Creuse.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Gu\u00e9ret"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Creuse_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "C\u00f4te-d'Or",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "21"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "21"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20C%C3%B4te-d%27Or.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Dijon"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/C%C3%B4te-d%27Or"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "C\u00f4tes-d'Armor",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "22"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "22"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20C%C3%B4tes-d%27Armor.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Saint-Brieuc"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/C%C3%B4tes-d%27Armor"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Deux-S\u00e8vres",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "79"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "79"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Deux-S%C3%A8vres.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Niort"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Deux-S%C3%A8vres"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Dordogne",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "24"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "24"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Dordogne.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "P\u00e9rigueux"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Dordogne_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Doubs",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "25"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "25"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposed%20flag%20of%20Doubs.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Besan\u00e7on"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Doubs_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Dr\u00f4me",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "26"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "26"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20d%C3%A9partement%20fr%20Dr%C3%B4me.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Valence"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Dr%C3%B4me_(d%C3%A9partement)"
+        },
+        {
+            "category": "\u00cele-de-France",
+            "label": "Essonne",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "91"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "91"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Essonne.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "\u00c9vry-Courcouronnes"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Essonne_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Eure",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "27"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "27"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposed%20flag%20of%20Eure.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "\u00c9vreux"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Eure_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Eure-et-Loir",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "28"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "28"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eure-et-Loir.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Chartres"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Eure-et-Loir"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Finist\u00e8re",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "29"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "29"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20Finist%C3%A8re.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Quimper"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Finist%C3%A8re"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Gard",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "30"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "30"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20Gard.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "N\u00eemes"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Gard"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Gers",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "32"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "32"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Gers.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Auch"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Gers_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Gironde",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "33"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "33"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Gironde.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Bordeaux"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Gironde_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Haut-Rhin",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "68"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "68"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Haute-Alsace.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Colmar"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Haut-Rhin"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Haute-Corse",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "2B"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "2B"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Corsica.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Bastia"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Haute-Corse"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Haute-Garonne",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "31"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "31"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20Haute-Garonne.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Toulouse"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Haute-Garonne"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Haute-Loire",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "43"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "43"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20d%C3%A9partement%20fr%20Haute-Loire.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Le Puy-en-Velay"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Haute-Loire"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Haute-Marne",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "52"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "52"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Haute-Marne.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Chaumont"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Haute-Marne"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Haute-Savoie",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "74"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "74"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Savoie.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Annecy"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Haute-Savoie"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Haute-Sa\u00f4ne",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "70"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "70"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Haute-Sa%C3%B4ne.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Vesoul"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Haute-Sa%C3%B4ne"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Haute-Vienne",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "87"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "87"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Haute-Vienne.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Limoges"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Haute-Vienne"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Hautes-Alpes",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "05"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "05"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hautes-Alpes.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Gap"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Hautes-Alpes"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Hautes-Pyr\u00e9n\u00e9es",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "65"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "65"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposed%20flag%20for%20Hautes-Pyr%C3%A9n%C3%A9es.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Tarbes"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Hautes-Pyr%C3%A9n%C3%A9es"
+        },
+        {
+            "category": "\u00cele-de-France",
+            "label": "Hauts-de-Seine",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "92"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "92"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Hauts-de-Seine.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Nanterre"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Hauts-de-Seine"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "H\u00e9rault",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "34"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "34"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20H%C3%A9rault.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Montpellier"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/H%C3%A9rault_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Ille-et-Vilaine",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "35"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "35"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20Ille-et-Vilaine.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Rennes"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Ille-et-Vilaine"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Indre",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "36"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "36"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/IndreFlag.gif"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Ch\u00e2teauroux"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Indre_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Indre-et-Loire",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "37"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "37"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20Indre-et-Loire.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Tours"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Indre-et-Loire"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Is\u00e8re",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "38"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "38"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Is%C3%A8re.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Grenoble"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Is%C3%A8re_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Jura",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "39"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "39"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jura%20%28department%29.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Lons-le-Saunier"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Jura_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Landes",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "40"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "40"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Landes.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Mont-de-Marsan"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Landes_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Loir-et-Cher",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "41"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "41"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Loir-et-Cher.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Blois"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Loir-et-Cher"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Loire",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "42"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "42"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Loire.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Saint-\u00c9tienne"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Loire_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Loire-Atlantique",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "44"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "44"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Loire-Atlantique.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Nantes"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Loire-Atlantique"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Loiret",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "45"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "45"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Loiret.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Orl\u00e9ans"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Loiret_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Lot",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "46"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "46"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/LotFlag.gif"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Cahors"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Lot_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Lot-et-Garonne",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "47"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "47"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": null
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Agen"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Lot-et-Garonne"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Loz\u00e8re",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "48"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "48"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20Loz%C3%A8re.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Mende"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Loz%C3%A8re_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Maine-et-Loire",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "49"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "49"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Anjou.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Angers"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Maine-et-Loire"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Manche",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "50"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "50"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20Manche.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Saint-L\u00f4"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Manche_(mer)"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Marne",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "51"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "51"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Marne.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Ch\u00e2lons-en-Champagne"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Marne_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Mayenne",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "53"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "53"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Mayenne.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Laval"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Mayenne_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Meurthe-et-Moselle",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "54"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "54"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Meurthe-et-Moselle.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Nancy"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Meurthe-et-Moselle"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Meuse",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "55"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "55"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Meuse.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Bar-le-Duc"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Meuse_(fleuve)"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Morbihan",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "56"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "56"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Morbihan.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Vannes"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Morbihan"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Moselle",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "57"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "57"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/MoselleFlag.gif"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Metz"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Moselle_(rivi%C3%A8re)"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Ni\u00e8vre",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "58"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "58"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Ni%C3%A8vre.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Nevers"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Ni%C3%A8vre_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Nord",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "59"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "59"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Nord.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Lille"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Nord"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Oise",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "60"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "60"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Oise.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Beauvais"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Orne_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Orne",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "61"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "61"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Orne.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Alen\u00e7on"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Orne_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Pas-de-Calais",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "62"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "62"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Pas-de-Calais%20proposed%20Flag.gif"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Arras"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Pas-de-Calais"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Puy-de-D\u00f4me",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "63"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "63"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20propos%C3%A9%20pour%20le%20d%C3%A9partement%20Puy-de-D%C3%B4me.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Clermont-Ferrand"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Puy-de-D%C3%B4me"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Pyr\u00e9n\u00e9es-Atlantiques",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "64"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "64"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20propos%C3%A9%20pour%20les%20Pyrenees-atlantiques.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Pau"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Pyr%C3%A9n%C3%A9es-Atlantiques"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Pyr\u00e9n\u00e9es-Orientales",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "66"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "66"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20propos%C3%A9%20pour%20le%20d%C3%A9partement%20des%20Pyr%C3%A9n%C3%A9es-Orientales.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Perpignan"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Pyr%C3%A9n%C3%A9es-Orientales"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Rh\u00f4ne",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "69"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "69"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rh%C3%B4ne.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Lyon"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Rh%C3%B4ne"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Sarthe",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "72"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "72"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Sarthe.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Le Mans"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Sarthe_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Savoie",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "73"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "73"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Savoie.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Chamb\u00e9ry"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Savoir"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Sa\u00f4ne-et-Loire",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "71"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "71"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposition%20de%20drapeau%20pour%20le%20d%C3%A9partement%20de%20Sa%C3%B4ne-et-Loire.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "M\u00e2con"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Sa%C3%B4ne-et-Loire"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Seine-Maritime",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "76"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "76"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposed%20flag%20for%20Seine-Maritime.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Rouen"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Seine-Maritime"
+        },
+        {
+            "category": "\u00cele-de-France",
+            "label": "Seine-Saint-Denis",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "93"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "93"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Seine-Saint-Denis.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Bobigny"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Seine-Saint-Denis"
+        },
+        {
+            "category": "\u00cele-de-France",
+            "label": "Seine-et-Marne",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "77"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "77"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20propos%C3%A9%20pour%20le%20d%C3%A9partement%20de%20Seine-et-Marne.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Melun"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Seine-et-Marne"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Somme",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "80"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "80"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Somme.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Amiens"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Somme_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Tarn",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "81"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "81"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Tarn.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Albi"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Tarn-et-Garonne"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Tarn-et-Garonne",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "82"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "82"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposed%20flag%20for%20Tarn-et-Garonne.gif"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Montauban"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Tarn-et-Garonne"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Territoire de Belfort",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "90"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "90"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Territoire%20de%20Belfort.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Belfort"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Territoire_de_Belfort"
+        },
+        {
+            "category": "\u00cele-de-France",
+            "label": "Val-d'Oise",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "95"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "95"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Val-d%27Oise.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Cergy"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Val-d%27Oise"
+        },
+        {
+            "category": "\u00cele-de-France",
+            "label": "Val-de-Marne",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "94"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "94"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20propos%C3%A9%20pour%20le%20d%C3%A9partement%20du%20Val-de-Marne.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Cr\u00e9teil"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Val-de-Marne"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Var",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "83"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "83"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposition%20de%20drapeau%20pour%20le%20Var.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Toulon"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Var_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Est",
+            "label": "Vaucluse",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "84"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "84"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Vaucluse.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Avignon"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Vaucluse_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Ouest",
+            "label": "Vend\u00e9e",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "85"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "85"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vend%C3%A9e.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "La Roche-sur-Yon"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Vend%C3%A9e_(d%C3%A9partement)"
+        },
+        {
+            "category": "Sud-Ouest",
+            "label": "Vienne",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "86"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "86"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Vienne.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Poitiers"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Vienne_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Vosges",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "88"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "88"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Vosges.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "\u00c9pinal"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Vosges_(d%C3%A9partement)"
+        },
+        {
+            "category": "Nord-Est",
+            "label": "Yonne",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "89"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "89"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Yonne.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Auxerre"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Yonne_(d%C3%A9partement)"
+        },
+        {
+            "category": "\u00cele-de-France",
+            "label": "Yvelines",
+            "properties": {
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "78"
+                    }
+                ],
+                "Codes": [
+                    {
+                        "tips": null,
+                        "value": "78"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Yvelines.svg"
+                    }
+                ],
+                "Pr\u00e9fectures": [
+                    {
+                        "tips": null,
+                        "value": "Versailles"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Yvelines"
+        }
+    ],
+    "properties": [
+        {
+            "img": "data/images/flags.png",
+            "input": "text",
+            "key": "Drapeaux",
+            "prompt": "image",
+            "settings": {}
+        },
+        {
+            "img": "data/images/capitals.png",
+            "input": "text",
+            "key": "Pr\u00e9fectures",
+            "prompt": "text",
+            "settings": {}
+        },
+        {
+            "img": "data/images/codes.png",
+            "input": "text",
+            "key": "Codes",
+            "prompt": "text",
+            "settings": {}
+        },
+        {
+            "img": "data/images/map.png",
+            "input": "map",
+            "key": "Carte",
+            "prompt": "text",
+            "settings": {
+                "source": "data/polys/france.json"
+            }
+        }
+    ],
+    "title": "D\u00e9partements fran\u00e7ais"
+}

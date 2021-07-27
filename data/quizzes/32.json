@@ -1,0 +1,89 @@
+{
+    "category": "Langues \u2013 Europe de l'Ouest",
+    "id": 32,
+    "input": "text",
+    "prompt": "sentence",
+    "questions": [
+        {
+            "answer": "Allemand",
+            "id": 0,
+            "label": "Allemand",
+            "prompt": "deu",
+            "tips": "Lettres <b>\u00e4</b>, <b>\u00fc</b>, <b>\u00f6</b> et <b>\u00df</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Allemand\">Allemand (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Anglais",
+            "id": 1,
+            "label": "Anglais",
+            "prompt": "eng",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Anglais\">Anglais (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Basque",
+            "id": 2,
+            "label": "Basque",
+            "prompt": "eus",
+            "tips": "Beaucoup de <b>x</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Basque\">Basque (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Breton",
+            "id": 3,
+            "label": "Breton",
+            "prompt": "bre",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Breton\">Breton (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00c9cossais",
+            "id": 4,
+            "label": "\u00c9cossais",
+            "prompt": "cym",
+            "tips": "Beaucoup de <b>ll</b>. Lettres <b>y</b>, <b>w</b> et <b>c</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ga%C3%A9lique_%C3%A9cossais\">\u00c9cossais (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Espagnol",
+            "id": 5,
+            "label": "Espagnol",
+            "prompt": "spa",
+            "tips": "Lettres <b>\u00e1</b> et <b>\u00f1</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Espagnol\">Espagnol (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Fran\u00e7ais",
+            "id": 6,
+            "label": "Fran\u00e7ais",
+            "prompt": "fra",
+            "tips": "Lettres <b>\u00e7</b>, <b>\u00eb</b>, <b>\u00e8</b>, <b>\u00e9</b>, <b>\u00ef</b> et <b>\u00e0</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Fran%C3%A7ais\">Fran\u00e7ais (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Grec",
+            "id": 7,
+            "label": "Grec",
+            "prompt": "ell",
+            "tips": "Lettres <b>\u03b1</b>, <b>\u03b2</b>, <b>\u03b3</b> et <b>\u03b4</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Grec\">Grec (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Italien",
+            "id": 8,
+            "label": "Italien",
+            "prompt": "ita",
+            "tips": "Lettres <b>\u00ec</b>, <b>\u00e0</b>, <b>gg</b> et <b>cc</b>. Beaucoup de mots se terminent par des voyelles.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Italien\">Italien (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "N\u00e9erlandais",
+            "id": 9,
+            "label": "N\u00e9erlandais",
+            "prompt": "nld",
+            "tips": "Beaucoup de <b>z</b>, <b>w</b>, <b>ee</b> et <b>ij</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/N%C3%A9erlandais\">N\u00e9erlandais (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Portugais",
+            "id": 10,
+            "label": "Portugais",
+            "prompt": "por",
+            "tips": "Lettres <b>\u00e3</b> et <b>\u00c7</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Portugais\">Portugais (Wikip\u00e9dia)</a>."
+        }
+    ],
+    "settings": {},
+    "size": 11,
+    "thumbnail": "data/thumbnails/32.jpg",
+    "title": "Phrases"
+}

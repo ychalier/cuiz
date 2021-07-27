@@ -1,0 +1,705 @@
+{
+    "category": "Couverture StreetView \u2013 Totalit\u00e9",
+    "id": 14,
+    "input": "text",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "Afrique du Sud",
+            "id": 0,
+            "label": ".za (Afrique du Sud)",
+            "prompt": ".za",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Afrique_du_Sud\">Afrique du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Albanie",
+            "id": 1,
+            "label": ".al (Albanie)",
+            "prompt": ".al",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Albanie\">Albanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Allemagne",
+            "id": 2,
+            "label": ".de (Allemagne)",
+            "prompt": ".de",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Allemagne\">Allemagne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Andorre",
+            "id": 3,
+            "label": ".ad (Andorre)",
+            "prompt": ".ad",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Andorre\">Andorre (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Argentine",
+            "id": 4,
+            "label": ".ar (Argentine)",
+            "prompt": ".ar",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Argentine\">Argentine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Australie",
+            "id": 5,
+            "label": ".au (Australie)",
+            "prompt": ".au",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Australie\">Australie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Autriche",
+            "id": 6,
+            "label": ".at (Autriche)",
+            "prompt": ".at",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Autriche\">Autriche (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bangladesh",
+            "id": 7,
+            "label": ".bd (Bangladesh)",
+            "prompt": ".bd",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bangladesh\">Bangladesh (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Belgique",
+            "id": 8,
+            "label": ".be (Belgique)",
+            "prompt": ".be",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Belgique\">Belgique (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bhoutan",
+            "id": 9,
+            "label": ".bt (Bhoutan)",
+            "prompt": ".bt",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bhoutan\">Bhoutan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bolivie",
+            "id": 10,
+            "label": ".bo (Bolivie)",
+            "prompt": ".bo",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bolivie\">Bolivie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Botswana",
+            "id": 11,
+            "label": ".bw (Botswana)",
+            "prompt": ".bw",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Botswana\">Botswana (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Br\u00e9sil",
+            "id": 12,
+            "label": ".br (Br\u00e9sil)",
+            "prompt": ".br",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Br%C3%A9sil\">Br\u00e9sil (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bulgarie",
+            "id": 13,
+            "label": ".bg (Bulgarie)",
+            "prompt": ".bg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bulgarie\">Bulgarie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cambodge",
+            "id": 14,
+            "label": ".kh (Cambodge)",
+            "prompt": ".kh",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cambodge\">Cambodge (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Canada",
+            "id": 15,
+            "label": ".ca (Canada)",
+            "prompt": ".ca",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Canada\">Canada (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Chili",
+            "id": 16,
+            "label": ".cl (Chili)",
+            "prompt": ".cl",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Chili\">Chili (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Colombie",
+            "id": 17,
+            "label": ".co (Colombie)",
+            "prompt": ".co",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Colombie\">Colombie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cor\u00e9e du Sud",
+            "id": 18,
+            "label": ".kr (Cor\u00e9e du Sud)",
+            "prompt": ".kr",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cor%C3%A9e_du_Sud\">Cor\u00e9e du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Croatie",
+            "id": 19,
+            "label": ".hr (Croatie)",
+            "prompt": ".hr",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Croatie\">Croatie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cura\u00e7ao",
+            "id": 20,
+            "label": ".cw (Cura\u00e7ao)",
+            "prompt": ".cw",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cura%C3%A7ao\">Cura\u00e7ao (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Danemark",
+            "id": 21,
+            "label": ".dk (Danemark)",
+            "prompt": ".dk",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Danemark\">Danemark (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Espagne",
+            "id": 22,
+            "label": ".es (Espagne)",
+            "prompt": ".es",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Espagne\">Espagne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Estonie",
+            "id": 23,
+            "label": ".ee (Estonie)",
+            "prompt": ".ee",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Estonie\">Estonie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Eswatini",
+            "id": 24,
+            "label": ".sz (Eswatini)",
+            "prompt": ".sz",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Eswatini\">Eswatini (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Finlande",
+            "id": 25,
+            "label": ".fi (Finlande)",
+            "prompt": ".fi",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Finlande\">Finlande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "France",
+            "id": 26,
+            "label": ".fr (France)",
+            "prompt": ".fr",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/France\">France (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ghana",
+            "id": 27,
+            "label": ".gh (Ghana)",
+            "prompt": ".gh",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ghana\">Ghana (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Gibraltar",
+            "id": 28,
+            "label": ".gi (Gibraltar)",
+            "prompt": ".gi",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Gibraltar\">Gibraltar (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Groenland",
+            "id": 29,
+            "label": ".gl (Groenland)",
+            "prompt": ".gl",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Groenland\">Groenland (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Gr\u00e8ce",
+            "id": 30,
+            "label": ".gr (Gr\u00e8ce)",
+            "prompt": ".gr",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Gr%C3%A8ce\">Gr\u00e8ce (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Guatemala",
+            "id": 31,
+            "label": ".gt (Guatemala)",
+            "prompt": ".gt",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Guatemala\">Guatemala (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Hongrie",
+            "id": 32,
+            "label": ".hu (Hongrie)",
+            "prompt": ".hu",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hongrie\">Hongrie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Inde",
+            "id": 33,
+            "label": ".in (Inde)",
+            "prompt": ".in",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Inde\">Inde (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Indon\u00e9sie",
+            "id": 34,
+            "label": ".id (Indon\u00e9sie)",
+            "prompt": ".id",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indon%C3%A9sie\">Indon\u00e9sie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Irlande",
+            "id": 35,
+            "label": ".ie (Irlande)",
+            "prompt": ".ie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Irlande_(pays)\">Irlande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Islande",
+            "id": 36,
+            "label": ".is (Islande)",
+            "prompt": ".is",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Islande\">Islande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Isra\u00ebl",
+            "id": 37,
+            "label": ".il (Isra\u00ebl)",
+            "prompt": ".il",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Isra%C3%ABl\">Isra\u00ebl (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Italie",
+            "id": 38,
+            "label": ".it (Italie)",
+            "prompt": ".it",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Italie\">Italie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Japon",
+            "id": 39,
+            "label": ".jp (Japon)",
+            "prompt": ".jp",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Japon\">Japon (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Jersey",
+            "id": 40,
+            "label": ".je (Jersey)",
+            "prompt": ".je",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Jersey\">Jersey (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Jordanie",
+            "id": 41,
+            "label": ".jo (Jordanie)",
+            "prompt": ".jo",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Jordanie\">Jordanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Kenya",
+            "id": 42,
+            "label": ".ke (Kenya)",
+            "prompt": ".ke",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kenya\">Kenya (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Kirghizistan",
+            "id": 43,
+            "label": ".kg (Kirghizistan)",
+            "prompt": ".kg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kirghizistan\">Kirghizistan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Laos",
+            "id": 44,
+            "label": ".la (Laos)",
+            "prompt": ".la",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Laos\">Laos (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Lesotho",
+            "id": 45,
+            "label": ".ls (Lesotho)",
+            "prompt": ".ls",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lesotho\">Lesotho (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Lettonie",
+            "id": 46,
+            "label": ".lv (Lettonie)",
+            "prompt": ".lv",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lettonie\">Lettonie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Lituanie",
+            "id": 47,
+            "label": ".lv (Lituanie)",
+            "prompt": ".lv",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lituanie\">Lituanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Luxembourg",
+            "id": 48,
+            "label": ".lu (Luxembourg)",
+            "prompt": ".lu",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Luxembourg\">Luxembourg (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mac\u00e9doine du Nord",
+            "id": 49,
+            "label": ".mk (Mac\u00e9doine du Nord)",
+            "prompt": ".mk",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mac%C3%A9doine_du_Nord\">Mac\u00e9doine du Nord (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Madagascar",
+            "id": 50,
+            "label": ".mg (Madagascar)",
+            "prompt": ".mg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Madagascar\">Madagascar (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Malaisie",
+            "id": 51,
+            "label": ".my (Malaisie)",
+            "prompt": ".my",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Malaisie\">Malaisie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Malte",
+            "id": 52,
+            "label": ".mt (Malte)",
+            "prompt": ".mt",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Malte\">Malte (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mexique",
+            "id": 53,
+            "label": ".mx (Mexique)",
+            "prompt": ".mx",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mexique\">Mexique (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Monaco",
+            "id": 54,
+            "label": ".mc (Monaco)",
+            "prompt": ".mc",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Monaco\">Monaco (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mongolie",
+            "id": 55,
+            "label": ".mn (Mongolie)",
+            "prompt": ".mn",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mongolie\">Mongolie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mont\u00e9n\u00e9gro",
+            "id": 56,
+            "label": ".me (Mont\u00e9n\u00e9gro)",
+            "prompt": ".me",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mont%C3%A9n%C3%A9gro\">Mont\u00e9n\u00e9gro (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nigeria",
+            "id": 57,
+            "label": ".ng (Nigeria)",
+            "prompt": ".ng",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nigeria\">Nigeria (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Norv\u00e8ge",
+            "id": 58,
+            "label": ".no (Norv\u00e8ge)",
+            "prompt": ".no",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Norv%C3%A8ge\">Norv\u00e8ge (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nouvelle-Z\u00e9lande",
+            "id": 59,
+            "label": ".nz (Nouvelle-Z\u00e9lande)",
+            "prompt": ".nz",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nouvelle-Z%C3%A9lande\">Nouvelle-Z\u00e9lande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ouganda",
+            "id": 60,
+            "label": ".ug (Ouganda)",
+            "prompt": ".ug",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ouganda\">Ouganda (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pays-Bas",
+            "id": 61,
+            "label": ".nl (Pays-Bas)",
+            "prompt": ".nl",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pays-Bas\">Pays-Bas (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Philippines",
+            "id": 62,
+            "label": ".ph (Philippines)",
+            "prompt": ".ph",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Philippines\">Philippines (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pologne",
+            "id": 63,
+            "label": ".pl (Pologne)",
+            "prompt": ".pl",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pologne\">Pologne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Porto Rico",
+            "id": 64,
+            "label": ".pr (Porto Rico)",
+            "prompt": ".pr",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Porto_Rico\">Porto Rico (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Portugal",
+            "id": 65,
+            "label": ".pt (Portugal)",
+            "prompt": ".pt",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Portugal\">Portugal (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "P\u00e9rou",
+            "id": 66,
+            "label": ".pe (P\u00e9rou)",
+            "prompt": ".pe",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/P%C3%A9rou\">P\u00e9rou (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Roumanie",
+            "id": 67,
+            "label": ".ro (Roumanie)",
+            "prompt": ".ro",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Roumanie\">Roumanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Royaume-Uni",
+            "id": 68,
+            "label": ".gb (Royaume-Uni)",
+            "prompt": ".gb",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Royaume-Uni\">Royaume-Uni (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Royaume-Uni",
+            "id": 69,
+            "label": ".uk (Royaume-Uni)",
+            "prompt": ".uk",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Royaume-Uni\">Royaume-Uni (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Russie",
+            "id": 70,
+            "label": ".ru (Russie)",
+            "prompt": ".ru",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Russie\">Russie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Russie",
+            "id": 71,
+            "label": ".su (Russie)",
+            "prompt": ".su",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Russie\">Russie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "R\u00e9publique dominicaine",
+            "id": 72,
+            "label": ".do (R\u00e9publique dominicaine)",
+            "prompt": ".do",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/R%C3%A9publique_dominicaine\">R\u00e9publique dominicaine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Saint-Marin",
+            "id": 73,
+            "label": ".sm (Saint-Marin)",
+            "prompt": ".sm",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Saint-Marin\">Saint-Marin (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Samoa am\u00e9ricaines",
+            "id": 74,
+            "label": ".as (Samoa am\u00e9ricaines)",
+            "prompt": ".as",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Samoa_am%C3%A9ricaines\">Samoa am\u00e9ricaines (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Serbie",
+            "id": 75,
+            "label": ".rs (Serbie)",
+            "prompt": ".rs",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Serbie\">Serbie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Singapour",
+            "id": 76,
+            "label": ".sg (Singapour)",
+            "prompt": ".sg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Singapour\">Singapour (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Slovaquie",
+            "id": 77,
+            "label": ".sk (Slovaquie)",
+            "prompt": ".sk",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Slovaquie\">Slovaquie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Slov\u00e9nie",
+            "id": 78,
+            "label": ".si (Slov\u00e9nie)",
+            "prompt": ".si",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Slov%C3%A9nie\">Slov\u00e9nie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Sri Lanka",
+            "id": 79,
+            "label": ".lk (Sri Lanka)",
+            "prompt": ".lk",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Sri_Lanka\">Sri Lanka (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Suisse",
+            "id": 80,
+            "label": ".swiss (Suisse)",
+            "prompt": ".swiss",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Suisse\">Suisse (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Suisse",
+            "id": 81,
+            "label": ".ch (Suisse)",
+            "prompt": ".ch",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Suisse\">Suisse (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Su\u00e8de",
+            "id": 82,
+            "label": ".se (Su\u00e8de)",
+            "prompt": ".se",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Su%C3%A8de\">Su\u00e8de (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "S\u00e9n\u00e9gal",
+            "id": 83,
+            "label": ".sn (S\u00e9n\u00e9gal)",
+            "prompt": ".sn",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A9gal\">S\u00e9n\u00e9gal (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ta\u00efwan",
+            "id": 84,
+            "label": ".tw (Ta\u00efwan)",
+            "prompt": ".tw",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ta%C3%AFwan\">Ta\u00efwan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tch\u00e9quie",
+            "id": 85,
+            "label": ".cz (Tch\u00e9quie)",
+            "prompt": ".cz",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tch%C3%A9quie\">Tch\u00e9quie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tha\u00eflande",
+            "id": 86,
+            "label": ".th (Tha\u00eflande)",
+            "prompt": ".th",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tha%C3%AFlande\">Tha\u00eflande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tunisie",
+            "id": 87,
+            "label": ".tn (Tunisie)",
+            "prompt": ".tn",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tunisie\">Tunisie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Turquie",
+            "id": 88,
+            "label": ".tr (Turquie)",
+            "prompt": ".tr",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Turquie\">Turquie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ukraine",
+            "id": 89,
+            "label": ".ua (Ukraine)",
+            "prompt": ".ua",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ukraine\">Ukraine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Uruguay",
+            "id": 90,
+            "label": ".uy (Uruguay)",
+            "prompt": ".uy",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Uruguay\">Uruguay (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vi\u00eat Nam",
+            "id": 91,
+            "label": ".vn (Vi\u00eat Nam)",
+            "prompt": ".vn",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vi%C3%AAt_Nam\">Vi\u00eat Nam (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00c9quateur",
+            "id": 92,
+            "label": ".ec (\u00c9quateur)",
+            "prompt": ".ec",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%89quateur_(pays)\">\u00c9quateur (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00c9tats-Unis",
+            "id": 93,
+            "label": ".us (\u00c9tats-Unis)",
+            "prompt": ".us",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%89tats-Unis\">\u00c9tats-Unis (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00cele Christmas",
+            "id": 94,
+            "label": ".cx (\u00cele Christmas)",
+            "prompt": ".cx",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Ele_Christmas_(Australie)\">\u00cele Christmas (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00cele de Man",
+            "id": 95,
+            "label": ".im (\u00cele de Man)",
+            "prompt": ".im",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Ele_de_Man\">\u00cele de Man (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00celes F\u00e9ro\u00e9",
+            "id": 96,
+            "label": ".fo (\u00celes F\u00e9ro\u00e9)",
+            "prompt": ".fo",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Eles_F%C3%A9ro%C3%A9\">\u00celes F\u00e9ro\u00e9 (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00celes Mariannes du Nord",
+            "id": 97,
+            "label": ".mp (\u00celes Mariannes du Nord)",
+            "prompt": ".mp",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Eles_Mariannes_du_Nord\">\u00celes Mariannes du Nord (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00celes Vierges des \u00c9tats-Unis",
+            "id": 98,
+            "label": ".vi (\u00celes Vierges des \u00c9tats-Unis)",
+            "prompt": ".vi",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Eles_Vierges_des_%C3%89tats-Unis\">\u00celes Vierges des \u00c9tats-Unis (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 99,
+    "thumbnail": "data/thumbnails/14.jpg",
+    "title": "Domaines Internet"
+}

@@ -1,0 +1,362 @@
+{
+    "category": "\u00c9tats des \u00c9tats-Unis \u2013 Totalit\u00e9",
+    "id": 61,
+    "input": "text",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "Alabama",
+            "id": 0,
+            "label": "Montgomery (Alabama)",
+            "prompt": "Montgomery",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Alabama\">Alabama (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Alaska",
+            "id": 1,
+            "label": "Juneau (Alaska)",
+            "prompt": "Juneau",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Alaska\">Alaska (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Arizona",
+            "id": 2,
+            "label": "Phoenix (Arizona)",
+            "prompt": "Phoenix",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Arizona\">Arizona (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Arkansas",
+            "id": 3,
+            "label": "Little Rock (Arkansas)",
+            "prompt": "Little Rock",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Arkansas\">Arkansas (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Californie",
+            "id": 4,
+            "label": "Sacramento (Californie)",
+            "prompt": "Sacramento",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Californie\">Californie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Caroline du Nord",
+            "id": 5,
+            "label": "Raleigh (Caroline du Nord)",
+            "prompt": "Raleigh",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Caroline_du_Nord\">Caroline du Nord (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Caroline du Sud",
+            "id": 6,
+            "label": "Columbia (Caroline du Sud)",
+            "prompt": "Columbia",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Caroline_du_Sud\">Caroline du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Colorado",
+            "id": 7,
+            "label": "Denver (Colorado)",
+            "prompt": "Denver",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Colorado\">Colorado (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Connecticut",
+            "id": 8,
+            "label": "Hartford (Connecticut)",
+            "prompt": "Hartford",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Connecticut\">Connecticut (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Dakota du Nord",
+            "id": 9,
+            "label": "Bismarck (Dakota du Nord)",
+            "prompt": "Bismarck",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Dakota_du_Nord\">Dakota du Nord (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Dakota du Sud",
+            "id": 10,
+            "label": "Pierre (Dakota du Sud)",
+            "prompt": "Pierre",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Dakota_du_Sud\">Dakota du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Delaware",
+            "id": 11,
+            "label": "Dover (Delaware)",
+            "prompt": "Dover",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Delaware\">Delaware (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Floride",
+            "id": 12,
+            "label": "Tallahassee (Floride)",
+            "prompt": "Tallahassee",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tallahassee\">Floride (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "G\u00e9orgie",
+            "id": 13,
+            "label": "Atlanta (G\u00e9orgie)",
+            "prompt": "Atlanta",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/G%C3%A9orgie_(%C3%89tats-Unis)\">G\u00e9orgie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Hawa\u00ef",
+            "id": 14,
+            "label": "Honolulu (Hawa\u00ef)",
+            "prompt": "Honolulu",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hawa%C3%AF\">Hawa\u00ef (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Idaho",
+            "id": 15,
+            "label": "Boise (Idaho)",
+            "prompt": "Boise",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Idaho\">Idaho (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Illinois",
+            "id": 16,
+            "label": "Springfield (Illinois)",
+            "prompt": "Springfield",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Illinois\">Illinois (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Indiana",
+            "id": 17,
+            "label": "Indianapolis (Indiana)",
+            "prompt": "Indianapolis",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indiana\">Indiana (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Iowa",
+            "id": 18,
+            "label": "Des Moines (Iowa)",
+            "prompt": "Des Moines",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Iowa\">Iowa (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Kansas",
+            "id": 19,
+            "label": "Topeka (Kansas)",
+            "prompt": "Topeka",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kansas\">Kansas (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Kentucky",
+            "id": 20,
+            "label": "Frankfort (Kentucky)",
+            "prompt": "Frankfort",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kentucky\">Kentucky (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Louisiane",
+            "id": 21,
+            "label": "Baton Rouge (Louisiane)",
+            "prompt": "Baton Rouge",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Louisiane\">Louisiane (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Maine",
+            "id": 22,
+            "label": "Augusta (Maine)",
+            "prompt": "Augusta",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Maine\">Maine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Maryland",
+            "id": 23,
+            "label": "Annapolis (Maryland)",
+            "prompt": "Annapolis",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Maryland\">Maryland (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Massachusetts",
+            "id": 24,
+            "label": "Boston (Massachusetts)",
+            "prompt": "Boston",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Massachusetts\">Massachusetts (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Michigan",
+            "id": 25,
+            "label": "Lansing (Michigan)",
+            "prompt": "Lansing",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Michigan\">Michigan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Minnesota",
+            "id": 26,
+            "label": "Saint Paul (Minnesota)",
+            "prompt": "Saint Paul",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Minnesota\">Minnesota (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mississippi",
+            "id": 27,
+            "label": "Jackson (Mississippi)",
+            "prompt": "Jackson",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mississippi_(%C3%89tat)\">Mississippi (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Missouri",
+            "id": 28,
+            "label": "Jefferson City (Missouri)",
+            "prompt": "Jefferson City",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Missouri_(%C3%89tat)\">Missouri (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Montana",
+            "id": 29,
+            "label": "Helena (Montana)",
+            "prompt": "Helena",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Montana\">Montana (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nebraska",
+            "id": 30,
+            "label": "Lincoln (Nebraska)",
+            "prompt": "Lincoln",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nebraska\">Nebraska (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nevada",
+            "id": 31,
+            "label": "Carson City (Nevada)",
+            "prompt": "Carson City",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nevada\">Nevada (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "New Hampshire",
+            "id": 32,
+            "label": "Concord (New Hampshire)",
+            "prompt": "Concord",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/New_Hampshire\">New Hampshire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "New Jersey",
+            "id": 33,
+            "label": "Trenton (New Jersey)",
+            "prompt": "Trenton",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/New_Jersey\">New Jersey (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "New York",
+            "id": 34,
+            "label": "Albany (New York)",
+            "prompt": "Albany",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/New_York\">New York (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nouveau-Mexique",
+            "id": 35,
+            "label": "Santa Fe (Nouveau-Mexique)",
+            "prompt": "Santa Fe",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nouveau-Mexique\">Nouveau-Mexique (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ohio",
+            "id": 36,
+            "label": "Columbus (Ohio)",
+            "prompt": "Columbus",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ohio\">Ohio (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Oklahoma",
+            "id": 37,
+            "label": "Oklahoma City (Oklahoma)",
+            "prompt": "Oklahoma City",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Oklahoma\">Oklahoma (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Oregon",
+            "id": 38,
+            "label": "Salem (Oregon)",
+            "prompt": "Salem",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Oregon\">Oregon (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pennsylvanie",
+            "id": 39,
+            "label": "Harrisburg (Pennsylvanie)",
+            "prompt": "Harrisburg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pennsylvanie\">Pennsylvanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Rhode Island",
+            "id": 40,
+            "label": "Providence (Rhode Island)",
+            "prompt": "Providence",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Rhode_Island\">Rhode Island (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tennessee",
+            "id": 41,
+            "label": "Nashville (Tennessee)",
+            "prompt": "Nashville",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tennessee\">Tennessee (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Texas",
+            "id": 42,
+            "label": "Austin (Texas)",
+            "prompt": "Austin",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Texas\">Texas (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Utah",
+            "id": 43,
+            "label": "Salt Lake City (Utah)",
+            "prompt": "Salt Lake City",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Utah\">Utah (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vermont",
+            "id": 44,
+            "label": "Montpelier (Vermont)",
+            "prompt": "Montpelier",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vermont\">Vermont (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Virginie",
+            "id": 45,
+            "label": "Richmond (Virginie)",
+            "prompt": "Richmond",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Virginie_(%C3%89tats-Unis)\">Virginie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Virginie-Occidentale",
+            "id": 46,
+            "label": "Charleston (Virginie-Occidentale)",
+            "prompt": "Charleston",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Virginie-Occidentale\">Virginie-Occidentale (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Washington",
+            "id": 47,
+            "label": "Olympia (Washington)",
+            "prompt": "Olympia",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Washington_(%C3%89tat)\">Washington (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Wisconsin",
+            "id": 48,
+            "label": "Madison (Wisconsin)",
+            "prompt": "Madison",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Wisconsin\">Wisconsin (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Wyoming",
+            "id": 49,
+            "label": "Cheyenne (Wyoming)",
+            "prompt": "Cheyenne",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Wyoming\">Wyoming (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 50,
+    "thumbnail": "data/thumbnails/61.jpg",
+    "title": "Capitales"
+}

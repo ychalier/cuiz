@@ -1,0 +1,6 @@
+ignore/
+.ipynb_checkpoints/
+data/sentences.json
+data/thumbnails/
+data/polys/
+*.bat

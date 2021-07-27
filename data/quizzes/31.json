@@ -1,0 +1,68 @@
+{
+    "category": "Langues \u2013 Europe de l'Est",
+    "id": 31,
+    "input": "text",
+    "prompt": "sentence",
+    "questions": [
+        {
+            "answer": "Albanais",
+            "id": 0,
+            "label": "Albanais",
+            "prompt": "sqi",
+            "tips": "Beaucoup de <b>q</b> et de <b>j</b>. Lettres <b>\u00eb</b> et <b>\u00e7</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Albanais\">Albanais (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Croate",
+            "id": 1,
+            "label": "Croate",
+            "prompt": "hrv",
+            "tips": "Lettres <b>\u0161</b>, <b>\u0107</b> et <b>\u010d</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Croate\">Croate (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Hongrois",
+            "id": 2,
+            "label": "Hongrois",
+            "prompt": "hun",
+            "tips": "Lettres <b>\u00e9</b>, <b>\u00e1</b>, <b>\u00ed</b>, <b>\u00f3</b>, <b>\u00fa</b>, <b>\u00fc</b>, <b>\u0151</b> et <b>\u00f6</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hongrois\">Hongrois (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Roumain",
+            "id": 3,
+            "label": "Roumain",
+            "prompt": "ron",
+            "tips": "Lettres <b>\u015f</b>, <b>\u01ab</b>, <b>\u0103</b> et <b>\u0203</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Roumain\">Roumain (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Slovaque",
+            "id": 4,
+            "label": "Slovaque",
+            "prompt": "slk",
+            "tips": "Similaire au Tch\u00e8que. Lettres <b>\u00e1</b>, <b>\u00e9</b>, <b>\u00ed</b>, <b>\u00fd</b>, <b>\u010d</b>, <b>\u0161</b> et <b>\u017e</b>. Pour le diff\u00e9riencer du Tch\u00e8que, rechercher les lettres <b>\u00e4</b>, <b>\u013e</b>, <b>\u013a</b>, <b>\u0155</b>, <b>\u00f4</b>, <b>dz</b> et <b>d\u017e</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Slovaque\">Slovaque (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Slov\u00e8ne",
+            "id": 5,
+            "label": "Slov\u00e8ne",
+            "prompt": "slv",
+            "tips": "Beaucoup de lettres <b>j</b>. Lettres <b>\u017e</b>, <b>\u0161</b> et <b>\u010d</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Slov%C3%A8ne\">Slov\u00e8ne (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Tch\u00e8que",
+            "id": 6,
+            "label": "Tch\u00e8que",
+            "prompt": "ces",
+            "tips": "Lettres <b>\u00e1</b>, <b>\u00e9</b>, <b>\u00fd</b>, <b>\u010d</b>, <b>\u0161</b>, <b>\u017e</b>, <b>\u011b</b>, <b>\u016f</b> et <b>\u0159</b>. Pour le diff\u00e9rencier du Slovaque, rechercher les lettres <b>\u011b</b>, <b>\u0159</b> et <b>\u016f</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tch%C3%A8que\">Tch\u00e8que (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Turc",
+            "id": 7,
+            "label": "Turc",
+            "prompt": "tur",
+            "tips": "Lettres <b>\u00f6</b>, <b>\u0131</b>, <b>\u011f</b> et <b>\u015f</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Turc\">Turc (Wikip\u00e9dia)</a>."
+        }
+    ],
+    "settings": {},
+    "size": 8,
+    "thumbnail": "data/thumbnails/31.jpg",
+    "title": "Phrases"
+}

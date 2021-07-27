@@ -1,0 +1,677 @@
+{
+    "category": "D\u00e9partements fran\u00e7ais \u2013 Totalit\u00e9",
+    "id": 36,
+    "input": "text",
+    "prompt": "image",
+    "questions": [
+        {
+            "answer": "Ain",
+            "id": 0,
+            "label": "Ain",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ain.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ain_(d%C3%A9partement)\">Ain (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Aisne",
+            "id": 1,
+            "label": "Aisne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Aisne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Aisne_(d%C3%A9partement)\">Aisne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Allier",
+            "id": 2,
+            "label": "Allier",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Allier.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Allier_(d%C3%A9partement)\">Allier (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Alpes-Maritimes",
+            "id": 3,
+            "label": "Alpes-Maritimes",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20County%20of%20Nice.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Alpes-Maritimes\">Alpes-Maritimes (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Alpes-de-Haute-Provence",
+            "id": 4,
+            "label": "Alpes-de-Haute-Provence",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Alpes-de-Haute-Provence.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Alpes-de-Haute-Provence\">Alpes-de-Haute-Provence (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ardennes",
+            "id": 5,
+            "label": "Ardennes",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Ardennes.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ardennes_(d%C3%A9partement)\">Ardennes (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ard\u00e8che",
+            "id": 6,
+            "label": "Ard\u00e8che",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Ard%C3%A8che.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ard%C3%A8che_(d%C3%A9partement)\">Ard\u00e8che (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ari\u00e8ge",
+            "id": 7,
+            "label": "Ari\u00e8ge",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposition%20de%20drapeau%20pour%20le%20d%C3%A9partement%20de%20l%27Ari%C3%A8ge.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ari%C3%A8ge_(d%C3%A9partement)\">Ari\u00e8ge (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Aube",
+            "id": 8,
+            "label": "Aube",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Aube.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Aube_(d%C3%A9partement)\">Aube (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Aude",
+            "id": 9,
+            "label": "Aude",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-offiicel%20fr%20d%C3%A9partement%20Aude.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Aude_(d%C3%A9partement)\">Aude (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Aveyron",
+            "id": 10,
+            "label": "Aveyron",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rouergue.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Aveyron_(d%C3%A9partement)\">Aveyron (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bas-Rhin",
+            "id": 11,
+            "label": "Bas-Rhin",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Basse-Alsace.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bas-Rhin\">Bas-Rhin (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bouches-du-Rh\u00f4ne",
+            "id": 12,
+            "label": "Bouches-du-Rh\u00f4ne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Bouches-du-Rh%C3%B4ne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bouches-du-Rh%C3%B4ne\">Bouches-du-Rh\u00f4ne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Calvados",
+            "id": 13,
+            "label": "Calvados",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Calvados.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Calvados_(d%C3%A9partement)\">Calvados (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cantal",
+            "id": 14,
+            "label": "Cantal",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Cantal.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cantal_(d%C3%A9partement)\">Cantal (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Charente",
+            "id": 15,
+            "label": "Charente",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Charente.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Charente-Maritime\">Charente (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Charente-Maritime",
+            "id": 16,
+            "label": "Charente-Maritime",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/CharenteMaritimeFlag.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Charente-Maritime\">Charente-Maritime (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cher",
+            "id": 17,
+            "label": "Cher",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Cher.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cher_(d%C3%A9partement)\">Cher (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Corr\u00e8ze",
+            "id": 18,
+            "label": "Corr\u00e8ze",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20d%C3%A9partement%20fr%20Corr%C3%A8ze.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Corr%C3%A8ze_(d%C3%A9partement)\">Corr\u00e8ze (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Corse-du-Sud",
+            "id": 19,
+            "label": "Corse-du-Sud",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Corsica.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Corse-du-Sud\">Corse-du-Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Creuse",
+            "id": 20,
+            "label": "Creuse",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Creuse.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Creuse_(d%C3%A9partement)\">Creuse (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "C\u00f4te-d'Or",
+            "id": 21,
+            "label": "C\u00f4te-d'Or",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20C%C3%B4te-d%27Or.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/C%C3%B4te-d%27Or\">C\u00f4te-d'Or (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "C\u00f4tes-d'Armor",
+            "id": 22,
+            "label": "C\u00f4tes-d'Armor",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20C%C3%B4tes-d%27Armor.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/C%C3%B4tes-d%27Armor\">C\u00f4tes-d'Armor (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Deux-S\u00e8vres",
+            "id": 23,
+            "label": "Deux-S\u00e8vres",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Deux-S%C3%A8vres.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Deux-S%C3%A8vres\">Deux-S\u00e8vres (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Dordogne",
+            "id": 24,
+            "label": "Dordogne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Dordogne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Dordogne_(d%C3%A9partement)\">Dordogne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Doubs",
+            "id": 25,
+            "label": "Doubs",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposed%20flag%20of%20Doubs.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Doubs_(d%C3%A9partement)\">Doubs (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Dr\u00f4me",
+            "id": 26,
+            "label": "Dr\u00f4me",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20d%C3%A9partement%20fr%20Dr%C3%B4me.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Dr%C3%B4me_(d%C3%A9partement)\">Dr\u00f4me (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Essonne",
+            "id": 27,
+            "label": "Essonne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Essonne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Essonne_(d%C3%A9partement)\">Essonne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Eure",
+            "id": 28,
+            "label": "Eure",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposed%20flag%20of%20Eure.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Eure_(d%C3%A9partement)\">Eure (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Eure-et-Loir",
+            "id": 29,
+            "label": "Eure-et-Loir",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eure-et-Loir.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Eure-et-Loir\">Eure-et-Loir (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Finist\u00e8re",
+            "id": 30,
+            "label": "Finist\u00e8re",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20Finist%C3%A8re.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Finist%C3%A8re\">Finist\u00e8re (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Gard",
+            "id": 31,
+            "label": "Gard",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20Gard.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Gard\">Gard (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Gers",
+            "id": 32,
+            "label": "Gers",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Gers.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Gers_(d%C3%A9partement)\">Gers (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Gironde",
+            "id": 33,
+            "label": "Gironde",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Gironde.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Gironde_(d%C3%A9partement)\">Gironde (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haut-Rhin",
+            "id": 34,
+            "label": "Haut-Rhin",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Haute-Alsace.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haut-Rhin\">Haut-Rhin (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Corse",
+            "id": 35,
+            "label": "Haute-Corse",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Corsica.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Corse\">Haute-Corse (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Garonne",
+            "id": 36,
+            "label": "Haute-Garonne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20Haute-Garonne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Garonne\">Haute-Garonne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Loire",
+            "id": 37,
+            "label": "Haute-Loire",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20d%C3%A9partement%20fr%20Haute-Loire.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Loire\">Haute-Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Marne",
+            "id": 38,
+            "label": "Haute-Marne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Haute-Marne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Marne\">Haute-Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Savoie",
+            "id": 39,
+            "label": "Haute-Savoie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Savoie.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Savoie\">Haute-Savoie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Sa\u00f4ne",
+            "id": 40,
+            "label": "Haute-Sa\u00f4ne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Haute-Sa%C3%B4ne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Sa%C3%B4ne\">Haute-Sa\u00f4ne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Haute-Vienne",
+            "id": 41,
+            "label": "Haute-Vienne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Haute-Vienne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Vienne\">Haute-Vienne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Hautes-Alpes",
+            "id": 42,
+            "label": "Hautes-Alpes",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hautes-Alpes.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hautes-Alpes\">Hautes-Alpes (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Hautes-Pyr\u00e9n\u00e9es",
+            "id": 43,
+            "label": "Hautes-Pyr\u00e9n\u00e9es",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposed%20flag%20for%20Hautes-Pyr%C3%A9n%C3%A9es.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hautes-Pyr%C3%A9n%C3%A9es\">Hautes-Pyr\u00e9n\u00e9es (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Hauts-de-Seine",
+            "id": 44,
+            "label": "Hauts-de-Seine",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Hauts-de-Seine.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hauts-de-Seine\">Hauts-de-Seine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "H\u00e9rault",
+            "id": 45,
+            "label": "H\u00e9rault",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20H%C3%A9rault.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/H%C3%A9rault_(d%C3%A9partement)\">H\u00e9rault (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ille-et-Vilaine",
+            "id": 46,
+            "label": "Ille-et-Vilaine",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20Ille-et-Vilaine.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ille-et-Vilaine\">Ille-et-Vilaine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Indre",
+            "id": 47,
+            "label": "Indre",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/IndreFlag.gif",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indre_(d%C3%A9partement)\">Indre (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Indre-et-Loire",
+            "id": 48,
+            "label": "Indre-et-Loire",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20Indre-et-Loire.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indre-et-Loire\">Indre-et-Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Is\u00e8re",
+            "id": 49,
+            "label": "Is\u00e8re",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Is%C3%A8re.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Is%C3%A8re_(d%C3%A9partement)\">Is\u00e8re (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Jura",
+            "id": 50,
+            "label": "Jura",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jura%20%28department%29.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Jura_(d%C3%A9partement)\">Jura (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Landes",
+            "id": 51,
+            "label": "Landes",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Landes.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Landes_(d%C3%A9partement)\">Landes (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Loir-et-Cher",
+            "id": 52,
+            "label": "Loir-et-Cher",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Loir-et-Cher.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loir-et-Cher\">Loir-et-Cher (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Loire",
+            "id": 53,
+            "label": "Loire",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Loire.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loire_(d%C3%A9partement)\">Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Loire-Atlantique",
+            "id": 54,
+            "label": "Loire-Atlantique",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Loire-Atlantique.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loire-Atlantique\">Loire-Atlantique (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Loiret",
+            "id": 55,
+            "label": "Loiret",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Loiret.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loiret_(d%C3%A9partement)\">Loiret (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Lot",
+            "id": 56,
+            "label": "Lot",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/LotFlag.gif",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lot_(d%C3%A9partement)\">Lot (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Lot-et-Garonne",
+            "id": 57,
+            "label": "Lot-et-Garonne",
+            "prompt": null,
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lot-et-Garonne\">Lot-et-Garonne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Loz\u00e8re",
+            "id": 58,
+            "label": "Loz\u00e8re",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20Loz%C3%A8re.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loz%C3%A8re_(d%C3%A9partement)\">Loz\u00e8re (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Maine-et-Loire",
+            "id": 59,
+            "label": "Maine-et-Loire",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Anjou.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Maine-et-Loire\">Maine-et-Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Manche",
+            "id": 60,
+            "label": "Manche",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20Manche.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Manche_(mer)\">Manche (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Marne",
+            "id": 61,
+            "label": "Marne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Marne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Marne_(d%C3%A9partement)\">Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mayenne",
+            "id": 62,
+            "label": "Mayenne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Mayenne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mayenne_(d%C3%A9partement)\">Mayenne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Meurthe-et-Moselle",
+            "id": 63,
+            "label": "Meurthe-et-Moselle",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Meurthe-et-Moselle.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Meurthe-et-Moselle\">Meurthe-et-Moselle (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Meuse",
+            "id": 64,
+            "label": "Meuse",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Meuse.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Meuse_(fleuve)\">Meuse (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Morbihan",
+            "id": 65,
+            "label": "Morbihan",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Morbihan.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Morbihan\">Morbihan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Moselle",
+            "id": 66,
+            "label": "Moselle",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/MoselleFlag.gif",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Moselle_(rivi%C3%A8re)\">Moselle (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ni\u00e8vre",
+            "id": 67,
+            "label": "Ni\u00e8vre",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Ni%C3%A8vre.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ni%C3%A8vre_(d%C3%A9partement)\">Ni\u00e8vre (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nord",
+            "id": 68,
+            "label": "Nord",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Nord.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nord\">Nord (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Oise",
+            "id": 69,
+            "label": "Oise",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Oise.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Orne_(d%C3%A9partement)\">Oise (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Orne",
+            "id": 70,
+            "label": "Orne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Orne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Orne_(d%C3%A9partement)\">Orne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pas-de-Calais",
+            "id": 71,
+            "label": "Pas-de-Calais",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Pas-de-Calais%20proposed%20Flag.gif",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pas-de-Calais\">Pas-de-Calais (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Puy-de-D\u00f4me",
+            "id": 72,
+            "label": "Puy-de-D\u00f4me",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20propos%C3%A9%20pour%20le%20d%C3%A9partement%20Puy-de-D%C3%B4me.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Puy-de-D%C3%B4me\">Puy-de-D\u00f4me (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pyr\u00e9n\u00e9es-Atlantiques",
+            "id": 73,
+            "label": "Pyr\u00e9n\u00e9es-Atlantiques",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20propos%C3%A9%20pour%20les%20Pyrenees-atlantiques.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pyr%C3%A9n%C3%A9es-Atlantiques\">Pyr\u00e9n\u00e9es-Atlantiques (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pyr\u00e9n\u00e9es-Orientales",
+            "id": 74,
+            "label": "Pyr\u00e9n\u00e9es-Orientales",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20propos%C3%A9%20pour%20le%20d%C3%A9partement%20des%20Pyr%C3%A9n%C3%A9es-Orientales.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pyr%C3%A9n%C3%A9es-Orientales\">Pyr\u00e9n\u00e9es-Orientales (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Rh\u00f4ne",
+            "id": 75,
+            "label": "Rh\u00f4ne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rh%C3%B4ne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Rh%C3%B4ne\">Rh\u00f4ne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Sarthe",
+            "id": 76,
+            "label": "Sarthe",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Sarthe.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Sarthe_(d%C3%A9partement)\">Sarthe (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Savoie",
+            "id": 77,
+            "label": "Savoie",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Savoie.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Savoir\">Savoie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Sa\u00f4ne-et-Loire",
+            "id": 78,
+            "label": "Sa\u00f4ne-et-Loire",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposition%20de%20drapeau%20pour%20le%20d%C3%A9partement%20de%20Sa%C3%B4ne-et-Loire.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Sa%C3%B4ne-et-Loire\">Sa\u00f4ne-et-Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Seine-Maritime",
+            "id": 79,
+            "label": "Seine-Maritime",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposed%20flag%20for%20Seine-Maritime.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Seine-Maritime\">Seine-Maritime (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Seine-Saint-Denis",
+            "id": 80,
+            "label": "Seine-Saint-Denis",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Seine-Saint-Denis.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Seine-Saint-Denis\">Seine-Saint-Denis (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Seine-et-Marne",
+            "id": 81,
+            "label": "Seine-et-Marne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20propos%C3%A9%20pour%20le%20d%C3%A9partement%20de%20Seine-et-Marne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Seine-et-Marne\">Seine-et-Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Somme",
+            "id": 82,
+            "label": "Somme",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Somme.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Somme_(d%C3%A9partement)\">Somme (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tarn",
+            "id": 83,
+            "label": "Tarn",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Tarn.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tarn-et-Garonne\">Tarn (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tarn-et-Garonne",
+            "id": 84,
+            "label": "Tarn-et-Garonne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposed%20flag%20for%20Tarn-et-Garonne.gif",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tarn-et-Garonne\">Tarn-et-Garonne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Territoire de Belfort",
+            "id": 85,
+            "label": "Territoire de Belfort",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Territoire%20de%20Belfort.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Territoire_de_Belfort\">Territoire de Belfort (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Val-d'Oise",
+            "id": 86,
+            "label": "Val-d'Oise",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Val-d%27Oise.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Val-d%27Oise\">Val-d'Oise (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Val-de-Marne",
+            "id": 87,
+            "label": "Val-de-Marne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20propos%C3%A9%20pour%20le%20d%C3%A9partement%20du%20Val-de-Marne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Val-de-Marne\">Val-de-Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Var",
+            "id": 88,
+            "label": "Var",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposition%20de%20drapeau%20pour%20le%20Var.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Var_(d%C3%A9partement)\">Var (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vaucluse",
+            "id": 89,
+            "label": "Vaucluse",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Vaucluse.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vaucluse_(d%C3%A9partement)\">Vaucluse (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vend\u00e9e",
+            "id": 90,
+            "label": "Vend\u00e9e",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vend%C3%A9e.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vend%C3%A9e_(d%C3%A9partement)\">Vend\u00e9e (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vienne",
+            "id": 91,
+            "label": "Vienne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Vienne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vienne_(d%C3%A9partement)\">Vienne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vosges",
+            "id": 92,
+            "label": "Vosges",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Vosges.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vosges_(d%C3%A9partement)\">Vosges (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Yonne",
+            "id": 93,
+            "label": "Yonne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Yonne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Yonne_(d%C3%A9partement)\">Yonne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Yvelines",
+            "id": 94,
+            "label": "Yvelines",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Yvelines.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Yvelines\">Yvelines (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 95,
+    "thumbnail": "data/thumbnails/36.jpg",
+    "title": "Drapeaux"
+}

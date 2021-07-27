@@ -1,0 +1,40 @@
+{
+    "category": "Couverture StreetView \u2013 Oc\u00e9anie",
+    "id": 20,
+    "input": "text",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "Australie",
+            "id": 0,
+            "label": ".au (Australie)",
+            "prompt": ".au",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Australie\">Australie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nouvelle-Z\u00e9lande",
+            "id": 1,
+            "label": ".nz (Nouvelle-Z\u00e9lande)",
+            "prompt": ".nz",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nouvelle-Z%C3%A9lande\">Nouvelle-Z\u00e9lande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Samoa am\u00e9ricaines",
+            "id": 2,
+            "label": ".as (Samoa am\u00e9ricaines)",
+            "prompt": ".as",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Samoa_am%C3%A9ricaines\">Samoa am\u00e9ricaines (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00celes Mariannes du Nord",
+            "id": 3,
+            "label": ".mp (\u00celes Mariannes du Nord)",
+            "prompt": ".mp",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Eles_Mariannes_du_Nord\">\u00celes Mariannes du Nord (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 4,
+    "thumbnail": "data/thumbnails/20.jpg",
+    "title": "Domaines Internet"
+}

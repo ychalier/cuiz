@@ -1,0 +1,166 @@
+{
+    "category": "Couverture StreetView \u2013 Asie",
+    "id": 11,
+    "input": "text",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "Bangladesh",
+            "id": 0,
+            "label": "Dacca (Bangladesh)",
+            "prompt": "Dacca",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bangladesh\">Bangladesh (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bhoutan",
+            "id": 1,
+            "label": "Thimphou (Bhoutan)",
+            "prompt": "Thimphou",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bhoutan\">Bhoutan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cambodge",
+            "id": 2,
+            "label": "Phnom Penh (Cambodge)",
+            "prompt": "Phnom Penh",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cambodge\">Cambodge (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cor\u00e9e du Sud",
+            "id": 3,
+            "label": "S\u00e9oul (Cor\u00e9e du Sud)",
+            "prompt": "S\u00e9oul",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cor%C3%A9e_du_Sud\">Cor\u00e9e du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Inde",
+            "id": 4,
+            "label": "New Delhi (Inde)",
+            "prompt": "New Delhi",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Inde\">Inde (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Indon\u00e9sie",
+            "id": 5,
+            "label": "Jakarta (Indon\u00e9sie)",
+            "prompt": "Jakarta",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indon%C3%A9sie\">Indon\u00e9sie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Isra\u00ebl",
+            "id": 6,
+            "label": "J\u00e9rusalem (Isra\u00ebl)",
+            "prompt": "J\u00e9rusalem",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Isra%C3%ABl\">Isra\u00ebl (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Japon",
+            "id": 7,
+            "label": "Tokyo (Japon)",
+            "prompt": "Tokyo",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Japon\">Japon (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Jordanie",
+            "id": 8,
+            "label": "Amman (Jordanie)",
+            "prompt": "Amman",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Jordanie\">Jordanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Kirghizistan",
+            "id": 9,
+            "label": "Bichkek (Kirghizistan)",
+            "prompt": "Bichkek",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kirghizistan\">Kirghizistan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Laos",
+            "id": 10,
+            "label": "Vientiane (Laos)",
+            "prompt": "Vientiane",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Laos\">Laos (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Malaisie",
+            "id": 11,
+            "label": "Kuala Lumpur (Malaisie)",
+            "prompt": "Kuala Lumpur",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Malaisie\">Malaisie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mongolie",
+            "id": 12,
+            "label": "Oulan-Bator (Mongolie)",
+            "prompt": "Oulan-Bator",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mongolie\">Mongolie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Philippines",
+            "id": 13,
+            "label": "Manille (Philippines)",
+            "prompt": "Manille",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Philippines\">Philippines (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Singapour",
+            "id": 14,
+            "label": "Singapour (Singapour)",
+            "prompt": "Singapour",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Singapour\">Singapour (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Sri Lanka",
+            "id": 15,
+            "label": "Colombo (Sri Lanka)",
+            "prompt": "Colombo",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Sri_Lanka\">Sri Lanka (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Sri Lanka",
+            "id": 16,
+            "label": "Sri Jayawardenapura (Sri Lanka)",
+            "prompt": "Sri Jayawardenapura",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Sri_Lanka\">Sri Lanka (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ta\u00efwan",
+            "id": 17,
+            "label": "Taipei (Ta\u00efwan)",
+            "prompt": "Taipei",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ta%C3%AFwan\">Ta\u00efwan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tha\u00eflande",
+            "id": 18,
+            "label": "Bangkok (Tha\u00eflande)",
+            "prompt": "Bangkok",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tha%C3%AFlande\">Tha\u00eflande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Turquie",
+            "id": 19,
+            "label": "Ankara (Turquie)",
+            "prompt": "Ankara",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Turquie\">Turquie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vi\u00eat Nam",
+            "id": 20,
+            "label": "Hano\u00ef (Vi\u00eat Nam)",
+            "prompt": "Hano\u00ef",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vi%C3%AAt_Nam\">Vi\u00eat Nam (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00cele Christmas",
+            "id": 21,
+            "label": "Flying Fish Cove (\u00cele Christmas)",
+            "prompt": "Flying Fish Cove",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Ele_Christmas_(Australie)\">\u00cele Christmas (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 22,
+    "thumbnail": "data/thumbnails/11.jpg",
+    "title": "Capitales"
+}

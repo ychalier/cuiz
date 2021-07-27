@@ -1,0 +1,726 @@
+{
+    "category": "Couverture StreetView \u2013 Totalit\u00e9",
+    "id": 7,
+    "input": "text",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "Afrique du Sud",
+            "id": 0,
+            "label": "Pretoria (Afrique du Sud)",
+            "prompt": "Pretoria",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Afrique_du_Sud\">Afrique du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Afrique du Sud",
+            "id": 1,
+            "label": "Bloemfontein (Afrique du Sud)",
+            "prompt": "Bloemfontein",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Afrique_du_Sud\">Afrique du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Afrique du Sud",
+            "id": 2,
+            "label": "Le Cap (Afrique du Sud)",
+            "prompt": "Le Cap",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Afrique_du_Sud\">Afrique du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Albanie",
+            "id": 3,
+            "label": "Tirana (Albanie)",
+            "prompt": "Tirana",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Albanie\">Albanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Allemagne",
+            "id": 4,
+            "label": "Berlin (Allemagne)",
+            "prompt": "Berlin",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Allemagne\">Allemagne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Andorre",
+            "id": 5,
+            "label": "Andorre-la-Vieille (Andorre)",
+            "prompt": "Andorre-la-Vieille",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Andorre\">Andorre (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Argentine",
+            "id": 6,
+            "label": "Buenos Aires (Argentine)",
+            "prompt": "Buenos Aires",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Argentine\">Argentine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Australie",
+            "id": 7,
+            "label": "Canberra (Australie)",
+            "prompt": "Canberra",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Australie\">Australie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Autriche",
+            "id": 8,
+            "label": "Vienne (Autriche)",
+            "prompt": "Vienne",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Autriche\">Autriche (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bangladesh",
+            "id": 9,
+            "label": "Dacca (Bangladesh)",
+            "prompt": "Dacca",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bangladesh\">Bangladesh (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Belgique",
+            "id": 10,
+            "label": "Bruxelles (Belgique)",
+            "prompt": "Bruxelles",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Belgique\">Belgique (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bhoutan",
+            "id": 11,
+            "label": "Thimphou (Bhoutan)",
+            "prompt": "Thimphou",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bhoutan\">Bhoutan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bolivie",
+            "id": 12,
+            "label": "Sucre (Bolivie)",
+            "prompt": "Sucre",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bolivie\">Bolivie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bolivie",
+            "id": 13,
+            "label": "La Paz (Bolivie)",
+            "prompt": "La Paz",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bolivie\">Bolivie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Botswana",
+            "id": 14,
+            "label": "Gaborone (Botswana)",
+            "prompt": "Gaborone",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Botswana\">Botswana (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Br\u00e9sil",
+            "id": 15,
+            "label": "Brasilia (Br\u00e9sil)",
+            "prompt": "Brasilia",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Br%C3%A9sil\">Br\u00e9sil (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Bulgarie",
+            "id": 16,
+            "label": "Sofia (Bulgarie)",
+            "prompt": "Sofia",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bulgarie\">Bulgarie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cambodge",
+            "id": 17,
+            "label": "Phnom Penh (Cambodge)",
+            "prompt": "Phnom Penh",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cambodge\">Cambodge (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Canada",
+            "id": 18,
+            "label": "Ottawa (Canada)",
+            "prompt": "Ottawa",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Canada\">Canada (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Chili",
+            "id": 19,
+            "label": "Santiago (Chili)",
+            "prompt": "Santiago",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Chili\">Chili (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Colombie",
+            "id": 20,
+            "label": "Bogota (Colombie)",
+            "prompt": "Bogota",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Colombie\">Colombie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cor\u00e9e du Sud",
+            "id": 21,
+            "label": "S\u00e9oul (Cor\u00e9e du Sud)",
+            "prompt": "S\u00e9oul",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cor%C3%A9e_du_Sud\">Cor\u00e9e du Sud (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Croatie",
+            "id": 22,
+            "label": "Zagreb (Croatie)",
+            "prompt": "Zagreb",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Croatie\">Croatie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cura\u00e7ao",
+            "id": 23,
+            "label": "Willemstad (Cura\u00e7ao)",
+            "prompt": "Willemstad",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cura%C3%A7ao\">Cura\u00e7ao (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Danemark",
+            "id": 24,
+            "label": "Copenhague (Danemark)",
+            "prompt": "Copenhague",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Danemark\">Danemark (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Espagne",
+            "id": 25,
+            "label": "Madrid (Espagne)",
+            "prompt": "Madrid",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Espagne\">Espagne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Estonie",
+            "id": 26,
+            "label": "Tallinn (Estonie)",
+            "prompt": "Tallinn",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Estonie\">Estonie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Eswatini",
+            "id": 27,
+            "label": "Mbabane (Eswatini)",
+            "prompt": "Mbabane",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Eswatini\">Eswatini (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Eswatini",
+            "id": 28,
+            "label": "Lobamba (Eswatini)",
+            "prompt": "Lobamba",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Eswatini\">Eswatini (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Finlande",
+            "id": 29,
+            "label": "Helsinki (Finlande)",
+            "prompt": "Helsinki",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Finlande\">Finlande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "France",
+            "id": 30,
+            "label": "Paris (France)",
+            "prompt": "Paris",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/France\">France (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ghana",
+            "id": 31,
+            "label": "Accra (Ghana)",
+            "prompt": "Accra",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ghana\">Ghana (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Gibraltar",
+            "id": 32,
+            "label": "Gibraltar (Gibraltar)",
+            "prompt": "Gibraltar",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Gibraltar\">Gibraltar (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Groenland",
+            "id": 33,
+            "label": "Nuuk (Groenland)",
+            "prompt": "Nuuk",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Groenland\">Groenland (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Gr\u00e8ce",
+            "id": 34,
+            "label": "Ath\u00e8nes (Gr\u00e8ce)",
+            "prompt": "Ath\u00e8nes",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Gr%C3%A8ce\">Gr\u00e8ce (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Guatemala",
+            "id": 35,
+            "label": "Guatemala-Ville (Guatemala)",
+            "prompt": "Guatemala-Ville",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Guatemala\">Guatemala (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Hongrie",
+            "id": 36,
+            "label": "Budapest (Hongrie)",
+            "prompt": "Budapest",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hongrie\">Hongrie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Inde",
+            "id": 37,
+            "label": "New Delhi (Inde)",
+            "prompt": "New Delhi",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Inde\">Inde (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Indon\u00e9sie",
+            "id": 38,
+            "label": "Jakarta (Indon\u00e9sie)",
+            "prompt": "Jakarta",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indon%C3%A9sie\">Indon\u00e9sie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Irlande",
+            "id": 39,
+            "label": "Dublin (Irlande)",
+            "prompt": "Dublin",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Irlande_(pays)\">Irlande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Islande",
+            "id": 40,
+            "label": "Reykjavik (Islande)",
+            "prompt": "Reykjavik",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Islande\">Islande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Isra\u00ebl",
+            "id": 41,
+            "label": "J\u00e9rusalem (Isra\u00ebl)",
+            "prompt": "J\u00e9rusalem",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Isra%C3%ABl\">Isra\u00ebl (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Italie",
+            "id": 42,
+            "label": "Rome (Italie)",
+            "prompt": "Rome",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Italie\">Italie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Japon",
+            "id": 43,
+            "label": "Tokyo (Japon)",
+            "prompt": "Tokyo",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Japon\">Japon (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Jersey",
+            "id": 44,
+            "label": "Saint-H\u00e9lier (Jersey)",
+            "prompt": "Saint-H\u00e9lier",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Jersey\">Jersey (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Jordanie",
+            "id": 45,
+            "label": "Amman (Jordanie)",
+            "prompt": "Amman",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Jordanie\">Jordanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Kenya",
+            "id": 46,
+            "label": "Nairobi (Kenya)",
+            "prompt": "Nairobi",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kenya\">Kenya (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Kirghizistan",
+            "id": 47,
+            "label": "Bichkek (Kirghizistan)",
+            "prompt": "Bichkek",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kirghizistan\">Kirghizistan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Laos",
+            "id": 48,
+            "label": "Vientiane (Laos)",
+            "prompt": "Vientiane",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Laos\">Laos (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Lesotho",
+            "id": 49,
+            "label": "Maseru (Lesotho)",
+            "prompt": "Maseru",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lesotho\">Lesotho (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Lettonie",
+            "id": 50,
+            "label": "Riga (Lettonie)",
+            "prompt": "Riga",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lettonie\">Lettonie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Lituanie",
+            "id": 51,
+            "label": "Vilnius (Lituanie)",
+            "prompt": "Vilnius",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Lituanie\">Lituanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Luxembourg",
+            "id": 52,
+            "label": "Luxembourg (Luxembourg)",
+            "prompt": "Luxembourg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Luxembourg\">Luxembourg (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mac\u00e9doine du Nord",
+            "id": 53,
+            "label": "Skopje (Mac\u00e9doine du Nord)",
+            "prompt": "Skopje",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mac%C3%A9doine_du_Nord\">Mac\u00e9doine du Nord (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Madagascar",
+            "id": 54,
+            "label": "Antananarivo (Madagascar)",
+            "prompt": "Antananarivo",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Madagascar\">Madagascar (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Malaisie",
+            "id": 55,
+            "label": "Kuala Lumpur (Malaisie)",
+            "prompt": "Kuala Lumpur",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Malaisie\">Malaisie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Malte",
+            "id": 56,
+            "label": "La Valette (Malte)",
+            "prompt": "La Valette",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Malte\">Malte (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mexique",
+            "id": 57,
+            "label": "Mexico (Mexique)",
+            "prompt": "Mexico",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mexique\">Mexique (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Monaco",
+            "id": 58,
+            "label": "Monaco-Ville (Monaco)",
+            "prompt": "Monaco-Ville",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Monaco\">Monaco (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mongolie",
+            "id": 59,
+            "label": "Oulan-Bator (Mongolie)",
+            "prompt": "Oulan-Bator",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mongolie\">Mongolie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mont\u00e9n\u00e9gro",
+            "id": 60,
+            "label": "Podgorica (Mont\u00e9n\u00e9gro)",
+            "prompt": "Podgorica",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mont%C3%A9n%C3%A9gro\">Mont\u00e9n\u00e9gro (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nigeria",
+            "id": 61,
+            "label": "Abuja (Nigeria)",
+            "prompt": "Abuja",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nigeria\">Nigeria (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Norv\u00e8ge",
+            "id": 62,
+            "label": "Oslo (Norv\u00e8ge)",
+            "prompt": "Oslo",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Norv%C3%A8ge\">Norv\u00e8ge (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Nouvelle-Z\u00e9lande",
+            "id": 63,
+            "label": "Wellington (Nouvelle-Z\u00e9lande)",
+            "prompt": "Wellington",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nouvelle-Z%C3%A9lande\">Nouvelle-Z\u00e9lande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ouganda",
+            "id": 64,
+            "label": "Kampala (Ouganda)",
+            "prompt": "Kampala",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ouganda\">Ouganda (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pays-Bas",
+            "id": 65,
+            "label": "Amsterdam (Pays-Bas)",
+            "prompt": "Amsterdam",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pays-Bas\">Pays-Bas (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pays-Bas",
+            "id": 66,
+            "label": "La Haye (Pays-Bas)",
+            "prompt": "La Haye",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pays-Bas\">Pays-Bas (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Philippines",
+            "id": 67,
+            "label": "Manille (Philippines)",
+            "prompt": "Manille",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Philippines\">Philippines (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Pologne",
+            "id": 68,
+            "label": "Varsovie (Pologne)",
+            "prompt": "Varsovie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pologne\">Pologne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Porto Rico",
+            "id": 69,
+            "label": "San Juan (Porto Rico)",
+            "prompt": "San Juan",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Porto_Rico\">Porto Rico (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Portugal",
+            "id": 70,
+            "label": "Lisbonne (Portugal)",
+            "prompt": "Lisbonne",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Portugal\">Portugal (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "P\u00e9rou",
+            "id": 71,
+            "label": "Lima (P\u00e9rou)",
+            "prompt": "Lima",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/P%C3%A9rou\">P\u00e9rou (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Roumanie",
+            "id": 72,
+            "label": "Bucarest (Roumanie)",
+            "prompt": "Bucarest",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Roumanie\">Roumanie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Royaume-Uni",
+            "id": 73,
+            "label": "Londres (Royaume-Uni)",
+            "prompt": "Londres",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Royaume-Uni\">Royaume-Uni (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Russie",
+            "id": 74,
+            "label": "Moscou (Russie)",
+            "prompt": "Moscou",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Russie\">Russie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "R\u00e9publique dominicaine",
+            "id": 75,
+            "label": "Saint-Domingue (R\u00e9publique dominicaine)",
+            "prompt": "Saint-Domingue",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/R%C3%A9publique_dominicaine\">R\u00e9publique dominicaine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Saint-Marin",
+            "id": 76,
+            "label": "Saint-Marin (Saint-Marin)",
+            "prompt": "Saint-Marin",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Saint-Marin\">Saint-Marin (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Samoa am\u00e9ricaines",
+            "id": 77,
+            "label": "Pago Pago (Samoa am\u00e9ricaines)",
+            "prompt": "Pago Pago",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Samoa_am%C3%A9ricaines\">Samoa am\u00e9ricaines (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Serbie",
+            "id": 78,
+            "label": "Belgrade (Serbie)",
+            "prompt": "Belgrade",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Serbie\">Serbie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Singapour",
+            "id": 79,
+            "label": "Singapour (Singapour)",
+            "prompt": "Singapour",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Singapour\">Singapour (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Slovaquie",
+            "id": 80,
+            "label": "Bratislava (Slovaquie)",
+            "prompt": "Bratislava",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Slovaquie\">Slovaquie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Slov\u00e9nie",
+            "id": 81,
+            "label": "Ljubljana (Slov\u00e9nie)",
+            "prompt": "Ljubljana",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Slov%C3%A9nie\">Slov\u00e9nie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Sri Lanka",
+            "id": 82,
+            "label": "Colombo (Sri Lanka)",
+            "prompt": "Colombo",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Sri_Lanka\">Sri Lanka (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Sri Lanka",
+            "id": 83,
+            "label": "Sri Jayawardenapura (Sri Lanka)",
+            "prompt": "Sri Jayawardenapura",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Sri_Lanka\">Sri Lanka (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Suisse",
+            "id": 84,
+            "label": "Berne (Suisse)",
+            "prompt": "Berne",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Suisse\">Suisse (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Su\u00e8de",
+            "id": 85,
+            "label": "Stockholm (Su\u00e8de)",
+            "prompt": "Stockholm",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Su%C3%A8de\">Su\u00e8de (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "S\u00e9n\u00e9gal",
+            "id": 86,
+            "label": "Dakar (S\u00e9n\u00e9gal)",
+            "prompt": "Dakar",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A9gal\">S\u00e9n\u00e9gal (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ta\u00efwan",
+            "id": 87,
+            "label": "Taipei (Ta\u00efwan)",
+            "prompt": "Taipei",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ta%C3%AFwan\">Ta\u00efwan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tch\u00e9quie",
+            "id": 88,
+            "label": "Prague (Tch\u00e9quie)",
+            "prompt": "Prague",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tch%C3%A9quie\">Tch\u00e9quie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tha\u00eflande",
+            "id": 89,
+            "label": "Bangkok (Tha\u00eflande)",
+            "prompt": "Bangkok",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tha%C3%AFlande\">Tha\u00eflande (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Tunisie",
+            "id": 90,
+            "label": "Tunis (Tunisie)",
+            "prompt": "Tunis",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Tunisie\">Tunisie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Turquie",
+            "id": 91,
+            "label": "Ankara (Turquie)",
+            "prompt": "Ankara",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Turquie\">Turquie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ukraine",
+            "id": 92,
+            "label": "Kiev (Ukraine)",
+            "prompt": "Kiev",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ukraine\">Ukraine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Uruguay",
+            "id": 93,
+            "label": "Montevideo (Uruguay)",
+            "prompt": "Montevideo",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Uruguay\">Uruguay (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vi\u00eat Nam",
+            "id": 94,
+            "label": "Hano\u00ef (Vi\u00eat Nam)",
+            "prompt": "Hano\u00ef",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vi%C3%AAt_Nam\">Vi\u00eat Nam (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00c9quateur",
+            "id": 95,
+            "label": "Quito (\u00c9quateur)",
+            "prompt": "Quito",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%89quateur_(pays)\">\u00c9quateur (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00c9tats-Unis",
+            "id": 96,
+            "label": "Washington (\u00c9tats-Unis)",
+            "prompt": "Washington",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%89tats-Unis\">\u00c9tats-Unis (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00cele Christmas",
+            "id": 97,
+            "label": "Flying Fish Cove (\u00cele Christmas)",
+            "prompt": "Flying Fish Cove",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Ele_Christmas_(Australie)\">\u00cele Christmas (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00cele de Man",
+            "id": 98,
+            "label": "Douglas (\u00cele de Man)",
+            "prompt": "Douglas",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Ele_de_Man\">\u00cele de Man (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00celes F\u00e9ro\u00e9",
+            "id": 99,
+            "label": "T\u00f3rshavn (\u00celes F\u00e9ro\u00e9)",
+            "prompt": "T\u00f3rshavn",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Eles_F%C3%A9ro%C3%A9\">\u00celes F\u00e9ro\u00e9 (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00celes Mariannes du Nord",
+            "id": 100,
+            "label": "Saipan (\u00celes Mariannes du Nord)",
+            "prompt": "Saipan",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Eles_Mariannes_du_Nord\">\u00celes Mariannes du Nord (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00celes Vierges des \u00c9tats-Unis",
+            "id": 101,
+            "label": "Charlotte Amalie (\u00celes Vierges des \u00c9tats-Unis)",
+            "prompt": "Charlotte Amalie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Eles_Vierges_des_%C3%89tats-Unis\">\u00celes Vierges des \u00c9tats-Unis (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 102,
+    "thumbnail": "data/thumbnails/7.jpg",
+    "title": "Capitales"
+}

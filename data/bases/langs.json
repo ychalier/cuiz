@@ -1,0 +1,672 @@
+{
+    "categories": [
+        {
+            "img": "data/images/world.jpg",
+            "key": "[all]"
+        },
+        {
+            "img": "data/images/ideogramms.jpg",
+            "key": "Idéogrammes"
+        },
+        {
+            "img": "data/images/asia.jpg",
+            "key": "Asie"
+        },
+        {
+            "img": "data/images/eastern-europe.jpg",
+            "key": "Europe de l'Est"
+        },
+        {
+            "img": "data/images/western-europe.jpg",
+            "key": "Europe de l'Ouest"
+        },
+        {
+            "img": "data/images/northern-europe.jpg",
+            "key": "Europe du Nord"
+        },
+        {
+            "img": "data/images/north-eastern-europe.jpg",
+            "key": "Europe du Nord-Est"
+        },
+        {
+            "img": "data/images/cyrillic.jpg",
+            "key": "Cyrillique"
+        }
+    ],
+    "entities": [
+        {
+            "category": "Europe de l'Est",
+            "label": "Albanais",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Beaucoup de <b>q</b> et de <b>j</b>. Lettres <b>\u00eb</b> et <b>\u00e7</b>.",
+                        "value": "sqi"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Albanais"
+        },
+        {
+            "category": "Europe de l'Ouest",
+            "label": "Allemand",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettres <b>\u00e4</b>, <b>\u00fc</b>, <b>\u00f6</b> et <b>\u00df</b>.",
+                        "value": "deu"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Allemand"
+        },
+        {
+            "category": "Europe de l'Ouest",
+            "label": "Anglais",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": null,
+                        "value": "eng"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Anglais"
+        },
+        {
+            "category": "Asie",
+            "label": "Arabe",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Beaucoup de mots ont une ligne en-dessous.",
+                        "value": "ara"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Arabe"
+        },
+        {
+            "category": "Europe de l'Ouest",
+            "label": "Basque",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Beaucoup de <b>x</b>.",
+                        "value": "eus"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Basque"
+        },
+        {
+            "category": "Asie",
+            "label": "Bengali",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Ligne horizontale au-dessus des lettres.",
+                        "value": "ben"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Bengali"
+        },
+        {
+            "category": "Europe de l'Ouest",
+            "label": "Breton",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": null,
+                        "value": "bre"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Breton"
+        },
+        {
+            "category": "Cyrillique",
+            "label": "Bulgare",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": null,
+                        "value": "bul"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Bulgare"
+        },
+        {
+            "category": "Idéogrammes",
+            "label": "Chinois",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Caract\u00e8res plus complexes.",
+                        "value": "cmn"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Mandarin_(langue)"
+        },
+        {
+            "category": "Idéogrammes",
+            "label": "Cor\u00e9en",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Usage de cercles. Blocs monolithiques.",
+                        "value": "kor"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Cor%C3%A9en"
+        },
+        {
+            "category": "Europe de l'Est",
+            "label": "Croate",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettres <b>\u0161</b>, <b>\u0107</b> et <b>\u010d</b>.",
+                        "value": "hrv"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Croate"
+        },
+        {
+            "category": "Europe du Nord",
+            "label": "Danois",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettres <b>\u00e6</b>, <b>\u00e5</b> et <b>\u00f8</b>.",
+                        "value": "dan"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Danois"
+        },
+        {
+            "category": "Europe de l'Ouest",
+            "label": "\u00c9cossais",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Beaucoup de <b>ll</b>. Lettres <b>y</b>, <b>w</b> et <b>c</b>.",
+                        "value": "cym"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Ga%C3%A9lique_%C3%A9cossais"
+        },
+        {
+            "category": "Europe de l'Ouest",
+            "label": "Espagnol",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettres <b>\u00e1</b> et <b>\u00f1</b>.",
+                        "value": "spa"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Espagnol"
+        },
+        {
+            "category": "Europe du Nord-Est",
+            "label": "Estonien",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Similaire au finnois. Lettre <b>\u00f5</b>.",
+                        "value": "est"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Estonien"
+        },
+        {
+            "category": "Europe du Nord",
+            "label": "Finnois",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettre <b>\u00e4</b>. Beaucoup de doubles lettres <b>aa</b> et <b>ii</b>.",
+                        "value": "fin"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Finnois"
+        },
+        {
+            "category": "Europe de l'Ouest",
+            "label": "Fran\u00e7ais",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettres <b>\u00e7</b>, <b>\u00eb</b>, <b>\u00e8</b>, <b>\u00e9</b>, <b>\u00ef</b> et <b>\u00e0</b>.",
+                        "value": "fra"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Fran%C3%A7ais"
+        },
+        {
+            "category": "Europe de l'Ouest",
+            "label": "Grec",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettres <b>\u03b1</b>, <b>\u03b2</b>, <b>\u03b3</b> et <b>\u03b4</b>.",
+                        "value": "ell"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Grec"
+        },
+        {
+            "category": "Asie",
+            "label": "H\u00e9breu",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Bien des lettres ressemblent \u00e0 un <b>n</b>, parfois avec une barre suppl\u00e9mentaire.",
+                        "value": "heb"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/H%C3%A9breu"
+        },
+        {
+            "category": "Asie",
+            "label": "Hindi",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Similaire au Bengali. Certaines lettres ressemblent \u00e0 un <b>h</b> renvers\u00e9 et retourn\u00e9, d'autres \u00e0 un <b>F</b> retourn\u00e9.",
+                        "value": "hin"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Hindi"
+        },
+        {
+            "category": "Europe de l'Est",
+            "label": "Hongrois",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettres <b>\u00e9</b>, <b>\u00e1</b>, <b>\u00ed</b>, <b>\u00f3</b>, <b>\u00fa</b>, <b>\u00fc</b>, <b>\u0151</b> et <b>\u00f6</b>.",
+                        "value": "hun"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Hongrois"
+        },
+        {
+            "category": "Asie",
+            "label": "Indon\u00e9sien",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Beaucoup de lettres <b>a</b>. Suffixes <b>kan</b>, <b>an</b> et <b>i</b>.",
+                        "value": "ind"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Indon%C3%A9sien"
+        },
+        {
+            "category": "Europe du Nord",
+            "label": "Islandais",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": null,
+                        "value": "isl"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Islandais"
+        },
+        {
+            "category": "Europe de l'Ouest",
+            "label": "Italien",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettres <b>\u00ec</b>, <b>\u00e0</b>, <b>gg</b> et <b>cc</b>. Beaucoup de mots se terminent par des voyelles.",
+                        "value": "ita"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Italien"
+        },
+        {
+            "category": "Idéogrammes",
+            "label": "Japonais",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Caract\u00e8res faits de traits simples et courb\u00e9s.",
+                        "value": "jpn"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Japonais"
+        },
+        {
+            "category": "Asie",
+            "label": "Khmer",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Similaire au Tha\u00ef. Crochets en haut des lettres, qui poitent vers la droite.",
+                        "value": "khm"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Khmer"
+        },
+        {
+            "category": "Cyrillique",
+            "label": "Kirghize",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettre <b>\u04a2</b>.",
+                        "value": "kir"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Kirghize"
+        },
+        {
+            "category": "Asie",
+            "label": "Lao",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Similaire au Tha\u00ef. Lettres courb\u00e9es.",
+                        "value": "lao"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Lao"
+        },
+        {
+            "category": "Europe du Nord-Est",
+            "label": "Letton",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettres <b>\u013c</b>, <b>\u0137</b>, <b>\u0146</b>, <b>\u0101</b>, <b>\u0113</b>, <b>\u012b</b>, <b>\u014d</b>, <b>\u016b</b> et <b>\u017e</b>.",
+                        "value": "lvs"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Letton"
+        },
+        {
+            "category": "Europe du Nord-Est",
+            "label": "Lituanien",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "La lettre <b>\u0117</b> est unique. Lettres <b>\u0161</b>, <b>\u017e</b>, <b>\u016b</b> et <b>\u010d</b>.",
+                        "value": "lit"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Lituanien"
+        },
+        {
+            "category": "Cyrillique",
+            "label": "Mac\u00e9donien",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettres <b>\u0405</b>, <b>\u0403</b> et <b>\u040c</b>.",
+                        "value": "mkd"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Mac%C3%A9donien"
+        },
+        {
+            "category": "Cyrillique",
+            "label": "Mongol",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": null,
+                        "value": "mon"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Mongol"
+        },
+        {
+            "category": "Europe de l'Ouest",
+            "label": "N\u00e9erlandais",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Beaucoup de <b>z</b>, <b>w</b>, <b>ee</b> et <b>ij</b>.",
+                        "value": "nld"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/N%C3%A9erlandais"
+        },
+        {
+            "category": "Europe du Nord",
+            "label": "Norv\u00e9gien",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettres <b>\u00e6</b>, <b>\u00f8</b> et <b>\u00e5</b>.",
+                        "value": "nob"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Norv%C3%A9gien"
+        },
+        {
+            "category": "Europe du Nord-Est",
+            "label": "Polonais",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Beaucoup de <b>z</b>, souvent de la forme <b>rz</b>, <b>sz</b> ou <b>cz</b>. Lettres <b>\u00f3</b>, <b>\u0142</b>, <b>\u017c</b>, <b>\u015b</b>, <b>\u0229</b> et <b>\u0144</b>.",
+                        "value": "pol"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Polonais"
+        },
+        {
+            "category": "Europe de l'Ouest",
+            "label": "Portugais",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettres <b>\u00e3</b> et <b>\u00c7</b>.",
+                        "value": "por"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Portugais"
+        },
+        {
+            "category": "Europe de l'Est",
+            "label": "Roumain",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettres <b>\u015f</b>, <b>\u01ab</b>, <b>\u0103</b> et <b>\u0203</b>.",
+                        "value": "ron"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Roumain"
+        },
+        {
+            "category": "Cyrillique",
+            "label": "Russe",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": null,
+                        "value": "rus"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Russe"
+        },
+        {
+            "category": "Cyrillique",
+            "label": "Serbe",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettres <b>\u0402</b> et <b>\u040b</b>.",
+                        "value": "srp"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Serbe"
+        },
+        {
+            "category": "Asie",
+            "label": "Singhalais",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Les lettres ressemblent \u00e0 des <b>C</b> tourn\u00e9s et retourn\u00e9s, avec d'autres \u00e0 l'int\u00e9rieur.",
+                        "value": "sin"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Singhalais"
+        },
+        {
+            "category": "Europe de l'Est",
+            "label": "Slovaque",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Similaire au Tch\u00e8que. Lettres <b>\u00e1</b>, <b>\u00e9</b>, <b>\u00ed</b>, <b>\u00fd</b>, <b>\u010d</b>, <b>\u0161</b> et <b>\u017e</b>. Pour le diff\u00e9riencer du Tch\u00e8que, rechercher les lettres <b>\u00e4</b>, <b>\u013e</b>, <b>\u013a</b>, <b>\u0155</b>, <b>\u00f4</b>, <b>dz</b> et <b>d\u017e</b>.",
+                        "value": "slk"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Slovaque"
+        },
+        {
+            "category": "Europe de l'Est",
+            "label": "Slov\u00e8ne",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Beaucoup de lettres <b>j</b>. Lettres <b>\u017e</b>, <b>\u0161</b> et <b>\u010d</b>.",
+                        "value": "slv"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Slov%C3%A8ne"
+        },
+        {
+            "category": "Europe du Nord",
+            "label": "Su\u00e9dois",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettres <b>\u00e5</b>, <b>\u00e4</b> et <b>\u00f6</b>.",
+                        "value": "swe"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Su%C3%A9dois"
+        },
+        {
+            "category": "Europe de l'Est",
+            "label": "Tch\u00e8que",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettres <b>\u00e1</b>, <b>\u00e9</b>, <b>\u00fd</b>, <b>\u010d</b>, <b>\u0161</b>, <b>\u017e</b>, <b>\u011b</b>, <b>\u016f</b> et <b>\u0159</b>. Pour le diff\u00e9rencier du Slovaque, rechercher les lettres <b>\u011b</b>, <b>\u0159</b> et <b>\u016f</b>.",
+                        "value": "ces"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Tch%C3%A8que"
+        },
+        {
+            "category": "Asie",
+            "label": "Tha\u00ef",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Similaire au Khmer. Beaucoup de petits cercles sur les extr\u00e9mit\u00e9s des lettres.",
+                        "value": "tha"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Tha%C3%AF"
+        },
+        {
+            "category": "Europe de l'Est",
+            "label": "Turc",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettres <b>\u00f6</b>, <b>\u0131</b>, <b>\u011f</b> et <b>\u015f</b>.",
+                        "value": "tur"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Turc"
+        },
+        {
+            "category": "Cyrillique",
+            "label": "Ukrainien",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": "Lettres <b>\u0406</b>, <b>\u0407</b>, <b>\u0490</b>, et <b>\u0404</b>.",
+                        "value": "ukr"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Ukrainien"
+        },
+        {
+            "category": "Asie",
+            "label": "Vietnamien",
+            "properties": {
+                "Phrases": [
+                    {
+                        "tips": null,
+                        "value": "vie"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Vietnamien"
+        }
+    ],
+    "properties": [
+        {
+            "img": "data/images/sentences.png",
+            "input": "text",
+            "key": "Phrases",
+            "prompt": "sentence",
+            "settings": {}
+        }
+    ],
+    "title": "Langues"
+}

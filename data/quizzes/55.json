@@ -1,0 +1,63 @@
+{
+    "category": "D\u00e9partements fran\u00e7ais \u2013 \u00cele-de-France",
+    "id": 55,
+    "input": "map",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "91",
+            "id": 0,
+            "label": "Essonne",
+            "prompt": "Essonne",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Essonne_(d%C3%A9partement)\">Essonne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "92",
+            "id": 1,
+            "label": "Hauts-de-Seine",
+            "prompt": "Hauts-de-Seine",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Hauts-de-Seine\">Hauts-de-Seine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "93",
+            "id": 2,
+            "label": "Seine-Saint-Denis",
+            "prompt": "Seine-Saint-Denis",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Seine-Saint-Denis\">Seine-Saint-Denis (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "77",
+            "id": 3,
+            "label": "Seine-et-Marne",
+            "prompt": "Seine-et-Marne",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Seine-et-Marne\">Seine-et-Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "95",
+            "id": 4,
+            "label": "Val-d'Oise",
+            "prompt": "Val-d'Oise",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Val-d%27Oise\">Val-d'Oise (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "94",
+            "id": 5,
+            "label": "Val-de-Marne",
+            "prompt": "Val-de-Marne",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Val-de-Marne\">Val-de-Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "78",
+            "id": 6,
+            "label": "Yvelines",
+            "prompt": "Yvelines",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Yvelines\">Yvelines (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {
+        "source": "data/polys/france.json"
+    },
+    "size": 7,
+    "thumbnail": "data/thumbnails/55.jpg",
+    "title": "Carte"
+}

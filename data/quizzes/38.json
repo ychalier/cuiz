@@ -1,0 +1,152 @@
+{
+    "category": "D\u00e9partements fran\u00e7ais \u2013 Nord-Ouest",
+    "id": 38,
+    "input": "text",
+    "prompt": "image",
+    "questions": [
+        {
+            "answer": "Calvados",
+            "id": 0,
+            "label": "Calvados",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Calvados.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Calvados_(d%C3%A9partement)\">Calvados (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Cher",
+            "id": 1,
+            "label": "Cher",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Cher.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cher_(d%C3%A9partement)\">Cher (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "C\u00f4tes-d'Armor",
+            "id": 2,
+            "label": "C\u00f4tes-d'Armor",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20C%C3%B4tes-d%27Armor.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/C%C3%B4tes-d%27Armor\">C\u00f4tes-d'Armor (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Eure",
+            "id": 3,
+            "label": "Eure",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposed%20flag%20of%20Eure.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Eure_(d%C3%A9partement)\">Eure (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Eure-et-Loir",
+            "id": 4,
+            "label": "Eure-et-Loir",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Eure-et-Loir.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Eure-et-Loir\">Eure-et-Loir (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Finist\u00e8re",
+            "id": 5,
+            "label": "Finist\u00e8re",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20Finist%C3%A8re.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Finist%C3%A8re\">Finist\u00e8re (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Ille-et-Vilaine",
+            "id": 6,
+            "label": "Ille-et-Vilaine",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20Ille-et-Vilaine.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ille-et-Vilaine\">Ille-et-Vilaine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Indre",
+            "id": 7,
+            "label": "Indre",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/IndreFlag.gif",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indre_(d%C3%A9partement)\">Indre (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Indre-et-Loire",
+            "id": 8,
+            "label": "Indre-et-Loire",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20Indre-et-Loire.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Indre-et-Loire\">Indre-et-Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Loir-et-Cher",
+            "id": 9,
+            "label": "Loir-et-Cher",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Loir-et-Cher.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loir-et-Cher\">Loir-et-Cher (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Loire-Atlantique",
+            "id": 10,
+            "label": "Loire-Atlantique",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Loire-Atlantique.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loire-Atlantique\">Loire-Atlantique (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Loiret",
+            "id": 11,
+            "label": "Loiret",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Loiret.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Loiret_(d%C3%A9partement)\">Loiret (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Maine-et-Loire",
+            "id": 12,
+            "label": "Maine-et-Loire",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Anjou.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Maine-et-Loire\">Maine-et-Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Manche",
+            "id": 13,
+            "label": "Manche",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20non-officiel%20fr%20d%C3%A9partement%20Manche.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Manche_(mer)\">Manche (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mayenne",
+            "id": 14,
+            "label": "Mayenne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Mayenne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mayenne_(d%C3%A9partement)\">Mayenne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Morbihan",
+            "id": 15,
+            "label": "Morbihan",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Morbihan.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Morbihan\">Morbihan (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Orne",
+            "id": 16,
+            "label": "Orne",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Orne.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Orne_(d%C3%A9partement)\">Orne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Sarthe",
+            "id": 17,
+            "label": "Sarthe",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Drapeau%20fr%20d%C3%A9partement%20Sarthe.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Sarthe_(d%C3%A9partement)\">Sarthe (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Seine-Maritime",
+            "id": 18,
+            "label": "Seine-Maritime",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Proposed%20flag%20for%20Seine-Maritime.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Seine-Maritime\">Seine-Maritime (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Vend\u00e9e",
+            "id": 19,
+            "label": "Vend\u00e9e",
+            "prompt": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vend%C3%A9e.svg",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vend%C3%A9e_(d%C3%A9partement)\">Vend\u00e9e (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 20,
+    "thumbnail": "data/thumbnails/38.jpg",
+    "title": "Drapeaux"
+}

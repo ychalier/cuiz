@@ -1,0 +1,175 @@
+{
+    "category": "D\u00e9partements fran\u00e7ais \u2013 Nord-Est",
+    "id": 57,
+    "input": "map",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "02",
+            "id": 0,
+            "label": "Aisne",
+            "prompt": "Aisne",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Aisne_(d%C3%A9partement)\">Aisne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "08",
+            "id": 1,
+            "label": "Ardennes",
+            "prompt": "Ardennes",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ardennes_(d%C3%A9partement)\">Ardennes (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "10",
+            "id": 2,
+            "label": "Aube",
+            "prompt": "Aube",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Aube_(d%C3%A9partement)\">Aube (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "67",
+            "id": 3,
+            "label": "Bas-Rhin",
+            "prompt": "Bas-Rhin",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bas-Rhin\">Bas-Rhin (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "21",
+            "id": 4,
+            "label": "C\u00f4te-d'Or",
+            "prompt": "C\u00f4te-d'Or",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/C%C3%B4te-d%27Or\">C\u00f4te-d'Or (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "25",
+            "id": 5,
+            "label": "Doubs",
+            "prompt": "Doubs",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Doubs_(d%C3%A9partement)\">Doubs (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "68",
+            "id": 6,
+            "label": "Haut-Rhin",
+            "prompt": "Haut-Rhin",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haut-Rhin\">Haut-Rhin (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "52",
+            "id": 7,
+            "label": "Haute-Marne",
+            "prompt": "Haute-Marne",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Marne\">Haute-Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "70",
+            "id": 8,
+            "label": "Haute-Sa\u00f4ne",
+            "prompt": "Haute-Sa\u00f4ne",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Haute-Sa%C3%B4ne\">Haute-Sa\u00f4ne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "39",
+            "id": 9,
+            "label": "Jura",
+            "prompt": "Jura",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Jura_(d%C3%A9partement)\">Jura (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "51",
+            "id": 10,
+            "label": "Marne",
+            "prompt": "Marne",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Marne_(d%C3%A9partement)\">Marne (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "54",
+            "id": 11,
+            "label": "Meurthe-et-Moselle",
+            "prompt": "Meurthe-et-Moselle",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Meurthe-et-Moselle\">Meurthe-et-Moselle (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "55",
+            "id": 12,
+            "label": "Meuse",
+            "prompt": "Meuse",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Meuse_(fleuve)\">Meuse (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "57",
+            "id": 13,
+            "label": "Moselle",
+            "prompt": "Moselle",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Moselle_(rivi%C3%A8re)\">Moselle (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "58",
+            "id": 14,
+            "label": "Ni\u00e8vre",
+            "prompt": "Ni\u00e8vre",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ni%C3%A8vre_(d%C3%A9partement)\">Ni\u00e8vre (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "59",
+            "id": 15,
+            "label": "Nord",
+            "prompt": "Nord",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Nord\">Nord (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "60",
+            "id": 16,
+            "label": "Oise",
+            "prompt": "Oise",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Orne_(d%C3%A9partement)\">Oise (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "62",
+            "id": 17,
+            "label": "Pas-de-Calais",
+            "prompt": "Pas-de-Calais",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Pas-de-Calais\">Pas-de-Calais (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "71",
+            "id": 18,
+            "label": "Sa\u00f4ne-et-Loire",
+            "prompt": "Sa\u00f4ne-et-Loire",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Sa%C3%B4ne-et-Loire\">Sa\u00f4ne-et-Loire (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "80",
+            "id": 19,
+            "label": "Somme",
+            "prompt": "Somme",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Somme_(d%C3%A9partement)\">Somme (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "90",
+            "id": 20,
+            "label": "Territoire de Belfort",
+            "prompt": "Territoire de Belfort",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Territoire_de_Belfort\">Territoire de Belfort (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "88",
+            "id": 21,
+            "label": "Vosges",
+            "prompt": "Vosges",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Vosges_(d%C3%A9partement)\">Vosges (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "89",
+            "id": 22,
+            "label": "Yonne",
+            "prompt": "Yonne",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Yonne_(d%C3%A9partement)\">Yonne (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {
+        "source": "data/polys/france.json"
+    },
+    "size": 23,
+    "thumbnail": "data/thumbnails/57.jpg",
+    "title": "Carte"
+}

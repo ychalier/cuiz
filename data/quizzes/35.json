@@ -1,0 +1,61 @@
+{
+    "category": "Langues \u2013 Cyrillique",
+    "id": 35,
+    "input": "text",
+    "prompt": "sentence",
+    "questions": [
+        {
+            "answer": "Bulgare",
+            "id": 0,
+            "label": "Bulgare",
+            "prompt": "bul",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bulgare\">Bulgare (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Kirghize",
+            "id": 1,
+            "label": "Kirghize",
+            "prompt": "kir",
+            "tips": "Lettre <b>\u04a2</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Kirghize\">Kirghize (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Mac\u00e9donien",
+            "id": 2,
+            "label": "Mac\u00e9donien",
+            "prompt": "mkd",
+            "tips": "Lettres <b>\u0405</b>, <b>\u0403</b> et <b>\u040c</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mac%C3%A9donien\">Mac\u00e9donien (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Mongol",
+            "id": 3,
+            "label": "Mongol",
+            "prompt": "mon",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mongol\">Mongol (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Russe",
+            "id": 4,
+            "label": "Russe",
+            "prompt": "rus",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Russe\">Russe (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Serbe",
+            "id": 5,
+            "label": "Serbe",
+            "prompt": "srp",
+            "tips": "Lettres <b>\u0402</b> et <b>\u040b</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Serbe\">Serbe (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Ukrainien",
+            "id": 6,
+            "label": "Ukrainien",
+            "prompt": "ukr",
+            "tips": "Lettres <b>\u0406</b>, <b>\u0407</b>, <b>\u0490</b>, et <b>\u0404</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Ukrainien\">Ukrainien (Wikip\u00e9dia)</a>."
+        }
+    ],
+    "settings": {},
+    "size": 7,
+    "thumbnail": "data/thumbnails/35.jpg",
+    "title": "Phrases"
+}

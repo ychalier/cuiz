@@ -1,0 +1,68 @@
+{
+    "category": "Couverture StreetView \u2013 Am\u00e9rique du Nord",
+    "id": 9,
+    "input": "text",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "Canada",
+            "id": 0,
+            "label": "Ottawa (Canada)",
+            "prompt": "Ottawa",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Canada\">Canada (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Groenland",
+            "id": 1,
+            "label": "Nuuk (Groenland)",
+            "prompt": "Nuuk",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Groenland\">Groenland (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Guatemala",
+            "id": 2,
+            "label": "Guatemala-Ville (Guatemala)",
+            "prompt": "Guatemala-Ville",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Guatemala\">Guatemala (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Mexique",
+            "id": 3,
+            "label": "Mexico (Mexique)",
+            "prompt": "Mexico",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mexique\">Mexique (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Porto Rico",
+            "id": 4,
+            "label": "San Juan (Porto Rico)",
+            "prompt": "San Juan",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Porto_Rico\">Porto Rico (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "R\u00e9publique dominicaine",
+            "id": 5,
+            "label": "Saint-Domingue (R\u00e9publique dominicaine)",
+            "prompt": "Saint-Domingue",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/R%C3%A9publique_dominicaine\">R\u00e9publique dominicaine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00c9tats-Unis",
+            "id": 6,
+            "label": "Washington (\u00c9tats-Unis)",
+            "prompt": "Washington",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%89tats-Unis\">\u00c9tats-Unis (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "\u00celes Vierges des \u00c9tats-Unis",
+            "id": 7,
+            "label": "Charlotte Amalie (\u00celes Vierges des \u00c9tats-Unis)",
+            "prompt": "Charlotte Amalie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%8Eles_Vierges_des_%C3%89tats-Unis\">\u00celes Vierges des \u00c9tats-Unis (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {},
+    "size": 8,
+    "thumbnail": "data/thumbnails/9.jpg",
+    "title": "Capitales"
+}

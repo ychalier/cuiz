@@ -1,0 +1,33 @@
+{
+    "category": "Langues \u2013 Id\u00e9ogrammes",
+    "id": 29,
+    "input": "text",
+    "prompt": "sentence",
+    "questions": [
+        {
+            "answer": "Chinois",
+            "id": 0,
+            "label": "Chinois",
+            "prompt": "cmn",
+            "tips": "Caract\u00e8res plus complexes.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Mandarin_(langue)\">Chinois (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Cor\u00e9en",
+            "id": 1,
+            "label": "Cor\u00e9en",
+            "prompt": "kor",
+            "tips": "Usage de cercles. Blocs monolithiques.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cor%C3%A9en\">Cor\u00e9en (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Japonais",
+            "id": 2,
+            "label": "Japonais",
+            "prompt": "jpn",
+            "tips": "Caract\u00e8res faits de traits simples et courb\u00e9s.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Japonais\">Japonais (Wikip\u00e9dia)</a>."
+        }
+    ],
+    "settings": {},
+    "size": 3,
+    "thumbnail": "data/thumbnails/29.jpg",
+    "title": "Phrases"
+}

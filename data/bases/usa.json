@@ -1,0 +1,1286 @@
+{
+    "categories": [
+        {
+            "img": "data/images/usa.jpg",
+            "key": "[all]"
+        }
+    ],
+    "entities": [
+        {
+            "category": null,
+            "label": "Alabama",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Montgomery"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "AL"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Alabama.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Alabama"
+        },
+        {
+            "category": null,
+            "label": "Alaska",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Juneau"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "AK"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Alaska.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Alaska"
+        },
+        {
+            "category": null,
+            "label": "Arizona",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Phoenix"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "AZ"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Arizona.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Arizona"
+        },
+        {
+            "category": null,
+            "label": "Arkansas",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Little Rock"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "AR"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Arkansas.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Arkansas"
+        },
+        {
+            "category": null,
+            "label": "Californie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Sacramento"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "CA"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20California.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Californie"
+        },
+        {
+            "category": null,
+            "label": "Caroline du Nord",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Raleigh"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "NC"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Carolina.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Caroline_du_Nord"
+        },
+        {
+            "category": null,
+            "label": "Caroline du Sud",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Columbia"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "SC"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Carolina.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Caroline_du_Sud"
+        },
+        {
+            "category": null,
+            "label": "Colorado",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Denver"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "CO"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Colorado.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Colorado"
+        },
+        {
+            "category": null,
+            "label": "Connecticut",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Hartford"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "CT"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Connecticut.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Connecticut"
+        },
+        {
+            "category": null,
+            "label": "Dakota du Nord",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Bismarck"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "ND"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Dakota.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Dakota_du_Nord"
+        },
+        {
+            "category": null,
+            "label": "Dakota du Sud",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Pierre"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "SD"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Dakota.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Dakota_du_Sud"
+        },
+        {
+            "category": null,
+            "label": "Delaware",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Dover"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "DE"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Delaware.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Delaware"
+        },
+        {
+            "category": null,
+            "label": "Floride",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Tallahassee"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "FL"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Florida.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Tallahassee"
+        },
+        {
+            "category": null,
+            "label": "G\u00e9orgie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Atlanta"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "GA"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Georgia%20%28U.S.%20state%29.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/G%C3%A9orgie_(%C3%89tats-Unis)"
+        },
+        {
+            "category": null,
+            "label": "Hawa\u00ef",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Honolulu"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "HI"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hawaii.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Hawa%C3%AF"
+        },
+        {
+            "category": null,
+            "label": "Idaho",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Boise"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "ID"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Idaho.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Idaho"
+        },
+        {
+            "category": null,
+            "label": "Illinois",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Springfield"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "IL"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Illinois.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Illinois"
+        },
+        {
+            "category": null,
+            "label": "Indiana",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Indianapolis"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "IN"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Indiana.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Indiana"
+        },
+        {
+            "category": null,
+            "label": "Iowa",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Des Moines"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "IA"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iowa.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Iowa"
+        },
+        {
+            "category": null,
+            "label": "Kansas",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Topeka"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "KS"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kansas.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Kansas"
+        },
+        {
+            "category": null,
+            "label": "Kentucky",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Frankfort"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "KY"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kentucky.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Kentucky"
+        },
+        {
+            "category": null,
+            "label": "Louisiane",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Baton Rouge"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "LA"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Louisiana.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Louisiane"
+        },
+        {
+            "category": null,
+            "label": "Maine",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Augusta"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "ME"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Maine.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Maine"
+        },
+        {
+            "category": null,
+            "label": "Maryland",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Annapolis"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "MD"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Maryland.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Maryland"
+        },
+        {
+            "category": null,
+            "label": "Massachusetts",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Boston"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "MA"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Massachusetts.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Massachusetts"
+        },
+        {
+            "category": null,
+            "label": "Michigan",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Lansing"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "MI"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Michigan.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Michigan"
+        },
+        {
+            "category": null,
+            "label": "Minnesota",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Saint Paul"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "MN"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Minnesota.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Minnesota"
+        },
+        {
+            "category": null,
+            "label": "Mississippi",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Jackson"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "MS"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mississippi.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Mississippi_(%C3%89tat)"
+        },
+        {
+            "category": null,
+            "label": "Missouri",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Jefferson City"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "MO"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Missouri.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Missouri_(%C3%89tat)"
+        },
+        {
+            "category": null,
+            "label": "Montana",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Helena"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "MT"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Montana.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Montana"
+        },
+        {
+            "category": null,
+            "label": "Nebraska",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Lincoln"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "NE"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nebraska.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Nebraska"
+        },
+        {
+            "category": null,
+            "label": "Nevada",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Carson City"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "NV"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nevada.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Nevada"
+        },
+        {
+            "category": null,
+            "label": "New Hampshire",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Concord"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "NH"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20Hampshire.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/New_Hampshire"
+        },
+        {
+            "category": null,
+            "label": "New Jersey",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Trenton"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "NJ"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20Jersey.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/New_Jersey"
+        },
+        {
+            "category": null,
+            "label": "New York",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Albany"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "NY"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20York.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/New_York"
+        },
+        {
+            "category": null,
+            "label": "Nouveau-Mexique",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Santa Fe"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "NM"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20Mexico.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Nouveau-Mexique"
+        },
+        {
+            "category": null,
+            "label": "Ohio",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Columbus"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "OH"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ohio.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Ohio"
+        },
+        {
+            "category": null,
+            "label": "Oklahoma",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Oklahoma City"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "OK"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oklahoma.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Oklahoma"
+        },
+        {
+            "category": null,
+            "label": "Oregon",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Salem"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "OR"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oregon.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Oregon"
+        },
+        {
+            "category": null,
+            "label": "Pennsylvanie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Harrisburg"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "PA"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pennsylvania.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Pennsylvanie"
+        },
+        {
+            "category": null,
+            "label": "Rhode Island",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Providence"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "RI"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rhode%20Island.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Rhode_Island"
+        },
+        {
+            "category": null,
+            "label": "Tennessee",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Nashville"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "TN"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tennessee.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Tennessee"
+        },
+        {
+            "category": null,
+            "label": "Texas",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Austin"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "TX"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Texas.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Texas"
+        },
+        {
+            "category": null,
+            "label": "Utah",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Salt Lake City"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "UT"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Utah.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Utah"
+        },
+        {
+            "category": null,
+            "label": "Vermont",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Montpelier"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "VT"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Vermont.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Vermont"
+        },
+        {
+            "category": null,
+            "label": "Virginie",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Richmond"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "VA"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Virginia.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Virginie_(%C3%89tats-Unis)"
+        },
+        {
+            "category": null,
+            "label": "Virginie-Occidentale",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Charleston"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "WV"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20West%20Virginia.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Virginie-Occidentale"
+        },
+        {
+            "category": null,
+            "label": "Washington",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Olympia"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "WA"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Washington.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Washington_(%C3%89tat)"
+        },
+        {
+            "category": null,
+            "label": "Wisconsin",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Madison"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "WI"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Wisconsin.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Wisconsin"
+        },
+        {
+            "category": null,
+            "label": "Wyoming",
+            "properties": {
+                "Capitales": [
+                    {
+                        "tips": null,
+                        "value": "Cheyenne"
+                    }
+                ],
+                "Carte": [
+                    {
+                        "tips": null,
+                        "value": "WY"
+                    }
+                ],
+                "Drapeaux": [
+                    {
+                        "tips": null,
+                        "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Wyoming.svg"
+                    }
+                ]
+            },
+            "wikipedia": "https://fr.wikipedia.org/wiki/Wyoming"
+        }
+    ],
+    "properties": [
+        {
+            "img": "data/images/flags.png",
+            "input": "text",
+            "key": "Drapeaux",
+            "prompt": "image",
+            "settings": {}
+        },
+        {
+            "img": "data/images/capitals.png",
+            "input": "text",
+            "key": "Capitales",
+            "prompt": "text",
+            "settings": {}
+        },
+        {
+            "img": "data/images/map.png",
+            "input": "map",
+            "key": "Carte",
+            "prompt": "text",
+            "settings": {
+                "source": "data/polys/usa.json"
+            }
+        }
+    ],
+    "title": "\u00c9tats des \u00c9tats-Unis"
+}

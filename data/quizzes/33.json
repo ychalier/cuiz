@@ -1,0 +1,47 @@
+{
+    "category": "Langues \u2013 Europe du Nord",
+    "id": 33,
+    "input": "text",
+    "prompt": "sentence",
+    "questions": [
+        {
+            "answer": "Danois",
+            "id": 0,
+            "label": "Danois",
+            "prompt": "dan",
+            "tips": "Lettres <b>\u00e6</b>, <b>\u00e5</b> et <b>\u00f8</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Danois\">Danois (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Finnois",
+            "id": 1,
+            "label": "Finnois",
+            "prompt": "fin",
+            "tips": "Lettre <b>\u00e4</b>. Beaucoup de doubles lettres <b>aa</b> et <b>ii</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Finnois\">Finnois (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Islandais",
+            "id": 2,
+            "label": "Islandais",
+            "prompt": "isl",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Islandais\">Islandais (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "Norv\u00e9gien",
+            "id": 3,
+            "label": "Norv\u00e9gien",
+            "prompt": "nob",
+            "tips": "Lettres <b>\u00e6</b>, <b>\u00f8</b> et <b>\u00e5</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Norv%C3%A9gien\">Norv\u00e9gien (Wikip\u00e9dia)</a>."
+        },
+        {
+            "answer": "Su\u00e9dois",
+            "id": 4,
+            "label": "Su\u00e9dois",
+            "prompt": "swe",
+            "tips": "Lettres <b>\u00e5</b>, <b>\u00e4</b> et <b>\u00f6</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Su%C3%A9dois\">Su\u00e9dois (Wikip\u00e9dia)</a>."
+        }
+    ],
+    "settings": {},
+    "size": 5,
+    "thumbnail": "data/thumbnails/33.jpg",
+    "title": "Phrases"
+}

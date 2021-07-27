@@ -1,0 +1,77 @@
+{
+    "category": "Couverture StreetView \u2013 Am\u00e9rique du Sud",
+    "id": 24,
+    "input": "map",
+    "prompt": "text",
+    "questions": [
+        {
+            "answer": "ar",
+            "id": 0,
+            "label": "Argentine",
+            "prompt": "Argentine",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Argentine\">Argentine (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "bo",
+            "id": 1,
+            "label": "Bolivie",
+            "prompt": "Bolivie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Bolivie\">Bolivie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "br",
+            "id": 2,
+            "label": "Br\u00e9sil",
+            "prompt": "Br\u00e9sil",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Br%C3%A9sil\">Br\u00e9sil (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "cl",
+            "id": 3,
+            "label": "Chili",
+            "prompt": "Chili",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Chili\">Chili (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "co",
+            "id": 4,
+            "label": "Colombie",
+            "prompt": "Colombie",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Colombie\">Colombie (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "cw",
+            "id": 5,
+            "label": "Cura\u00e7ao",
+            "prompt": "Cura\u00e7ao",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Cura%C3%A7ao\">Cura\u00e7ao (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "pe",
+            "id": 6,
+            "label": "P\u00e9rou",
+            "prompt": "P\u00e9rou",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/P%C3%A9rou\">P\u00e9rou (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "uy",
+            "id": 7,
+            "label": "Uruguay",
+            "prompt": "Uruguay",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Uruguay\">Uruguay (Wikip\u00e9dia)</a>"
+        },
+        {
+            "answer": "ec",
+            "id": 8,
+            "label": "\u00c9quateur",
+            "prompt": "\u00c9quateur",
+            "tips": "Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/%C3%89quateur_(pays)\">\u00c9quateur (Wikip\u00e9dia)</a>"
+        }
+    ],
+    "settings": {
+        "source": "data/polys/world.json"
+    },
+    "size": 9,
+    "thumbnail": "data/thumbnails/24.jpg",
+    "title": "Carte"
+}
