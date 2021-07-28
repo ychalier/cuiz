@@ -1,4 +1,4 @@
-const URL_INDEX = "/data/index.json";
+const URL_INDEX = "data/index.json";
 
 
 function onBtnClearHistory() {
