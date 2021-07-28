@@ -21,7 +21,7 @@ def main():
     with open("index.html", "r", encoding="utf8") as file:
         html = file.read()
     
-    html = re.sub(" *<script type=\"text/javascript\" src=\"js/master\.js\"></script> *", "    <script type=\"text/javascript\" src=\"js/cuiz.js\"></script>", html)
+    html = re.sub(" *<script type=\"text/javascript\" src=\"js/master\.js\"></script> *", "    <script type=\"text/javascript\" src=\"cuiz.js\"></script>", html)
     html = re.sub(" *<script type=\"text/javascript\" src=\"js/misc\.js\"></script> *\n", "", html)
     html = re.sub(" *<script type=\"text/javascript\" src=\"js/history\.js\"></script> *\n", "", html)
     html = re.sub(" *<script type=\"text/javascript\" src=\"js/storage\.js\"></script> *\n", "", html)
