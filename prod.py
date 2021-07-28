@@ -32,7 +32,7 @@ def main():
     html = re.sub(" *<script type=\"text/javascript\" src=\"js/menu\.js\"></script> *\n", "", html)
     html = re.sub("href=\"master.css\"", "href=\"cuiz.css\"", html)
 
-    with open("index.min.html", "w", encoding="utf8") as file:
+    with open("index.html", "w", encoding="utf8") as file:
         file.write(html)
 
 if __name__ == "__main__":
