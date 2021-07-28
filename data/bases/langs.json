@@ -665,7 +665,9 @@
             "input": "text",
             "key": "Phrases",
             "prompt": "sentence",
-            "settings": {}
+            "settings": {
+                "source": "https://cdn.jsdelivr.net/gh/ychalier/pifekit/datasets/sentences.json"
+            }
         }
     ],
     "title": "Langues"

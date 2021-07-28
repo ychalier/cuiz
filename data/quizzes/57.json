@@ -167,9 +167,9 @@
         }
     ],
     "settings": {
-        "source": "data/polys/france.json"
+        "source": "https://cdn.jsdelivr.net/gh/ychalier/pifekit/datasets/polys/france.json"
     },
     "size": 23,
-    "thumbnail": "data/thumbnails/57.jpg",
+    "thumbnail": "https://i.imgur.com/i7OJz27.jpeg",
     "title": "Carte"
 }

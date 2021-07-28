@@ -33,8 +33,10 @@
             "tips": "Beaucoup de <b>z</b>, souvent de la forme <b>rz</b>, <b>sz</b> ou <b>cz</b>. Lettres <b>\u00f3</b>, <b>\u0142</b>, <b>\u017c</b>, <b>\u015b</b>, <b>\u0229</b> et <b>\u0144</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Polonais\">Polonais (Wikip\u00e9dia)</a>."
         }
     ],
-    "settings": {},
+    "settings": {
+        "source": "https://cdn.jsdelivr.net/gh/ychalier/pifekit/datasets/sentences.json"
+    },
     "size": 4,
-    "thumbnail": "data/thumbnails/34.jpg",
+    "thumbnail": "https://i.imgur.com/vzoJKC0.jpeg",
     "title": "Phrases"
 }

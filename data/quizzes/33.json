@@ -40,8 +40,10 @@
             "tips": "Lettres <b>\u00e5</b>, <b>\u00e4</b> et <b>\u00f6</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Su%C3%A9dois\">Su\u00e9dois (Wikip\u00e9dia)</a>."
         }
     ],
-    "settings": {},
+    "settings": {
+        "source": "https://cdn.jsdelivr.net/gh/ychalier/pifekit/datasets/sentences.json"
+    },
     "size": 5,
-    "thumbnail": "data/thumbnails/33.jpg",
+    "thumbnail": "https://i.imgur.com/WeEIRzY.jpeg",
     "title": "Phrases"
 }

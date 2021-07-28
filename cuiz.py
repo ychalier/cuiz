@@ -5,6 +5,10 @@ import os
 import slugify
 import subprocess
 import wikipedia
+import glob
+import imghostur
+import tqdm
+import time
 
 
 def create_index(path_quizzes, path_index):
@@ -149,12 +153,30 @@ def wikipedia_lookup(base_path):
         simplejson.dump(base, file, indent=4, sort_keys=True)
 
 
+def upload_thumbnails(path_quizzes):
+    client = imghostur.ImghosturClient()
+    for path in tqdm.tqdm(glob.glob(os.path.join(path_quizzes, "*.json"))):
+        with open(path, "r", encoding="utf8") as file:
+            quiz = simplejson.load(file)
+        assert quiz["thumbnail"] is not None, quiz["id"]
+        if quiz["thumbnail"].startswith("http"):
+            continue
+        url = client.upload(quiz["thumbnail"])
+        if url is None:
+            continue
+        quiz["thumbnail"] = url
+        with open(path, "w", encoding="utf8") as file:
+            simplejson.dump(quiz, file, indent=4, sort_keys=True)
+        time.sleep(1)
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--path-quizzes", type=str, default="data/quizzes")
     parser.add_argument("--path-index", type=str, default="data/index.json")
     action_parser = parser.add_subparsers(dest="action", required=True)
     action_parser.add_parser("index")
+    action_parser.add_parser("thumbnails")
     generate_parser = action_parser.add_parser("generate")
     generate_parser.add_argument("base_path", type=str)
     generate_parser.add_argument("id_offset", type=int)
@@ -167,6 +189,8 @@ def main():
         generate_quizzes(args.base_path, args.id_offset, args.path_quizzes)
     elif args.action == "wikipedia":
         wikipedia_lookup(args.base_path)
+    elif args.action == "thumbnails":
+        upload_thumbnails(args.path_quizzes)
 
 
 if __name__ == "__main__":

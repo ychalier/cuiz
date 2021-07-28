@@ -356,9 +356,9 @@
         }
     ],
     "settings": {
-        "source": "data/polys/usa.json"
+        "source": "https://cdn.jsdelivr.net/gh/ychalier/pifekit/datasets/polys/usa.json"
     },
     "size": 50,
-    "thumbnail": "data/thumbnails/62.jpg",
+    "thumbnail": "https://i.imgur.com/MK2wdQf.jpeg",
     "title": "Carte"
 }

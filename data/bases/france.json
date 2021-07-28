@@ -3000,7 +3000,7 @@
             "key": "Carte",
             "prompt": "text",
             "settings": {
-                "source": "data/polys/france.json"
+                "source": "https://cdn.jsdelivr.net/gh/ychalier/pifekit/datasets/polys/france.json"
             }
         }
     ],

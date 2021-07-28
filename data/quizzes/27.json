@@ -34,9 +34,9 @@
         }
     ],
     "settings": {
-        "source": "data/polys/world.json"
+        "source": "https://cdn.jsdelivr.net/gh/ychalier/pifekit/datasets/polys/world.json"
     },
     "size": 4,
-    "thumbnail": "data/thumbnails/27.jpg",
+    "thumbnail": "https://i.imgur.com/O8okbfS.jpeg",
     "title": "Carte"
 }

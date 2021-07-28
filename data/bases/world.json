@@ -3071,7 +3071,7 @@
             "key": "Carte",
             "prompt": "text",
             "settings": {
-                "source": "data/polys/world.json"
+                "source": "https://cdn.jsdelivr.net/gh/ychalier/pifekit/datasets/polys/world.json"
             }
         }
     ],

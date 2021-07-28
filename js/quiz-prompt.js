@@ -80,11 +80,10 @@ class QuizPromptSentence extends QuizPrompt {
 
     constructor(config, data) {
         super(config, data);
-        this.sentences = null;
-        let self = this;
-        sendRequest("data/sentences.json", (response) => {
-            self.sentences = JSON.parse(response);
-        });
+        let request = new XMLHttpRequest();
+        request.open("get", data.settings.source, false);
+        request.send();
+        this.sentences = JSON.parse(request.responseText)
         this.currentIndex = null;
     }
 

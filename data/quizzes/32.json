@@ -82,8 +82,10 @@
             "tips": "Lettres <b>\u00e3</b> et <b>\u00c7</b>.. Pour en apprendre plus&nbsp;: <a href=\"https://fr.wikipedia.org/wiki/Portugais\">Portugais (Wikip\u00e9dia)</a>."
         }
     ],
-    "settings": {},
+    "settings": {
+        "source": "https://cdn.jsdelivr.net/gh/ychalier/pifekit/datasets/sentences.json"
+    },
     "size": 11,
-    "thumbnail": "data/thumbnails/32.jpg",
+    "thumbnail": "https://i.imgur.com/nkB2uEI.jpeg",
     "title": "Phrases"
 }

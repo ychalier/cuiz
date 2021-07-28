@@ -4,3 +4,11 @@ data/sentences.json
 data/thumbnails/
 data/polys/
 *.bat
+__pycache__
+
+# ImgHostUr
+app.json
+album.json
+imghostur.py
+index.json
+token.json

@@ -5,20 +5,14 @@
 <head>
     <meta charset="utf8" />
     <meta name="viewport" content="width=device-width" />
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
-        integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
-        crossorigin="" />
-    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
-        integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
-        crossorigin=""></script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
     <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.js"></script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ychalier/pifekit/pifekit.css" />
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/ychalier/pifekit/pifekit.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/seedrandom/3.0.5/seedrandom.min.js"></script>
-    <link rel="icon" href="/assets/globe.png" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/ychalier/pifekit/pifekit.min.css" />
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/ychalier/pifekit/pifekit.min.js"></script>
     <link rel="stylesheet" type="text/css" href="master.css" />
-    <title>Cuiz</title>
     <script type="text/javascript" src="js/master.js"></script>
     <script type="text/javascript" src="js/misc.js"></script>
     <script type="text/javascript" src="js/history.js"></script>
@@ -28,6 +22,8 @@
     <script type="text/javascript" src="js/quiz-input.js"></script>
     <script type="text/javascript" src="js/quiz-prompt.js"></script>
     <script type="text/javascript" src="js/menu.js"></script>
+    <link rel="icon" href="/assets/globe.png" />
+    <title>Cuiz</title>
 </head>
 
 <body class="dark">
@@ -85,6 +81,9 @@
             <div class="grid-sizer"></div>
             <div class="gutter-sizer"></div>
         </div>
+        <p class="notices">
+            👀 De nouveaux quizs arrivent bientôt&nbsp;!
+        </p>
     </template>
 
     <template id="template-menu-item">
@@ -453,7 +452,7 @@
             <div class="modal-header">
                 <span class="btn btn-clear float-right" onclick="closeModal('modal-upload-json')" aria-label="Close"></span>
                 <div class="modal-title h5">Quiz personnalisé</div>
-                <div class="modal-subtitle text-gray">Jouer à un quiz non-officiel en utilisant un fichier au <a>format défini ici</a></div>
+                <div class="modal-subtitle text-gray">Jouer à un quiz non-officiel en utilisant un fichier au <a href="https://github.com/ychalier/cuiz#quiz-personnalise">format défini ici</a></div>
             </div>
             <form id="form-upload-json">
                 <div class="modal-body">
@@ -531,6 +530,14 @@
                     le point (<code>XXX</code>). Vous pouvez utiliser cet identifiant pour accéder
                     directement à un quiz, sans passer par le menu, en passant par l'adresse
                     suivante&nbsp;: <code>https://ychalier.github.io/cuiz/?quiz=XXX</code>.
+                </p>
+                <hr>
+                <h6>Couverture StreetView</h6>
+                <p>
+                    La première catégorie porte sur les pays du monde faisant partie de la
+                    couverture de Google StreetView. Afin de minimiser le nombre de pays inclus,
+                    seuls les pays disposant d'une carte officielle dans l'<i>Explorer Mode</i> de
+                    Geoguessr sont sélectionnés. Cela pourra être amené à changer.
                 </p>
             </div>
         </div>
