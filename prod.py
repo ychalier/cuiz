@@ -1,4 +1,3 @@
-import glob
 import jsmin
 import rcssmin
 import re
@@ -6,7 +5,17 @@ import re
 
 def main():
     raw_js = ""
-    for path in glob.glob("js/*.js"):
+    for path in (
+        "js/misc.js",
+        "js/master.js",
+        "js/storage.js",
+        "js/config.js",
+        "js/menu.js",
+        "js/quiz.js",
+        "js/quiz-input.js",
+        "js/quiz-prompt.js",
+        "js/history.js",
+    ):
         with open(path, "r", encoding="utf8") as file:
             raw_js += file.read()
     minified_js = jsmin.jsmin(raw_js)
@@ -21,7 +30,7 @@ def main():
     with open("index.html", "r", encoding="utf8") as file:
         html = file.read()
     
-    html = re.sub(" *<script type=\"text/javascript\" src=\"js/master\.js\"></script> *", "    <script type=\"text/javascript\" src=\"js/cuiz\.js\"></script>", html)
+    html = re.sub(" *<script type=\"text/javascript\" src=\"js/master\.js\"></script> *", "    <script type=\"text/javascript\" src=\"cuiz.js\"></script>", html)
     html = re.sub(" *<script type=\"text/javascript\" src=\"js/misc\.js\"></script> *\n", "", html)
     html = re.sub(" *<script type=\"text/javascript\" src=\"js/history\.js\"></script> *\n", "", html)
     html = re.sub(" *<script type=\"text/javascript\" src=\"js/storage\.js\"></script> *\n", "", html)
