@@ -1,0 +1,33 @@
+{
+    "category": "Ouvertures C (profondeur 1)",
+    "id": 70,
+    "input": "text",
+    "prompt": "chess-position",
+    "questions": [
+        {
+            "answer": "d\u00e9fense fran\u00e7aise",
+            "id": 0,
+            "label": "d\u00e9fense fran\u00e7aise",
+            "prompt": "rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "tips": "ECO: C00\u2013C19, eval: +27, PGN: 1. e4 e6"
+        },
+        {
+            "answer": "d\u00e9but ouvert",
+            "id": 1,
+            "label": "d\u00e9but ouvert",
+            "prompt": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "tips": "ECO: C20\u2013C99, eval: +25, PGN: 1. e4 e5"
+        },
+        {
+            "answer": "D\u00e9fense Bogo-indienne",
+            "id": 2,
+            "label": "D\u00e9fense Bogo-indienne",
+            "prompt": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4",
+            "tips": "ECO: C24,E11,\u042143, eval: +37, PGN: 1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+"
+        }
+    ],
+    "settings": {},
+    "size": 3,
+    "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+    "title": "Ouvertures"
+}

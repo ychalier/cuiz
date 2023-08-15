@@ -1,0 +1,61 @@
+{
+    "category": "Ouvertures B (profondeur 3)",
+    "id": 69,
+    "input": "text",
+    "prompt": "chess-position",
+    "questions": [
+        {
+            "answer": "Sicilienne Drag-Dorf",
+            "id": 0,
+            "label": "Sicilienne Drag-Dorf",
+            "prompt": "rnbqk2r/1p2ppbp/p2p1np1/8/3NP3/2N1BP2/PPP3PP/R2QKB1R w KQkq - 0 8",
+            "tips": "ECO: B70\u2013B79, eval: +74, PGN: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 a6"
+        },
+        {
+            "answer": "attaque anglaise",
+            "id": 1,
+            "label": "attaque anglaise",
+            "prompt": "rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6",
+            "tips": "ECO: B90\u2013B99, eval: +35, PGN: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3"
+        },
+        {
+            "answer": "Variante Polouga\u00efevski",
+            "id": 2,
+            "label": "Variante Polouga\u00efevski",
+            "prompt": "rnbqkb1r/5ppp/p2ppn2/1p4B1/3NPP2/2N5/PPP3PP/R2QKB1R w KQkq - 0 8",
+            "tips": "ECO: B96, eval: +63, PGN: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5"
+        },
+        {
+            "answer": "Verbeterde List",
+            "id": 3,
+            "label": "Verbeterde List",
+            "prompt": "r1bqkb1r/1p1npppp/p2p1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R w KQkq - 2 7",
+            "tips": "ECO: B90\u2013B99, eval: +42, PGN: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7"
+        },
+        {
+            "answer": "Sicilienne Richter-Rauzer",
+            "id": 4,
+            "label": "Sicilienne Richter-Rauzer",
+            "prompt": "r1bqkb1r/pp2pppp/2np1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R b KQkq - 4 6",
+            "tips": "ECO: B60, eval: +32, PGN: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5"
+        },
+        {
+            "answer": "attaque yougoslave",
+            "id": 5,
+            "label": "attaque yougoslave",
+            "prompt": "r1bq1rk1/pp2ppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/R3K2R b KQ - 4 9",
+            "tips": "ECO: B77\u2013B79, eval: +40, PGN: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2 Nc6 9. Bc4"
+        },
+        {
+            "answer": "variante du pion empoisonn\u00e9",
+            "id": 6,
+            "label": "variante du pion empoisonn\u00e9",
+            "prompt": "rnb1kb1r/1p3ppp/p2ppn2/6B1/3NPP2/2N5/PqPQ2PP/R3KB1R w KQkq - 0 9",
+            "tips": "ECO: B97, eval: +38, PGN: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2 Qxb2"
+        }
+    ],
+    "settings": {},
+    "size": 7,
+    "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+    "title": "Ouvertures"
+}

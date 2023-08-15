@@ -21,7 +21,25 @@
         "D\u00e9partements fran\u00e7ais \u2013 Nord-Est",
         "D\u00e9partements fran\u00e7ais \u2013 Sud-Est",
         "D\u00e9partements fran\u00e7ais \u2013 Sud-Ouest",
-        "\u00c9tats des \u00c9tats-Unis \u2013 Totalit\u00e9"
+        "\u00c9tats des \u00c9tats-Unis \u2013 Totalit\u00e9",
+        "Ouvertures A (profondeur 0)",
+        "Ouvertures A (profondeur 1)",
+        "Ouvertures A (profondeur 2)",
+        "Ouvertures B (profondeur 0)",
+        "Ouvertures B (profondeur 1)",
+        "Ouvertures B (profondeur 2)",
+        "Ouvertures B (profondeur 3)",
+        "Ouvertures C (profondeur 1)",
+        "Ouvertures C (profondeur 2)",
+        "Ouvertures C (profondeur 3)",
+        "Ouvertures C (profondeur 4)",
+        "Ouvertures C (profondeur 5)",
+        "Ouvertures C (profondeur 6)",
+        "Ouvertures D (profondeur 0)",
+        "Ouvertures D (profondeur 1)",
+        "Ouvertures D (profondeur 2)",
+        "Ouvertures D (profondeur 3)",
+        "Ouvertures E (profondeur 1)"
     ],
     "quizzes": [
         {
@@ -527,6 +545,150 @@
             "size": 50,
             "thumbnail": "https://i.imgur.com/MK2wdQf.jpeg",
             "title": "Carte"
+        },
+        {
+            "category": "Ouvertures A (profondeur 0)",
+            "dataset": "data/quizzes\\63.json",
+            "id": 63,
+            "size": 19,
+            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+            "title": "Ouvertures"
+        },
+        {
+            "category": "Ouvertures A (profondeur 1)",
+            "dataset": "data/quizzes\\64.json",
+            "id": 64,
+            "size": 13,
+            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+            "title": "Ouvertures"
+        },
+        {
+            "category": "Ouvertures A (profondeur 2)",
+            "dataset": "data/quizzes\\65.json",
+            "id": 65,
+            "size": 4,
+            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+            "title": "Ouvertures"
+        },
+        {
+            "category": "Ouvertures B (profondeur 0)",
+            "dataset": "data/quizzes\\66.json",
+            "id": 66,
+            "size": 1,
+            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+            "title": "Ouvertures"
+        },
+        {
+            "category": "Ouvertures B (profondeur 1)",
+            "dataset": "data/quizzes\\67.json",
+            "id": 67,
+            "size": 12,
+            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+            "title": "Ouvertures"
+        },
+        {
+            "category": "Ouvertures B (profondeur 2)",
+            "dataset": "data/quizzes\\68.json",
+            "id": 68,
+            "size": 15,
+            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+            "title": "Ouvertures"
+        },
+        {
+            "category": "Ouvertures B (profondeur 3)",
+            "dataset": "data/quizzes\\69.json",
+            "id": 69,
+            "size": 7,
+            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+            "title": "Ouvertures"
+        },
+        {
+            "category": "Ouvertures C (profondeur 1)",
+            "dataset": "data/quizzes\\70.json",
+            "id": 70,
+            "size": 3,
+            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+            "title": "Ouvertures"
+        },
+        {
+            "category": "Ouvertures C (profondeur 2)",
+            "dataset": "data/quizzes\\71.json",
+            "id": 71,
+            "size": 27,
+            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+            "title": "Ouvertures"
+        },
+        {
+            "category": "Ouvertures C (profondeur 3)",
+            "dataset": "data/quizzes\\72.json",
+            "id": 72,
+            "size": 22,
+            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+            "title": "Ouvertures"
+        },
+        {
+            "category": "Ouvertures C (profondeur 4)",
+            "dataset": "data/quizzes\\73.json",
+            "id": 73,
+            "size": 17,
+            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+            "title": "Ouvertures"
+        },
+        {
+            "category": "Ouvertures C (profondeur 5)",
+            "dataset": "data/quizzes\\74.json",
+            "id": 74,
+            "size": 13,
+            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+            "title": "Ouvertures"
+        },
+        {
+            "category": "Ouvertures C (profondeur 6)",
+            "dataset": "data/quizzes\\75.json",
+            "id": 75,
+            "size": 13,
+            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+            "title": "Ouvertures"
+        },
+        {
+            "category": "Ouvertures D (profondeur 0)",
+            "dataset": "data/quizzes\\76.json",
+            "id": 76,
+            "size": 1,
+            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+            "title": "Ouvertures"
+        },
+        {
+            "category": "Ouvertures D (profondeur 1)",
+            "dataset": "data/quizzes\\77.json",
+            "id": 77,
+            "size": 8,
+            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+            "title": "Ouvertures"
+        },
+        {
+            "category": "Ouvertures D (profondeur 2)",
+            "dataset": "data/quizzes\\78.json",
+            "id": 78,
+            "size": 11,
+            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+            "title": "Ouvertures"
+        },
+        {
+            "category": "Ouvertures D (profondeur 3)",
+            "dataset": "data/quizzes\\79.json",
+            "id": 79,
+            "size": 13,
+            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+            "title": "Ouvertures"
+        },
+        {
+            "category": "Ouvertures E (profondeur 1)",
+            "dataset": "data/quizzes\\80.json",
+            "id": 80,
+            "size": 5,
+            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+            "title": "Ouvertures"
         }
     ]
 }

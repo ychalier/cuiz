@@ -1,0 +1,201 @@
+{
+    "category": "Ouvertures C (profondeur 2)",
+    "id": 71,
+    "input": "text",
+    "prompt": "chess-position",
+    "questions": [
+        {
+            "answer": "attaque Bongcloud",
+            "id": 0,
+            "label": "attaque Bongcloud",
+            "prompt": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPPKPPP/RNBQ1BNR b kq - 1 2",
+            "tips": "ECO: C20, eval: -139, PGN: 1. e4 e5 2. Ke2?"
+        },
+        {
+            "answer": "Gambit R\u00e9ti",
+            "id": 1,
+            "label": "Gambit R\u00e9ti",
+            "prompt": "rnbqkbnr/ppp2ppp/4p3/3p4/4P3/1P6/PBPP1PPP/RN1QKBNR b KQkq - 1 3",
+            "tips": "ECO: C00, eval: -18, PGN: 1. e4 e6 2. b3 d5 3. Bb2"
+        },
+        {
+            "answer": "d\u00e9fense moderne du gambit du roi",
+            "id": 2,
+            "label": "d\u00e9fense moderne du gambit du roi",
+            "prompt": "rnbqkbnr/ppp2ppp/8/3p4/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4",
+            "tips": "ECO: C20\u2013C99, eval: -8, PGN: 1. e4 e5 2. f4 exf4 3. Nf3 d5"
+        },
+        {
+            "answer": "gambit Cunningham",
+            "id": 3,
+            "label": "gambit Cunningham",
+            "prompt": "rnbqk1nr/ppppbppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 2 4",
+            "tips": "ECO: C35, eval: -42, PGN: 1. e4 e5 2. f4 exf4 3. Nf3 Be7"
+        },
+        {
+            "answer": "ouverture Napol\u00e9on",
+            "id": 4,
+            "label": "ouverture Napol\u00e9on",
+            "prompt": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5Q2/PPPP1PPP/RNB1KBNR b KQkq - 1 2",
+            "tips": "ECO: C20, eval: -37, PGN: 1. e4 e5 2. Qf3"
+        },
+        {
+            "answer": "d\u00e9but du cavalier roi",
+            "id": 5,
+            "label": "d\u00e9but du cavalier roi",
+            "prompt": "rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2",
+            "tips": "ECO: C40\u2013C99, eval: +30, PGN: 1. e4 e5 2. Nf3"
+        },
+        {
+            "answer": "gambit du fou restreint",
+            "id": 6,
+            "label": "gambit du fou restreint",
+            "prompt": "rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPPB1PP/RNBQK1NR b KQkq - 1 3",
+            "tips": "ECO: C33, eval: -92, PGN: 1. e4 e5 2. f4 exf4 3. Be2"
+        },
+        {
+            "answer": "contre-gambit Falkbeer",
+            "id": 7,
+            "label": "contre-gambit Falkbeer",
+            "prompt": "rnbqkbnr/ppp2ppp/8/3pp3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3",
+            "tips": "ECO: C31, eval: -27, PGN: 1. e4 e5 2. f4 d5"
+        },
+        {
+            "answer": "gambit Quaade",
+            "id": 8,
+            "label": "gambit Quaade",
+            "prompt": "rnbqkbnr/pppp1p1p/8/6p1/4Pp2/2N2N2/PPPP2PP/R1BQKB1R b KQkq - 1 4",
+            "tips": "ECO: C37, eval: -71, PGN: 1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Nc3"
+        },
+        {
+            "answer": "gambit Silberschmidt",
+            "id": 9,
+            "label": "gambit Silberschmidt",
+            "prompt": "rnb1kb1r/pppp1p1p/7n/4N3/2B1Pppq/8/PPPP2PP/RNBQ1K1R w kq - 4 7",
+            "tips": "ECO: C37, eval: -12, PGN: 1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 Qh4 6. Kf1 Nh6"
+        },
+        {
+            "answer": "Ouverture Alapine",
+            "id": 10,
+            "label": "Ouverture Alapine",
+            "prompt": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPPNPPP/RNBQKB1R b KQkq - 1 2",
+            "tips": "ECO: C20, eval: -3, PGN: 1. e4 e5 2. Ne2"
+        },
+        {
+            "answer": "attaque Parham",
+            "id": 11,
+            "label": "attaque Parham",
+            "prompt": "rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2",
+            "tips": "ECO: C20, eval: -22, PGN: 1. e4 e5 2. Qh5"
+        },
+        {
+            "answer": "variante classique de la d\u00e9fense fran\u00e7aise",
+            "id": 12,
+            "label": "variante classique de la d\u00e9fense fran\u00e7aise",
+            "prompt": "rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 4",
+            "tips": "ECO: C00\u2013C19, eval: +29, PGN: 1. e4 e6 2. d4 d5 3. Nc3 Nf6"
+        },
+        {
+            "answer": "Ouverture portugaise",
+            "id": 13,
+            "label": "Ouverture portugaise",
+            "prompt": "rnbqkbnr/pppp1ppp/8/1B2p3/4P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2",
+            "tips": "ECO: C20, eval: -44, PGN: 1. e4 e5 2. Bb5"
+        },
+        {
+            "answer": "variante Winawer",
+            "id": 14,
+            "label": "variante Winawer",
+            "prompt": "rnbqk1nr/ppp2ppp/4p3/3p4/1b1PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 4",
+            "tips": "ECO: C15\u2013C19, eval: +57, PGN: 1. e4 e6 2. d4 d5 3. Nc3 Bb4"
+        },
+        {
+            "answer": "ouverture Lopez",
+            "id": 15,
+            "label": "ouverture Lopez",
+            "prompt": "rnbqkbnr/pppp1ppp/8/4p3/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2",
+            "tips": "ECO: C20, eval: -29, PGN: 1. e4 e5 2. c3"
+        },
+        {
+            "answer": "gambit Schallopp",
+            "id": 16,
+            "label": "gambit Schallopp",
+            "prompt": "rnbqkb1r/pppp1ppp/5n2/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 2 4",
+            "tips": "ECO: C34, eval: -41, PGN: 1. e4 e5 2. f4 exf4 3. Nf3 Nf6"
+        },
+        {
+            "answer": "variante Tarrasch",
+            "id": 17,
+            "label": "variante Tarrasch",
+            "prompt": "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPPN1PPP/R1BQKBNR b KQkq - 1 3",
+            "tips": "ECO: C03\u2013C09, eval: +33, PGN: 1. e4 e6 2. d4 d5 3. Nd2"
+        },
+        {
+            "answer": "gambit Kieseritzky",
+            "id": 18,
+            "label": "gambit Kieseritzky",
+            "prompt": "rnbqkbnr/pppp1p1p/8/4N3/4PppP/8/PPPP2P1/RNBQKB1R b KQkq - 1 5",
+            "tips": "ECO: C39, eval: -80, PGN: 1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5"
+        },
+        {
+            "answer": "gambit du roi refus\u00e9",
+            "id": 19,
+            "label": "gambit du roi refus\u00e9",
+            "prompt": "rnbqk1nr/pppp1ppp/8/2b1p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 1 3",
+            "tips": "ECO: C30\u2013C32, eval: 0, PGN: 1. e4 e5 2. f4 Bc5"
+        },
+        {
+            "answer": "variante d'\u00e9change de la partie fran\u00e7aise",
+            "id": 20,
+            "label": "variante d'\u00e9change de la partie fran\u00e7aise",
+            "prompt": "rnbqkbnr/ppp2ppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4",
+            "tips": "ECO: C01, eval: +7, PGN: 1. e4 e6 2. d4 d5 3. exd5 exd5"
+        },
+        {
+            "answer": "variante d'avance de la d\u00e9fense fran\u00e7aise",
+            "id": 21,
+            "label": "variante d'avance de la d\u00e9fense fran\u00e7aise",
+            "prompt": "rnbqkbnr/ppp2ppp/4p3/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3",
+            "tips": "ECO: C02, eval: +25, PGN: 1. e4 e6 2. d4 d5 3. e5"
+        },
+        {
+            "answer": "partie du centre",
+            "id": 22,
+            "label": "partie du centre",
+            "prompt": "rnbqkbnr/pppp1ppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3",
+            "tips": "ECO: C21\u2013C22, eval: -11, PGN: 1. e4 e5 2. d4 exd4"
+        },
+        {
+            "answer": "partie viennoise",
+            "id": 23,
+            "label": "partie viennoise",
+            "prompt": "rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2",
+            "tips": "ECO: C25\u2013C29, eval: +12, PGN: 1. e4 e5 2. Nc3"
+        },
+        {
+            "answer": "d\u00e9fense franco-Benoni",
+            "id": 24,
+            "label": "d\u00e9fense franco-Benoni",
+            "prompt": "rnbqkbnr/pp1p1ppp/4p3/2p5/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3",
+            "tips": "ECO: C00, eval: +65, PGN: 1. e4 e6 2. d4 c5"
+        },
+        {
+            "answer": "d\u00e9fense Fischer",
+            "id": 25,
+            "label": "d\u00e9fense Fischer",
+            "prompt": "rnbqkbnr/ppp2ppp/3p4/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4",
+            "tips": "ECO: C34, eval: -51, PGN: 1. e4 e5 2. f4 exf4 3. Nf3 d6"
+        },
+        {
+            "answer": "d\u00e9but du fou",
+            "id": 26,
+            "label": "d\u00e9but du fou",
+            "prompt": "rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2",
+            "tips": "ECO: C23\u2013C24, eval: 0, PGN: 1. e4 e5 2. Bc4"
+        }
+    ],
+    "settings": {},
+    "size": 27,
+    "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+    "title": "Ouvertures"
+}

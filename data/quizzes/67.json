@@ -1,0 +1,96 @@
+{
+    "category": "Ouvertures B (profondeur 1)",
+    "id": 67,
+    "input": "text",
+    "prompt": "chess-position",
+    "questions": [
+        {
+            "answer": "d\u00e9fense moderne",
+            "id": 0,
+            "label": "d\u00e9fense moderne",
+            "prompt": "rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "tips": "ECO: B06, eval: +60, PGN: 1. e4 g6"
+        },
+        {
+            "answer": "d\u00e9fense sicilienne",
+            "id": 1,
+            "label": "d\u00e9fense sicilienne",
+            "prompt": "rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "tips": "ECO: B20\u2013B99, eval: +41, PGN: 1. e4 c5"
+        },
+        {
+            "answer": "D\u00e9fense Caro-Kann",
+            "id": 2,
+            "label": "D\u00e9fense Caro-Kann",
+            "prompt": "rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "tips": "ECO: B10\u2013B19, eval: +24, PGN: 1. e4 c6"
+        },
+        {
+            "answer": "D\u00e9fense Saint-Georges",
+            "id": 3,
+            "label": "D\u00e9fense Saint-Georges",
+            "prompt": "rnbqkbnr/1ppppppp/p7/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "tips": "ECO: B00, eval: +51, PGN: 1. e4 a6"
+        },
+        {
+            "answer": "D\u00e9fense Desprez",
+            "id": 4,
+            "label": "D\u00e9fense Desprez",
+            "prompt": "rnbqkbnr/ppppppp1/8/7p/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "tips": "ECO: B00, eval: +121, PGN: 1. e4 h5"
+        },
+        {
+            "answer": "D\u00e9fense Borg",
+            "id": 5,
+            "label": "D\u00e9fense Borg",
+            "prompt": "rnbqkbnr/pppppp1p/8/6p1/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "tips": "ECO: B00, eval: +191, PGN: 1. e4 g5"
+        },
+        {
+            "answer": "d\u00e9fense Ware",
+            "id": 6,
+            "label": "d\u00e9fense Ware",
+            "prompt": "rnbqkbnr/1ppppppp/8/p7/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "tips": "ECO: B00, eval: +86, PGN: 1. e4 a5"
+        },
+        {
+            "answer": "d\u00e9fense Alekhine",
+            "id": 7,
+            "label": "d\u00e9fense Alekhine",
+            "prompt": "rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2",
+            "tips": "ECO: B02\u2013B05, eval: +71, PGN: 1. e4 Nf6"
+        },
+        {
+            "answer": "d\u00e9fense scandinave",
+            "id": 8,
+            "label": "d\u00e9fense scandinave",
+            "prompt": "rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "tips": "ECO: B01, eval: +74, PGN: 1. e4 d5"
+        },
+        {
+            "answer": "D\u00e9fense Owen",
+            "id": 9,
+            "label": "D\u00e9fense Owen",
+            "prompt": "rnbqkbnr/p1pppppp/1p6/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "tips": "ECO: B00, eval: +78, PGN: 1. e4 b6"
+        },
+        {
+            "answer": "d\u00e9fense Pirc",
+            "id": 10,
+            "label": "d\u00e9fense Pirc",
+            "prompt": "rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3",
+            "tips": "ECO: B07, eval: +55, PGN: 1. e4 d6 2. d4 Nf6 3. Nc3"
+        },
+        {
+            "answer": "d\u00e9fense Nimzowitsch",
+            "id": 11,
+            "label": "d\u00e9fense Nimzowitsch",
+            "prompt": "r1bqkbnr/pppppppp/2n5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2",
+            "tips": "ECO: B00, eval: +36, PGN: 1. e4 Nc6"
+        }
+    ],
+    "settings": {},
+    "size": 12,
+    "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+    "title": "Ouvertures"
+}

@@ -46,6 +46,8 @@ class Quiz {
             this.prompt = new QuizPromptText(config, data);
         } else if (data.prompt == "sentence") {
             this.prompt = new QuizPromptSentence(config, data);
+        } else if (data.prompt == "chess-position") {
+            this.prompt = new QuizPromptChessPosition(config, data);
         } else {
             throw new Error("Invalid quiz prompt: " + data.prompt);
         }

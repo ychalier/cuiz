@@ -1,0 +1,103 @@
+{
+    "category": "Ouvertures D (profondeur 3)",
+    "id": 79,
+    "input": "text",
+    "prompt": "chess-position",
+    "questions": [
+        {
+            "answer": "Queen's Gambit Accepted: Alekhine Defense",
+            "id": 0,
+            "label": "Queen's Gambit Accepted: Alekhine Defense",
+            "prompt": "rnbqkbnr/1pp1pppp/p7/8/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4",
+            "tips": "ECO: D21\u2013D22, eval: +36, PGN: 1. d4 d5 2. c4 dxc4 3. Nf3 a6"
+        },
+        {
+            "answer": "variante Lasker du gambit dame refus\u00e9",
+            "id": 1,
+            "label": "variante Lasker du gambit dame refus\u00e9",
+            "prompt": "rnb2rk1/ppp1qpp1/4p2p/3p4/2PPn3/2N1PN2/PP3PPP/R2QKB1R w KQ - 0 9",
+            "tips": "ECO: D56\u2013D57, eval: +25, PGN: 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 O-O 6. e3 h6 7. Bh4 Ne4 8. Bxe7 Qxe7"
+        },
+        {
+            "answer": "d\u00e9fense Tarrasch",
+            "id": 2,
+            "label": "d\u00e9fense Tarrasch",
+            "prompt": "rnbqkbnr/pp3ppp/4p3/2pp4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4",
+            "tips": "ECO: D32\u2013D34, eval: +23, PGN: 1. d4 d5 2. c4 e6 3. Nc3 c5"
+        },
+        {
+            "answer": "d\u00e9fense orthodoxe",
+            "id": 3,
+            "label": "d\u00e9fense orthodoxe",
+            "prompt": "r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQ - 3 7",
+            "tips": "ECO: D60\u2013D69, eval: +31, PGN: 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7"
+        },
+        {
+            "answer": "d\u00e9fense Ragozine",
+            "id": 4,
+            "label": "d\u00e9fense Ragozine",
+            "prompt": "rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 4 5",
+            "tips": "ECO: D38\u201339, eval: +25, PGN: 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Bb4"
+        },
+        {
+            "answer": "d\u00e9fense semi-slave",
+            "id": 5,
+            "label": "d\u00e9fense semi-slave",
+            "prompt": "rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5",
+            "tips": "ECO: D43\u2013D49, eval: +32, PGN: 1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6"
+        },
+        {
+            "answer": "d\u00e9fense semi-Tarrasch",
+            "id": 6,
+            "label": "d\u00e9fense semi-Tarrasch",
+            "prompt": "rnbqkb1r/pp3ppp/4p3/2pn4/3P4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 6",
+            "tips": "ECO: D40\u2013D42, eval: +31, PGN: 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. cxd5 Nxd5"
+        },
+        {
+            "answer": "variante du Westphalia",
+            "id": 7,
+            "label": "variante du Westphalia",
+            "prompt": "r1bqk2r/pppn1ppp/4pn2/3p2B1/1bPP4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 6 6",
+            "tips": "ECO: D51, eval: +34, PGN: 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. Nf3 Bb4"
+        },
+        {
+            "answer": "variante anti-Tartakover",
+            "id": 8,
+            "label": "variante anti-Tartakover",
+            "prompt": "rnbq1rk1/ppp2pp1/4pb1p/3p4/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQ - 0 8",
+            "tips": "ECO: D30\u2013D69, eval: +16, PGN: 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bxf6 Bxf6"
+        },
+        {
+            "answer": "Gr\u00fcnfeld Defence, Nadanian Variation",
+            "id": 9,
+            "label": "Gr\u00fcnfeld Defence, Nadanian Variation",
+            "prompt": "rnbqkb1r/ppp1pp1p/6p1/3n4/N2P4/8/PP2PPPP/R1BQKBNR b KQkq - 1 5",
+            "tips": "ECO: D85, eval: +14, PGN: 1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Na4"
+        },
+        {
+            "answer": "Variante Tartakover",
+            "id": 10,
+            "label": "Variante Tartakover",
+            "prompt": "rnbq1rk1/p1p1bpp1/1p2pn1p/3p4/2PP3B/2N1PN2/PP3PPP/R2QKB1R w KQ - 0 8",
+            "tips": "ECO: D30\u2013D69, eval: +24, PGN: 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Nf3 h6 7. Bh4 b6"
+        },
+        {
+            "answer": "Queen's Gambit Declined, Rubinstein Trap",
+            "id": 11,
+            "label": "Queen's Gambit Declined, Rubinstein Trap",
+            "prompt": "r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQ - 3 7",
+            "tips": "ECO: D30\u2013D69, eval: +24, PGN: 1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nc3 O-O"
+        },
+        {
+            "answer": "variante de Moscou",
+            "id": 12,
+            "label": "variante de Moscou",
+            "prompt": "rnbqkb1r/pp3pp1/2p1pn1p/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 6",
+            "tips": "ECO: D30\u2013D69, eval: +32, PGN: 1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. Bg5 h6"
+        }
+    ],
+    "settings": {},
+    "size": 13,
+    "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+    "title": "Ouvertures"
+}

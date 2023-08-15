@@ -1,0 +1,145 @@
+{
+    "category": "Ouvertures A (profondeur 0)",
+    "id": 63,
+    "input": "text",
+    "prompt": "chess-position",
+    "questions": [
+        {
+            "answer": "d\u00e9fense indienne",
+            "id": 0,
+            "label": "d\u00e9fense indienne",
+            "prompt": "rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2",
+            "tips": "ECO: A45\u2013A79,D70\u2013D99,E00\u2013E99, eval: +31, PGN: 1. d4 Nf6"
+        },
+        {
+            "answer": "Rat Defense, English Rat",
+            "id": 1,
+            "label": "Rat Defense, English Rat",
+            "prompt": "rnbqkbnr/ppp2ppp/3p4/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3",
+            "tips": "ECO: A41, eval: +42, PGN: 1. d4 d6 2. c4 e5"
+        },
+        {
+            "answer": "d\u00e9fense du cavalier dame",
+            "id": 2,
+            "label": "d\u00e9fense du cavalier dame",
+            "prompt": "r1bqkbnr/pppppppp/2n5/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2",
+            "tips": "ECO: A40, eval: +68, PGN: 1. d4 Nc6"
+        },
+        {
+            "answer": "d\u00e9fense anglaise",
+            "id": 3,
+            "label": "d\u00e9fense anglaise",
+            "prompt": "rnbqkbnr/p1pp1ppp/1p2p3/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3",
+            "tips": "ECO: A40, eval: +42, PGN: 1. d4 e6 2. c4 b6"
+        },
+        {
+            "answer": "ouverture Ware",
+            "id": 4,
+            "label": "ouverture Ware",
+            "prompt": "rnbqkbnr/pppppppp/8/8/P7/8/1PPPPPPP/RNBQKBNR b KQkq - 0 1",
+            "tips": "ECO: A00, eval: -22, PGN: 1. a4"
+        },
+        {
+            "answer": "Ouverture Desprez",
+            "id": 5,
+            "label": "Ouverture Desprez",
+            "prompt": "rnbqkbnr/pppppppp/8/8/7P/8/PPPPPPP1/RNBQKBNR b KQkq - 0 1",
+            "tips": "ECO: A00, eval: -53, PGN: 1. h4"
+        },
+        {
+            "answer": "ouverture indienne ancienne",
+            "id": 6,
+            "label": "ouverture indienne ancienne",
+            "prompt": "rnbqkbnr/pppppppp/8/8/8/3P4/PPP1PPPP/RNBQKBNR b KQkq - 0 1",
+            "tips": "ECO: A00, eval: -12, PGN: 1. d3"
+        },
+        {
+            "answer": "d\u00e9fense K\u00e9r\u00e8s",
+            "id": 7,
+            "label": "d\u00e9fense K\u00e9r\u00e8s",
+            "prompt": "rnbqk1nr/pppp1ppp/4p3/8/1bPP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3",
+            "tips": "ECO: A40, eval: +35, PGN: 1. d4 e6 2. c4 Bb4+"
+        },
+        {
+            "answer": "gambit suisse",
+            "id": 8,
+            "label": "gambit suisse",
+            "prompt": "rnbqkbnr/ppppp1pp/8/5p2/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2",
+            "tips": "ECO: A02, eval: -35, PGN: 1. f4 f5 2. e4"
+        },
+        {
+            "answer": "Ouverture Van 't Kruijs",
+            "id": 9,
+            "label": "Ouverture Van 't Kruijs",
+            "prompt": "rnbqkbnr/pppppppp/8/8/8/4P3/PPPP1PPP/RNBQKBNR b KQkq - 0 1",
+            "tips": "ECO: A00, eval: +8, PGN: 1. e3"
+        },
+        {
+            "answer": "ouverture Zukertort",
+            "id": 10,
+            "label": "ouverture Zukertort",
+            "prompt": "rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1",
+            "tips": "ECO: A04\u2013A09, eval: +33, PGN: 1. Nf3"
+        },
+        {
+            "answer": "d\u00e9fense polonaise",
+            "id": 11,
+            "label": "d\u00e9fense polonaise",
+            "prompt": "rnbqkbnr/p1pppppp/8/1p6/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2",
+            "tips": "ECO: A40, eval: +105, PGN: 1. d4 b5"
+        },
+        {
+            "answer": "ouverture de Saragosse",
+            "id": 12,
+            "label": "ouverture de Saragosse",
+            "prompt": "rnbqkbnr/pppppppp/8/8/8/2P5/PP1PPPPP/RNBQKBNR b KQkq - 0 1",
+            "tips": "ECO: A00, eval: +4, PGN: 1. c3"
+        },
+        {
+            "answer": "gambit Englund",
+            "id": 13,
+            "label": "gambit Englund",
+            "prompt": "rnbqkbnr/pppp1ppp/8/4p3/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2",
+            "tips": "ECO: A40, eval: +127, PGN: 1. d4 e5"
+        },
+        {
+            "answer": "ouverture anglaise sym\u00e9trique",
+            "id": 14,
+            "label": "ouverture anglaise sym\u00e9trique",
+            "prompt": "rnbqkbnr/pp1ppppp/8/2p5/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2",
+            "tips": "ECO: A30\u2013A39, eval: +14, PGN: 1. c4 c5"
+        },
+        {
+            "answer": "ouverture de l'orang-outang",
+            "id": 15,
+            "label": "ouverture de l'orang-outang",
+            "prompt": "rnbqkbnr/pppppppp/8/8/1P6/8/P1PPPPPP/RNBQKBNR b KQkq - 0 1",
+            "tips": "ECO: A00, eval: -40, PGN: 1. b4"
+        },
+        {
+            "answer": "d\u00e9fense hollandaise",
+            "id": 16,
+            "label": "d\u00e9fense hollandaise",
+            "prompt": "rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2",
+            "tips": "ECO: A80\u2013A99, eval: +53, PGN: 1. d4 f5"
+        },
+        {
+            "answer": "Ouverture Barnes",
+            "id": 17,
+            "label": "Ouverture Barnes",
+            "prompt": "rnbqkbnr/pppppppp/8/8/8/5P2/PPPPP1PP/RNBQKBNR b KQkq - 0 1",
+            "tips": "ECO: A00, eval: -68, PGN: 1. f3"
+        },
+        {
+            "answer": "Ouverture Clemenz",
+            "id": 18,
+            "label": "Ouverture Clemenz",
+            "prompt": "rnbqkbnr/pppppppp/8/8/8/7P/PPPPPPP1/RNBQKBNR b KQkq - 0 1",
+            "tips": "ECO: A00, eval: -11, PGN: 1. h3"
+        }
+    ],
+    "settings": {},
+    "size": 19,
+    "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+    "title": "Ouvertures"
+}

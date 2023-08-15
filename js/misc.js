@@ -110,6 +110,17 @@ function drawCanvasCircle(context, x, y, r, style) {
     return context.fill();
 };
 
+function isNumeric(str) {
+    return /^\d+$/.test(str);
+}
+
+function isUppercase(str) {
+    return str === str.toUpperCase();
+}
+
+function formatChessPieceImage(piece) {
+    return "https://images.chesscomfiles.com/chess-themes/pieces/neo/150/" + piece + ".png";
+}
 
 function startConfettiAnimation(duration) {
     console.log("Starting confetti animation");

@@ -1,0 +1,40 @@
+{
+    "category": "Ouvertures A (profondeur 2)",
+    "id": 65,
+    "input": "text",
+    "prompt": "chess-position",
+    "questions": [
+        {
+            "answer": "gambit Fajarowicz",
+            "id": 0,
+            "label": "gambit Fajarowicz",
+            "prompt": "rnbqkb1r/pppp1ppp/8/4P3/2P1n3/8/PP2PPPP/RNBQKBNR w KQkq - 1 4",
+            "tips": "ECO: A51, eval: +106, PGN: 1. d4 Nf6 2. c4 e5 3. dxe5 Ne4"
+        },
+        {
+            "answer": "d\u00e9fense Benoni moderne",
+            "id": 1,
+            "label": "d\u00e9fense Benoni moderne",
+            "prompt": "rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4",
+            "tips": "ECO: A60\u2013A79, eval: +73, PGN: 1. d4 Nf6 2. c4 c5 3. d5 e6"
+        },
+        {
+            "answer": "gambit Wagner",
+            "id": 2,
+            "label": "gambit Wagner",
+            "prompt": "rnbqkb1r/pp1p1ppp/4pn2/2p3B1/3PP3/5N2/PPP2PPP/RN1QKB1R b KQkq - 0 4",
+            "tips": "ECO: A46, eval: -26, PGN: 1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e4"
+        },
+        {
+            "answer": "gambit Benko",
+            "id": 3,
+            "label": "gambit Benko",
+            "prompt": "rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4",
+            "tips": "ECO: A57\u2013A59, eval: +74, PGN: 1. d4 Nf6 2. c4 c5 3. d5 b5"
+        }
+    ],
+    "settings": {},
+    "size": 4,
+    "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+    "title": "Ouvertures"
+}

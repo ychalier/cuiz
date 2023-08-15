@@ -120,3 +120,63 @@ class QuizPromptSentence extends QuizPrompt {
     }
 
 }
+
+class QuizPromptChessPosition extends QuizPrompt {
+
+    inflate(container) {
+        QuizPrompt.prototype.inflate.call(this, container);
+        let board = document.createElement("div");
+        board.classList.add("chess-board");
+        for (let rank = 0; rank < 8; rank++) {
+            let rank_element = document.createElement("div");
+            rank_element.classList.add("chess-rank");
+            for (let file = 0; file < 8; file++) {
+                let cell = document.createElement("div");
+                cell.classList.add("chess-cell");
+                rank_element.appendChild(cell);
+            }
+            board.appendChild(rank_element);
+        }
+        this.container.appendChild(board);
+    }
+
+    parse_fen(fen) {
+        let fen_split = fen.trim().split(" ");
+        let placement_split = fen_split[0].split("/");
+        let pieces = {};
+        for (let i = 0; i < placement_split.length; i++) {
+            let rank = i;
+            let file = 0;
+            for (let j = 0; j < placement_split[i].length; j++) {
+                if (isNumeric(placement_split[i][j])) {
+                    file += parseInt(placement_split[i][j]);
+                } else if (isUppercase(placement_split[i][j])) {
+                    pieces[`${rank},${file}`] = "w" + placement_split[i][j].toLowerCase();
+                    file++;
+                } else {
+                    pieces[`${rank},${file}`] = "b" + placement_split[i][j].toLowerCase();
+                    file++;
+                }
+            }
+        }
+        return pieces;
+    }
+
+    load(index) {
+        let fen = this.data.questions[index].prompt;
+        let pieces = this.parse_fen(fen);
+        this.container.querySelectorAll(".chess-rank").forEach((rank_element, rank) => {
+            rank_element.querySelectorAll(".chess-cell").forEach((cell, file) => {
+                cell.innerHTML = "";
+                let key = `${rank},${file}`;
+                if (key in pieces) {
+                    let piece_image = document.createElement("img");
+                    piece_image.classList.add("chess-piece");
+                    piece_image.src = formatChessPieceImage(pieces[key]);
+                    cell.appendChild(piece_image);
+                }
+            });
+        });
+    }
+
+}

@@ -1,0 +1,131 @@
+{
+    "category": "Ouvertures C (profondeur 4)",
+    "id": 73,
+    "input": "text",
+    "prompt": "chess-position",
+    "questions": [
+        {
+            "answer": "d\u00e9fense Morphy",
+            "id": 0,
+            "label": "d\u00e9fense Morphy",
+            "prompt": "r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4",
+            "tips": "ECO: C68\u2013C99, eval: +38, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6"
+        },
+        {
+            "answer": "d\u00e9fense Alapine",
+            "id": 1,
+            "label": "d\u00e9fense Alapine",
+            "prompt": "r1bqk1nr/pppp1ppp/2n5/1B2p3/1b2P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",
+            "tips": "ECO: C77, eval: +102, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 Bb4"
+        },
+        {
+            "answer": "Danish Gambit, Lindehn's continuation",
+            "id": 2,
+            "label": "Danish Gambit, Lindehn's continuation",
+            "prompt": "rnbqkbnr/pppp1ppp/8/8/2B1P3/2p5/PP3PPP/RNBQK1NR b KQkq - 1 4",
+            "tips": "ECO: C21, eval: -48, PGN: 1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4"
+        },
+        {
+            "answer": "d\u00e9fense berlinoise",
+            "id": 3,
+            "label": "d\u00e9fense berlinoise",
+            "prompt": "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",
+            "tips": "ECO: C65\u2013C67, eval: +25, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6"
+        },
+        {
+            "answer": "d\u00e9fense des deux cavaliers",
+            "id": 4,
+            "label": "d\u00e9fense des deux cavaliers",
+            "prompt": "r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",
+            "tips": "ECO: C55\u2013C59, eval: +13, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6"
+        },
+        {
+            "answer": "partie italienne",
+            "id": 5,
+            "label": "partie italienne",
+            "prompt": "r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",
+            "tips": "ECO: C50\u2013C54, eval: +26, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5"
+        },
+        {
+            "answer": "d\u00e9fense Steinitz de la partie \u00e9cossaise",
+            "id": 6,
+            "label": "d\u00e9fense Steinitz de la partie \u00e9cossaise",
+            "prompt": "r1b1kbnr/pppp1ppp/2n5/8/3NP2q/8/PPP2PPP/RNBQKB1R w KQkq - 1 5",
+            "tips": "ECO: C45, eval: +84, PGN: 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4"
+        },
+        {
+            "answer": "d\u00e9fense Cordel",
+            "id": 7,
+            "label": "d\u00e9fense Cordel",
+            "prompt": "r1bqk1nr/pppp1ppp/2n5/1Bb1p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",
+            "tips": "ECO: C64, eval: +42, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5"
+        },
+        {
+            "answer": "d\u00e9fense Smyslov",
+            "id": 8,
+            "label": "d\u00e9fense Smyslov",
+            "prompt": "r1bqkbnr/pppp1p1p/2n3p1/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4",
+            "tips": "ECO: C60, eval: +55, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 g6"
+        },
+        {
+            "answer": "d\u00e9fense Schliemann",
+            "id": 9,
+            "label": "d\u00e9fense Schliemann",
+            "prompt": "r1bqkbnr/pppp2pp/2n5/1B2pp2/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4",
+            "tips": "ECO: C63, eval: +58, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 f5"
+        },
+        {
+            "answer": "d\u00e9fense hongroise",
+            "id": 10,
+            "label": "d\u00e9fense hongroise",
+            "prompt": "r1bqk1nr/ppppbppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",
+            "tips": "ECO: C50, eval: +53, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7"
+        },
+        {
+            "answer": "d\u00e9fense Steinitz",
+            "id": 11,
+            "label": "d\u00e9fense Steinitz",
+            "prompt": "r1bqkbnr/ppp2ppp/2np4/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4",
+            "tips": "ECO: C62, eval: +67, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 d6"
+        },
+        {
+            "answer": "d\u00e9fense parisienne",
+            "id": 12,
+            "label": "d\u00e9fense parisienne",
+            "prompt": "r1bqkbnr/ppp2ppp/2np4/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4",
+            "tips": "ECO: C50, eval: +52, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bc4 d6"
+        },
+        {
+            "answer": "variante classique de la partie \u00e9cossaise",
+            "id": 13,
+            "label": "variante classique de la partie \u00e9cossaise",
+            "prompt": "r1bqk1nr/pppp1ppp/2n5/2b5/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5",
+            "tips": "ECO: C45, eval: +33, PGN: 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5"
+        },
+        {
+            "answer": "D\u00e9fense Bird",
+            "id": 14,
+            "label": "D\u00e9fense Bird",
+            "prompt": "r1bqkbnr/pppp1ppp/8/1B2p3/3nP3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",
+            "tips": "ECO: C61, eval: +57, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nd4"
+        },
+        {
+            "answer": "Partie des quatre cavaliers",
+            "id": 15,
+            "label": "Partie des quatre cavaliers",
+            "prompt": "r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4",
+            "tips": "ECO: C47\u2013C49, eval: +9, PGN: 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6"
+        },
+        {
+            "answer": "d\u00e9fense Cozio",
+            "id": 16,
+            "label": "d\u00e9fense Cozio",
+            "prompt": "r1bqkb1r/ppppnppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4",
+            "tips": "ECO: C60, eval: +50, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7"
+        }
+    ],
+    "settings": {},
+    "size": 17,
+    "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+    "title": "Ouvertures"
+}

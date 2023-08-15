@@ -1,0 +1,19 @@
+{
+    "category": "Ouvertures D (profondeur 0)",
+    "id": 76,
+    "input": "text",
+    "prompt": "chess-position",
+    "questions": [
+        {
+            "answer": "d\u00e9but ferm\u00e9",
+            "id": 0,
+            "label": "d\u00e9but ferm\u00e9",
+            "prompt": "rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2",
+            "tips": "ECO: D00\u2013D69, eval: +29, PGN: 1. d4 d5"
+        }
+    ],
+    "settings": {},
+    "size": 1,
+    "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+    "title": "Ouvertures"
+}

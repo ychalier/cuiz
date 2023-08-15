@@ -1,0 +1,166 @@
+{
+    "category": "Ouvertures C (profondeur 3)",
+    "id": 72,
+    "input": "text",
+    "prompt": "chess-position",
+    "questions": [
+        {
+            "answer": "Gambit du centre",
+            "id": 0,
+            "label": "Gambit du centre",
+            "prompt": "rnbqkbnr/pppp1ppp/8/8/2BpP3/8/PPP2PPP/RNBQK1NR b KQkq - 1 3",
+            "tips": "ECO: C21\u2013C22, eval: -30, PGN: 1. e4 e5 2. d4 exd4 3. Bc4"
+        },
+        {
+            "answer": "D\u00e9fense Damiano",
+            "id": 1,
+            "label": "D\u00e9fense Damiano",
+            "prompt": "rnbqkbnr/pppp2pp/5p2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3",
+            "tips": "ECO: C40, eval: +149, PGN: 1. e4 e5 2. Nf3 f6"
+        },
+        {
+            "answer": "partie espagnole",
+            "id": 2,
+            "label": "partie espagnole",
+            "prompt": "r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3",
+            "tips": "ECO: C77, eval: +29, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5"
+        },
+        {
+            "answer": "gambit danois",
+            "id": 3,
+            "label": "gambit danois",
+            "prompt": "rnbqkbnr/pppp1ppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3",
+            "tips": "ECO: C21, eval: -35, PGN: 1. e4 e5 2. d4 exd4 3. c3"
+        },
+        {
+            "answer": "variante Frankenstein-Dracula",
+            "id": 4,
+            "label": "variante Frankenstein-Dracula",
+            "prompt": "rnbqkb1r/pppp1ppp/8/4p3/2B1n3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 0 4",
+            "tips": "ECO: C27, eval: +13, PGN: 1. e4 e5 2. Nc3 Nf6 3. Bc4 Nxe4"
+        },
+        {
+            "answer": "d\u00e9fense Gunderam",
+            "id": 5,
+            "label": "d\u00e9fense Gunderam",
+            "prompt": "rnb1kbnr/ppppqppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3",
+            "tips": "ECO: C40, eval: +92, PGN: 1. e4 e5 2. Nf3 Qe7"
+        },
+        {
+            "answer": "ouverture Konstantinopolski",
+            "id": 6,
+            "label": "ouverture Konstantinopolski",
+            "prompt": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5NP1/PPPP1P1P/RNBQKB1R b KQkq - 0 3",
+            "tips": "ECO: C44, eval: -29, PGN: 1. e4 e5 2. Nf3 Nc6 3. g3"
+        },
+        {
+            "answer": "D\u00e9fense Greco",
+            "id": 7,
+            "label": "D\u00e9fense Greco",
+            "prompt": "rnb1kbnr/pppp1ppp/5q2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3",
+            "tips": "ECO: C40, eval: +121, PGN: 1. e4 e5 2. Nf3 Qf6"
+        },
+        {
+            "answer": "double gambit McDonnell",
+            "id": 8,
+            "label": "double gambit McDonnell",
+            "prompt": "rnbqk1nr/pppp1ppp/8/4p3/1bB1PP2/8/P1PP2PP/RNBQK1NR b KQkq - 0 4",
+            "tips": "ECO: C23, eval: -152, PGN: 1. e4 e5 2. Bc4 Bc5 3. b4 Bxb4 4. f4"
+        },
+        {
+            "answer": "gambit viennois",
+            "id": 9,
+            "label": "gambit viennois",
+            "prompt": "r1bqkbnr/pppp1ppp/2n5/4p3/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq - 0 3",
+            "tips": "ECO: C25, eval: -19, PGN: 1. e4 e5 2. Nc3 Nc6 3. f4"
+        },
+        {
+            "answer": "d\u00e9fense russe",
+            "id": 10,
+            "label": "d\u00e9fense russe",
+            "prompt": "rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3",
+            "tips": "ECO: C42\u2013C43, eval: +40, PGN: 1. e4 e5 2. Nf3 Nf6"
+        },
+        {
+            "answer": "D\u00e9fense hongroise invers\u00e9e",
+            "id": 11,
+            "label": "D\u00e9fense hongroise invers\u00e9e",
+            "prompt": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPPBPPP/RNBQK2R b KQkq - 3 3",
+            "tips": "ECO: C44, eval: -21, PGN: 1. e4 e5 2. Nf3 Nc6 3. Be2"
+        },
+        {
+            "answer": "gambit Lewis",
+            "id": 12,
+            "label": "gambit Lewis",
+            "prompt": "rnbqk1nr/pppp1ppp/8/2b1p3/2BPP3/8/PPP2PPP/RNBQK1NR b KQkq - 0 3",
+            "tips": "ECO: C23, eval: -7, PGN: 1. e4 e5 2. Bc4 Bc5 3. d4"
+        },
+        {
+            "answer": "D\u00e9fense Philidor",
+            "id": 13,
+            "label": "D\u00e9fense Philidor",
+            "prompt": "rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3",
+            "tips": "ECO: C41, eval: +53, PGN: 1. e4 e5 2. Nf3 d6"
+        },
+        {
+            "answer": "gambit letton",
+            "id": 14,
+            "label": "gambit letton",
+            "prompt": "rnbqkbnr/pppp2pp/8/4pp2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3",
+            "tips": "ECO: C40, eval: +134, PGN: 1. e4 e5 2. Nf3 f5"
+        },
+        {
+            "answer": "partie des trois cavaliers",
+            "id": 15,
+            "label": "partie des trois cavaliers",
+            "prompt": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3",
+            "tips": "ECO: C46, eval: +15, PGN: 1. e4 e5 2. Nf3 Nc6 3. Nc3"
+        },
+        {
+            "answer": "d\u00e9but Ponziani",
+            "id": 16,
+            "label": "d\u00e9but Ponziani",
+            "prompt": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2P2N2/PP1P1PPP/RNBQKB1R b KQkq - 0 3",
+            "tips": "ECO: C44, eval: -10, PGN: 1. e4 e5 2. Nf3 Nc6 3. c3"
+        },
+        {
+            "answer": "gambit irlandais",
+            "id": 17,
+            "label": "gambit irlandais",
+            "prompt": "r1bqkbnr/pppp1ppp/2n5/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3",
+            "tips": "ECO: C40\u2013C99, eval: -275, PGN: 1. e4 e5 2. Nf3 Nc6 3. Nxe5"
+        },
+        {
+            "answer": "Gambit \u00e9l\u00e9phant",
+            "id": 18,
+            "label": "Gambit \u00e9l\u00e9phant",
+            "prompt": "rnbqkbnr/ppp2ppp/8/3pp3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3",
+            "tips": "ECO: C40, eval: +93, PGN: 1. e4 e5 2. Nf3 d5"
+        },
+        {
+            "answer": "pi\u00e8ge de W\u00fcrzburger",
+            "id": 19,
+            "label": "pi\u00e8ge de W\u00fcrzburger",
+            "prompt": "rnb1kb1r/ppp2ppp/8/3pP3/4n2q/2NP4/PPP3PP/R1BQKBNR w KQkq - 1 6",
+            "tips": "ECO: C25, eval: -10, PGN: 1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. d3 Qh4+"
+        },
+        {
+            "answer": "partie \u00e9cossaise",
+            "id": 20,
+            "label": "partie \u00e9cossaise",
+            "prompt": "r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 3",
+            "tips": "ECO: C44\u2013C45, eval: +37, PGN: 1. e4 e5 2. Nf3 Nc6 3. d4"
+        },
+        {
+            "answer": "ouverture italienne",
+            "id": 21,
+            "label": "ouverture italienne",
+            "prompt": "r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3",
+            "tips": "ECO: C50\u2013C59, eval: +18, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bc4"
+        }
+    ],
+    "settings": {},
+    "size": 22,
+    "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+    "title": "Ouvertures"
+}
