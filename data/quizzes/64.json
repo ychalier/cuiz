@@ -1,0 +1,103 @@
+{
+    "category": "Ouvertures A (profondeur 1)",
+    "id": 64,
+    "input": "text",
+    "prompt": "chess-position",
+    "questions": [
+        {
+            "answer": "gambit Spielmann",
+            "id": 0,
+            "label": "gambit Spielmann",
+            "prompt": "rnbqkb1r/ppppp1pp/5n2/5p2/3P2P1/2N5/PPP1PP1P/R1BQKBNR b KQkq - 0 3",
+            "tips": "ECO: A80, eval: -20, PGN: 1. d4 f5 2. Nc3 Nf6 3. g4"
+        },
+        {
+            "answer": "Ouverture Djin",
+            "id": 1,
+            "label": "Ouverture Djin",
+            "prompt": "rnbqkb1r/1ppp1ppp/p3pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4",
+            "tips": "ECO: A45\u2013A79,D70\u2013D99,E00\u2013E99, eval: +41, PGN: 1. d4 Nf6 2. c4 e6 3. Nf3 a6"
+        },
+        {
+            "answer": "gambit de Budapest",
+            "id": 2,
+            "label": "gambit de Budapest",
+            "prompt": "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3",
+            "tips": "ECO: A51\u2013A52, eval: +54, PGN: 1. d4 Nf6 2. c4 e5"
+        },
+        {
+            "answer": "variante Hort-Antochine",
+            "id": 3,
+            "label": "variante Hort-Antochine",
+            "prompt": "rnb1kb1r/ppq1p1pp/2pp1n2/5p2/2PP4/2N3P1/PP2PPBP/R1BQK1NR w KQkq - 2 6",
+            "tips": "ECO: A86, eval: +70, PGN: 1. d4 f5 2. c4 Nf6 3. g3 d6 4. Bg2 c6 5. Nc3 Qc7"
+        },
+        {
+            "answer": "attaque Trompowsky",
+            "id": 4,
+            "label": "attaque Trompowsky",
+            "prompt": "rnbqkb1r/pppppppp/5n2/6B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2",
+            "tips": "ECO: A45, eval: +7, PGN: 1. d4 Nf6 2. Bg5"
+        },
+        {
+            "answer": "gambit Staunton",
+            "id": 5,
+            "label": "gambit Staunton",
+            "prompt": "rnbqkbnr/ppppp1pp/8/5p2/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2",
+            "tips": "ECO: A82\u2013A83, eval: +14, PGN: 1. d4 f5 2. e4"
+        },
+        {
+            "answer": "syst\u00e8me L\u00e9ningrad",
+            "id": 6,
+            "label": "syst\u00e8me L\u00e9ningrad",
+            "prompt": "rnbqkb1r/ppppp2p/5np1/5p2/2PP4/6P1/PP2PP1P/RNBQKBNR w KQkq - 0 4",
+            "tips": "ECO: A87\u2013A89, eval: +63, PGN: 1. d4 f5 2. c4 Nf6 3. g3 g6"
+        },
+        {
+            "answer": "D\u00e9fense mexicaine",
+            "id": 7,
+            "label": "D\u00e9fense mexicaine",
+            "prompt": "r1bqkb1r/pppppppp/2n2n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3",
+            "tips": "ECO: A50, eval: +65, PGN: 1. d4 Nf6 2. c4 Nc6"
+        },
+        {
+            "answer": "d\u00e9fense Balogh",
+            "id": 8,
+            "label": "d\u00e9fense Balogh",
+            "prompt": "rnbqkbnr/ppp1p1pp/3p4/5p2/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3",
+            "tips": "ECO: A82, eval: +107, PGN: 1. e4 d6 2. d4 f5"
+        },
+        {
+            "answer": "D\u00e9fense vieille-indienne",
+            "id": 9,
+            "label": "D\u00e9fense vieille-indienne",
+            "prompt": "rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3",
+            "tips": "ECO: A53\u2013A55, eval: +52, PGN: 1. d4 Nf6 2. c4 d6"
+        },
+        {
+            "answer": "d\u00e9fense Benoni",
+            "id": 10,
+            "label": "d\u00e9fense Benoni",
+            "prompt": "rnbqkb1r/pp1ppppp/5n2/2pP4/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3",
+            "tips": "ECO: A43\u2013A44,A56\u2013A79, eval: +68, PGN: 1. d4 Nf6 2. c4 c5 3. d5"
+        },
+        {
+            "answer": "attaque est-indienne",
+            "id": 11,
+            "label": "attaque est-indienne",
+            "prompt": "rnbqkbnr/ppp1pppp/8/3p4/8/5NP1/PPPPPP1P/RNBQKB1R b KQkq - 0 2",
+            "tips": "ECO: A07\u2013A08, eval: +18, PGN: 1. Nf3 d5 2. g3"
+        },
+        {
+            "answer": "d\u00e9but R\u00e9ti",
+            "id": 12,
+            "label": "d\u00e9but R\u00e9ti",
+            "prompt": "rnbqkbnr/ppp1pppp/8/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 0 2",
+            "tips": "ECO: A04\u2013A09, eval: +4, PGN: 1. Nf3 d5 2. c4"
+        }
+    ],
+    "settings": {},
+    "size": 13,
+    "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+    "title": "Ouvertures"
+}

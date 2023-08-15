@@ -1,0 +1,117 @@
+{
+    "category": "Ouvertures B (profondeur 2)",
+    "id": 68,
+    "input": "text",
+    "prompt": "chess-position",
+    "questions": [
+        {
+            "answer": "Sicilienne classique",
+            "id": 0,
+            "label": "Sicilienne classique",
+            "prompt": "r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6",
+            "tips": "ECO: B57\u2013B69, eval: +32, PGN: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6"
+        },
+        {
+            "answer": "Pirc tch\u00e8que",
+            "id": 1,
+            "label": "Pirc tch\u00e8que",
+            "prompt": "rnbqkb1r/pp2pppp/2pp1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4",
+            "tips": "ECO: B07, eval: +83, PGN: 1. e4 d6 2. d4 Nf6 3. Nc3 c6"
+        },
+        {
+            "answer": "variante Najdorf de la d\u00e9fense sicilienne",
+            "id": 2,
+            "label": "variante Najdorf de la d\u00e9fense sicilienne",
+            "prompt": "rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6",
+            "tips": "ECO: B90\u2013B99, eval: +38, PGN: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6"
+        },
+        {
+            "answer": "variante Katalymov",
+            "id": 3,
+            "label": "variante Katalymov",
+            "prompt": "rnbqkbnr/p2ppppp/1p6/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3",
+            "tips": "ECO: B27, eval: +74, PGN: 1. e4 c5 2. Nf3 b6"
+        },
+        {
+            "answer": "Sicilienne Sveshnikov",
+            "id": 4,
+            "label": "Sicilienne Sveshnikov",
+            "prompt": "r1bqkb1r/pp1p1ppp/2n2n2/4p3/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6",
+            "tips": "ECO: B33, eval: +43, PGN: 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5"
+        },
+        {
+            "answer": "gambit Morra",
+            "id": 5,
+            "label": "gambit Morra",
+            "prompt": "rnbqkbnr/pp1ppppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3",
+            "tips": "ECO: B20,B21, eval: -35, PGN: 1. e4 c5 2. d4 cxd4 3. c3"
+        },
+        {
+            "answer": "Gambit de l'aile",
+            "id": 6,
+            "label": "Gambit de l'aile",
+            "prompt": "rnbqkbnr/pp1ppppp/8/2p5/1P2P3/8/P1PP1PPP/RNBQKBNR b KQkq - 0 2",
+            "tips": "ECO: B20, eval: -48, PGN: 1. e4 c5 2. b4"
+        },
+        {
+            "answer": "Sicilienne Alapine",
+            "id": 7,
+            "label": "Sicilienne Alapine",
+            "prompt": "rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2",
+            "tips": "ECO: B22, eval: +24, PGN: 1. e4 c5 2. c3"
+        },
+        {
+            "answer": "Attaque Panov",
+            "id": 8,
+            "label": "Attaque Panov",
+            "prompt": "rnbqkbnr/pp2pppp/8/3p4/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 0 4",
+            "tips": "ECO: B13\u2013B14, eval: +14, PGN: 1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4"
+        },
+        {
+            "answer": "Sicilienne Ta\u00efmanov",
+            "id": 9,
+            "label": "Sicilienne Ta\u00efmanov",
+            "prompt": "r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5",
+            "tips": "ECO: B44,B46-B49, eval: +52, PGN: 1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6"
+        },
+        {
+            "answer": "Sicilienne dragon acc\u00e9l\u00e9r\u00e9",
+            "id": 10,
+            "label": "Sicilienne dragon acc\u00e9l\u00e9r\u00e9",
+            "prompt": "r1bqkbnr/pp1ppp1p/2n3p1/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5",
+            "tips": "ECO: B34\u2013B39, eval: +32, PGN: 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6"
+        },
+        {
+            "answer": "variante du Nord",
+            "id": 11,
+            "label": "variante du Nord",
+            "prompt": "rnbqkb1r/pppppp1p/6p1/4P2n/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4",
+            "tips": "ECO: B06, eval: +109, PGN: 1. e4 g6 2. d4 Nf6 3. e5 Nh5"
+        },
+        {
+            "answer": "attaque autrichienne",
+            "id": 12,
+            "label": "attaque autrichienne",
+            "prompt": "rnbqk2r/ppp1ppbp/3p1np1/8/3PPP2/2N5/PPP3PP/R1BQKBNR w KQkq - 1 5",
+            "tips": "ECO: B09, eval: +53, PGN: 1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7"
+        },
+        {
+            "answer": "variante de Scheveningue de la d\u00e9fense sicilienne",
+            "id": 13,
+            "label": "variante de Scheveningue de la d\u00e9fense sicilienne",
+            "prompt": "rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6",
+            "tips": "ECO: B80\u2013B89, eval: +69, PGN: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6"
+        },
+        {
+            "answer": "variante du dragon",
+            "id": 14,
+            "label": "variante du dragon",
+            "prompt": "rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6",
+            "tips": "ECO: B70\u2013B79, eval: +72, PGN: 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6"
+        }
+    ],
+    "settings": {},
+    "size": 15,
+    "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+    "title": "Ouvertures"
+}

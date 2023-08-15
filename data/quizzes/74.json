@@ -1,0 +1,103 @@
+{
+    "category": "Ouvertures C (profondeur 5)",
+    "id": 74,
+    "input": "text",
+    "prompt": "chess-position",
+    "questions": [
+        {
+            "answer": "gambit Halloween",
+            "id": 0,
+            "label": "gambit Halloween",
+            "prompt": "r1bqkb1r/pppp1ppp/2n2n2/4N3/4P3/2N5/PPPP1PPP/R1BQKB1R b KQkq - 0 4",
+            "tips": "ECO: C47, eval: -151, PGN: 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Nxe5"
+        },
+        {
+            "answer": "attaque Max Lange",
+            "id": 1,
+            "label": "attaque Max Lange",
+            "prompt": "r1bqk2r/pppp1ppp/2n2n2/2b1P3/2Bp4/5N2/PPP2PPP/RNBQ1RK1 b kq - 0 6",
+            "tips": "ECO: C55, eval: +14, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5"
+        },
+        {
+            "answer": "Espagnole ferm\u00e9e",
+            "id": 2,
+            "label": "Espagnole ferm\u00e9e",
+            "prompt": "r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 4 6",
+            "tips": "ECO: C77, eval: +38, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7"
+        },
+        {
+            "answer": "Contre-attaque Traxler",
+            "id": 3,
+            "label": "Contre-attaque Traxler",
+            "prompt": "r1bqk2r/pppp1ppp/2n2n2/2b1p1N1/2B1P3/8/PPPP1PPP/RNBQK2R w KQkq - 6 5",
+            "tips": "ECO: C57, eval: +94, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5"
+        },
+        {
+            "answer": "D\u00e9fense classique berlinoise",
+            "id": 4,
+            "label": "D\u00e9fense classique berlinoise",
+            "prompt": "r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 6 5",
+            "tips": "ECO: C65, eval: +60, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5"
+        },
+        {
+            "answer": "Giuoco pianissimo",
+            "id": 5,
+            "label": "Giuoco pianissimo",
+            "prompt": "r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 4",
+            "tips": "ECO: C50\u2013C54, eval: +14, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3"
+        },
+        {
+            "answer": "Espagnole ouverte",
+            "id": 6,
+            "label": "Espagnole ouverte",
+            "prompt": "r1bqkb1r/1ppp1ppp/p1n5/4p3/B3n3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 6",
+            "tips": "ECO: C80\u2013C83, eval: +43, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4"
+        },
+        {
+            "answer": "partie prussienne",
+            "id": 7,
+            "label": "partie prussienne",
+            "prompt": "r1bqkb1r/ppp2ppp/2n2n2/3Pp1N1/2B5/8/PPPP1PPP/RNBQK2R b KQkq - 0 5",
+            "tips": "ECO: C57\u2013C59, eval: -6, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5"
+        },
+        {
+            "answer": "Variante d'\u00e9change de la partie espagnole",
+            "id": 8,
+            "label": "Variante d'\u00e9change de la partie espagnole",
+            "prompt": "r1bqkbnr/1ppp1ppp/p1B5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4",
+            "tips": "ECO: C68\u2013C69, eval: +7, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6"
+        },
+        {
+            "answer": "Variante M\u00f6ller",
+            "id": 9,
+            "label": "Variante M\u00f6ller",
+            "prompt": "r1bqk2r/1ppp1ppp/p1n2n2/2b1p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 4 6",
+            "tips": "ECO: C78, eval: +47, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5"
+        },
+        {
+            "answer": "variante Steinitz diff\u00e9r\u00e9e",
+            "id": 10,
+            "label": "variante Steinitz diff\u00e9r\u00e9e",
+            "prompt": "r1bqkbnr/1pp2ppp/p1np4/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5",
+            "tips": "ECO: C71\u2013C76, eval: +47, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6"
+        },
+        {
+            "answer": "gambit Evans",
+            "id": 11,
+            "label": "gambit Evans",
+            "prompt": "r1bqk1nr/pppp1ppp/2n5/2b1p3/1PB1P3/5N2/P1PP1PPP/RNBQK2R b KQkq - 0 4",
+            "tips": "ECO: C51\u2013C52, eval: 0, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4"
+        },
+        {
+            "answer": "variante espagnole des quatre cavaliers",
+            "id": 12,
+            "label": "variante espagnole des quatre cavaliers",
+            "prompt": "r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4",
+            "tips": "ECO: C48\u2013C49, eval: +13, PGN: 1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5"
+        }
+    ],
+    "settings": {},
+    "size": 13,
+    "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+    "title": "Ouvertures"
+}

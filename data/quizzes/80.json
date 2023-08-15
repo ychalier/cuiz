@@ -1,0 +1,47 @@
+{
+    "category": "Ouvertures E (profondeur 1)",
+    "id": 80,
+    "input": "text",
+    "prompt": "chess-position",
+    "questions": [
+        {
+            "answer": "partie catalane",
+            "id": 0,
+            "label": "partie catalane",
+            "prompt": "rnbqkb1r/pppp1ppp/4pn2/8/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq - 0 3",
+            "tips": "ECO: E00\u2013E09, eval: +35, PGN: 1. d4 Nf6 2. c4 e6 3. g3"
+        },
+        {
+            "answer": "d\u00e9fense ouest-indienne",
+            "id": 1,
+            "label": "d\u00e9fense ouest-indienne",
+            "prompt": "rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4",
+            "tips": "ECO: E12\u2013E19, eval: +40, PGN: 1. d4 Nf6 2. c4 e6 3. Nf3 b6"
+        },
+        {
+            "answer": "D\u00e9fense D\u00f6ry",
+            "id": 2,
+            "label": "D\u00e9fense D\u00f6ry",
+            "prompt": "rnbqkb1r/pppp1ppp/4p3/8/2PPn3/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4",
+            "tips": "ECO: E10, eval: +52, PGN: 1. d4 Nf6 2. c4 e6 3. Nf3 Ne4"
+        },
+        {
+            "answer": "d\u00e9fense est-indienne",
+            "id": 3,
+            "label": "d\u00e9fense est-indienne",
+            "prompt": "rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3",
+            "tips": "ECO: E60\u2013E99, eval: +44, PGN: 1. d4 Nf6 2. c4 g6"
+        },
+        {
+            "answer": "D\u00e9fense nimzo-indienne",
+            "id": 4,
+            "label": "D\u00e9fense nimzo-indienne",
+            "prompt": "rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4",
+            "tips": "ECO: E20\u2013E59, eval: +21, PGN: 1. d4 Nf6 2. c4 e6 3. Nc3 Bb4"
+        }
+    ],
+    "settings": {},
+    "size": 5,
+    "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+    "title": "Ouvertures"
+}

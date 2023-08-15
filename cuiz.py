@@ -6,7 +6,7 @@ import slugify
 import subprocess
 import wikipedia
 import glob
-import imghostur
+# import imghostur
 import tqdm
 import time
 

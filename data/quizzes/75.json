@@ -1,0 +1,103 @@
+{
+    "category": "Ouvertures C (profondeur 6)",
+    "id": 75,
+    "input": "text",
+    "prompt": "chess-position",
+    "questions": [
+        {
+            "answer": "variante de Riga",
+            "id": 0,
+            "label": "variante de Riga",
+            "prompt": "r1bqkb1r/1ppp1ppp/p1n5/8/B2pn3/5N2/PPP2PPP/RNBQ1RK1 w kq - 0 7",
+            "tips": "ECO: C80\u2013C83, eval: +118, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 exd4"
+        },
+        {
+            "answer": "Attaque Fegatello",
+            "id": 1,
+            "label": "Attaque Fegatello",
+            "prompt": "r1bqkb1r/ppp2Npp/2n5/3np3/2B5/8/PPPP1PPP/RNBQK2R b KQkq - 0 6",
+            "tips": "ECO: C57, eval: +95, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd5 6. Nxf7"
+        },
+        {
+            "answer": "Gambit Marshall",
+            "id": 2,
+            "label": "Gambit Marshall",
+            "prompt": "r1bq1rk1/2p1bppp/p1n2n2/1p1pp3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 w - - 0 9",
+            "tips": "ECO: C89, eval: +40, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3 d5"
+        },
+        {
+            "answer": "Polerio Variation",
+            "id": 3,
+            "label": "Polerio Variation",
+            "prompt": "r1bqkb1r/p4ppp/2p2n2/n3p1N1/8/8/PPPPBPPP/RNBQK2R b KQkq - 1 8",
+            "tips": "ECO: C58\u2013C59, eval: -11, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8. Be2"
+        },
+        {
+            "answer": "attaque Lolli",
+            "id": 4,
+            "label": "attaque Lolli",
+            "prompt": "r1bqkb1r/ppp2ppp/2n5/3np1N1/2BP4/8/PPP2PPP/RNBQK2R b KQkq - 0 6",
+            "tips": "ECO: C57, eval: +84, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nxd5 6. d4"
+        },
+        {
+            "answer": "Variante Tchigorine",
+            "id": 5,
+            "label": "Variante Tchigorine",
+            "prompt": "r1bq1rk1/2p1bppp/p2p1n2/np2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1 w - - 1 10",
+            "tips": "ECO: C77, eval: +59, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 0-0 9. h3 Na5"
+        },
+        {
+            "answer": "gambit Ulvestad",
+            "id": 6,
+            "label": "gambit Ulvestad",
+            "prompt": "r1bqkb1r/p1p2ppp/2n2n2/1p1Pp1N1/2B5/8/PPPP1PPP/RNBQK2R w KQkq - 0 6",
+            "tips": "ECO: C57, eval: +81, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 b5"
+        },
+        {
+            "answer": "variante Fritz",
+            "id": 7,
+            "label": "variante Fritz",
+            "prompt": "r1bqkb1r/ppp2ppp/5n2/3Pp1N1/2Bn4/8/PPPP1PPP/RNBQK2R w KQkq - 1 6",
+            "tips": "ECO: C57, eval: +62, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4"
+        },
+        {
+            "answer": "Variante Breyer",
+            "id": 8,
+            "label": "Variante Breyer",
+            "prompt": "rnbq1rk1/2p1bppp/p2p1n2/1p2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1 w - - 1 10",
+            "tips": "ECO: C95, eval: +48, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 O-O 9. h3 Nb8"
+        },
+        {
+            "answer": "Variante Karpov",
+            "id": 9,
+            "label": "Variante Karpov",
+            "prompt": "r1bq1rk1/2pnbppp/p1np4/1p2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1 w - - 1 10",
+            "tips": "ECO: C77, eval: +63, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 0-0 9. h3 Nd7"
+        },
+        {
+            "answer": "Variante Smyslov",
+            "id": 10,
+            "label": "Variante Smyslov",
+            "prompt": "r1bq1rk1/2p1bpp1/p1np1n1p/1p2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1 w - - 0 10",
+            "tips": "ECO: C93, eval: +59, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 0-0 9. h3 h6"
+        },
+        {
+            "answer": "Variante Zaitsev",
+            "id": 11,
+            "label": "Variante Zaitsev",
+            "prompt": "r2q1rk1/1bp1bppp/p1np1n2/1p2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1 w - - 1 10",
+            "tips": "ECO: C77, eval: +44, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3 0-0 9. h3 Bb7"
+        },
+        {
+            "answer": "pi\u00e8ge de Tarrasch",
+            "id": 12,
+            "label": "pi\u00e8ge de Tarrasch",
+            "prompt": "r4rk1/2pqbppp/p1n1N3/1p1pP3/4n3/1BP5/PP3PPP/RNBQR1K1 b - - 0 12",
+            "tips": "ECO: C80\u2013C83, eval: +358, PGN: 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5 Be6 9. c3 Be7 10. Re1 O-O 11. Nd4 Qd7? 12. Nxe6"
+        }
+    ],
+    "settings": {},
+    "size": 13,
+    "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
+    "title": "Ouvertures"
+}

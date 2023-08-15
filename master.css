@@ -181,6 +181,39 @@
     transform: rotate(360deg);
 }
 
+.chess-board {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.chess-rank {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 100%;
+    height: 12.5%;
+}
+
+.chess-cell {
+    width: 12.5%;
+    height: 100%;
+    background: #e9edcc;
+}
+
+.chess-rank:nth-child(even) .chess-cell:nth-child(odd),
+.chess-rank:nth-child(odd) .chess-cell:nth-child(even)
+{
+    background: #779954;
+}
+
+.chess-piece {
+    width: 100%;
+    height: 100%;
+}
+
 /**********************************************************/
 /* QUIZ INPUT                                             */
 /**********************************************************/
