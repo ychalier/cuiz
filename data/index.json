@@ -21,25 +21,7 @@
         "D\u00e9partements fran\u00e7ais \u2013 Nord-Est",
         "D\u00e9partements fran\u00e7ais \u2013 Sud-Est",
         "D\u00e9partements fran\u00e7ais \u2013 Sud-Ouest",
-        "\u00c9tats des \u00c9tats-Unis \u2013 Totalit\u00e9",
-        "Ouvertures A (profondeur 0)",
-        "Ouvertures A (profondeur 1)",
-        "Ouvertures A (profondeur 2)",
-        "Ouvertures B (profondeur 0)",
-        "Ouvertures B (profondeur 1)",
-        "Ouvertures B (profondeur 2)",
-        "Ouvertures B (profondeur 3)",
-        "Ouvertures C (profondeur 1)",
-        "Ouvertures C (profondeur 2)",
-        "Ouvertures C (profondeur 3)",
-        "Ouvertures C (profondeur 4)",
-        "Ouvertures C (profondeur 5)",
-        "Ouvertures C (profondeur 6)",
-        "Ouvertures D (profondeur 0)",
-        "Ouvertures D (profondeur 1)",
-        "Ouvertures D (profondeur 2)",
-        "Ouvertures D (profondeur 3)",
-        "Ouvertures E (profondeur 1)"
+        "\u00c9tats des \u00c9tats-Unis \u2013 Totalit\u00e9"
     ],
     "quizzes": [
         {
@@ -47,7 +29,7 @@
             "dataset": "data/quizzes\\0.json",
             "id": 0,
             "size": 96,
-            "thumbnail": "https://i.imgur.com/q5u5dwt.jpeg",
+            "thumbnail": "assets/thumbnails/q5u5dwt.jpeg",
             "title": "Drapeaux"
         },
         {
@@ -55,7 +37,7 @@
             "dataset": "data/quizzes\\1.json",
             "id": 1,
             "size": 11,
-            "thumbnail": "https://i.imgur.com/SWXae1C.jpeg",
+            "thumbnail": "assets/thumbnails/SWXae1C.jpeg",
             "title": "Drapeaux"
         },
         {
@@ -63,7 +45,7 @@
             "dataset": "data/quizzes\\2.json",
             "id": 2,
             "size": 8,
-            "thumbnail": "https://i.imgur.com/vzwPEN7.jpeg",
+            "thumbnail": "assets/thumbnails/vzwPEN7.jpeg",
             "title": "Drapeaux"
         },
         {
@@ -71,7 +53,7 @@
             "dataset": "data/quizzes\\3.json",
             "id": 3,
             "size": 9,
-            "thumbnail": "https://i.imgur.com/onucsKs.jpeg",
+            "thumbnail": "assets/thumbnails/onucsKs.jpeg",
             "title": "Drapeaux"
         },
         {
@@ -79,7 +61,7 @@
             "dataset": "data/quizzes\\4.json",
             "id": 4,
             "size": 21,
-            "thumbnail": "https://i.imgur.com/owcSBzu.jpeg",
+            "thumbnail": "assets/thumbnails/owcSBzu.jpeg",
             "title": "Drapeaux"
         },
         {
@@ -87,7 +69,7 @@
             "dataset": "data/quizzes\\5.json",
             "id": 5,
             "size": 43,
-            "thumbnail": "https://i.imgur.com/W19bMa7.jpeg",
+            "thumbnail": "assets/thumbnails/W19bMa7.jpeg",
             "title": "Drapeaux"
         },
         {
@@ -95,7 +77,7 @@
             "dataset": "data/quizzes\\6.json",
             "id": 6,
             "size": 4,
-            "thumbnail": "https://i.imgur.com/aFycZW5.jpeg",
+            "thumbnail": "assets/thumbnails/aFycZW5.jpeg",
             "title": "Drapeaux"
         },
         {
@@ -103,7 +85,7 @@
             "dataset": "data/quizzes\\7.json",
             "id": 7,
             "size": 102,
-            "thumbnail": "https://i.imgur.com/dUb1iIH.jpeg",
+            "thumbnail": "assets/thumbnails/dUb1iIH.jpeg",
             "title": "Capitales"
         },
         {
@@ -111,7 +93,7 @@
             "dataset": "data/quizzes\\8.json",
             "id": 8,
             "size": 14,
-            "thumbnail": "https://i.imgur.com/agdUXxr.jpeg",
+            "thumbnail": "assets/thumbnails/agdUXxr.jpeg",
             "title": "Capitales"
         },
         {
@@ -119,7 +101,7 @@
             "dataset": "data/quizzes\\9.json",
             "id": 9,
             "size": 8,
-            "thumbnail": "https://i.imgur.com/rV3ANGQ.jpeg",
+            "thumbnail": "assets/thumbnails/rV3ANGQ.jpeg",
             "title": "Capitales"
         },
         {
@@ -127,7 +109,7 @@
             "dataset": "data/quizzes\\10.json",
             "id": 10,
             "size": 10,
-            "thumbnail": "https://i.imgur.com/zucb4dm.jpeg",
+            "thumbnail": "assets/thumbnails/zucb4dm.jpeg",
             "title": "Capitales"
         },
         {
@@ -135,7 +117,7 @@
             "dataset": "data/quizzes\\11.json",
             "id": 11,
             "size": 22,
-            "thumbnail": "https://i.imgur.com/d96PzZX.jpeg",
+            "thumbnail": "assets/thumbnails/d96PzZX.jpeg",
             "title": "Capitales"
         },
         {
@@ -143,7 +125,7 @@
             "dataset": "data/quizzes\\12.json",
             "id": 12,
             "size": 44,
-            "thumbnail": "https://i.imgur.com/zodteUL.jpeg",
+            "thumbnail": "assets/thumbnails/zodteUL.jpeg",
             "title": "Capitales"
         },
         {
@@ -151,7 +133,7 @@
             "dataset": "data/quizzes\\13.json",
             "id": 13,
             "size": 4,
-            "thumbnail": "https://i.imgur.com/qP02ShP.jpeg",
+            "thumbnail": "assets/thumbnails/qP02ShP.jpeg",
             "title": "Capitales"
         },
         {
@@ -159,7 +141,7 @@
             "dataset": "data/quizzes\\14.json",
             "id": 14,
             "size": 99,
-            "thumbnail": "https://i.imgur.com/teKnl9R.jpeg",
+            "thumbnail": "assets/thumbnails/teKnl9R.jpeg",
             "title": "Domaines Internet"
         },
         {
@@ -167,7 +149,7 @@
             "dataset": "data/quizzes\\15.json",
             "id": 15,
             "size": 11,
-            "thumbnail": "https://i.imgur.com/ntZ2sdn.jpeg",
+            "thumbnail": "assets/thumbnails/ntZ2sdn.jpeg",
             "title": "Domaines Internet"
         },
         {
@@ -175,7 +157,7 @@
             "dataset": "data/quizzes\\16.json",
             "id": 16,
             "size": 8,
-            "thumbnail": "https://i.imgur.com/2K121rO.jpeg",
+            "thumbnail": "assets/thumbnails/2K121rO.jpeg",
             "title": "Domaines Internet"
         },
         {
@@ -183,7 +165,7 @@
             "dataset": "data/quizzes\\17.json",
             "id": 17,
             "size": 9,
-            "thumbnail": "https://i.imgur.com/FrvU0ul.jpeg",
+            "thumbnail": "assets/thumbnails/FrvU0ul.jpeg",
             "title": "Domaines Internet"
         },
         {
@@ -191,7 +173,7 @@
             "dataset": "data/quizzes\\18.json",
             "id": 18,
             "size": 21,
-            "thumbnail": "https://i.imgur.com/h0a0LxY.jpeg",
+            "thumbnail": "assets/thumbnails/h0a0LxY.jpeg",
             "title": "Domaines Internet"
         },
         {
@@ -199,7 +181,7 @@
             "dataset": "data/quizzes\\19.json",
             "id": 19,
             "size": 46,
-            "thumbnail": "https://i.imgur.com/SYgwkjR.jpeg",
+            "thumbnail": "assets/thumbnails/SYgwkjR.jpeg",
             "title": "Domaines Internet"
         },
         {
@@ -207,7 +189,7 @@
             "dataset": "data/quizzes\\20.json",
             "id": 20,
             "size": 4,
-            "thumbnail": "https://i.imgur.com/YRkqGQ9.jpeg",
+            "thumbnail": "assets/thumbnails/YRkqGQ9.jpeg",
             "title": "Domaines Internet"
         },
         {
@@ -215,7 +197,7 @@
             "dataset": "data/quizzes\\21.json",
             "id": 21,
             "size": 96,
-            "thumbnail": "https://i.imgur.com/wtW0pZN.jpeg",
+            "thumbnail": "assets/thumbnails/wtW0pZN.jpeg",
             "title": "Carte"
         },
         {
@@ -223,7 +205,7 @@
             "dataset": "data/quizzes\\22.json",
             "id": 22,
             "size": 11,
-            "thumbnail": "https://i.imgur.com/cskU4Xr.jpeg",
+            "thumbnail": "assets/thumbnails/cskU4Xr.jpeg",
             "title": "Carte"
         },
         {
@@ -231,7 +213,7 @@
             "dataset": "data/quizzes\\23.json",
             "id": 23,
             "size": 8,
-            "thumbnail": "https://i.imgur.com/j1eP7xE.jpeg",
+            "thumbnail": "assets/thumbnails/j1eP7xE.jpeg",
             "title": "Carte"
         },
         {
@@ -239,7 +221,7 @@
             "dataset": "data/quizzes\\24.json",
             "id": 24,
             "size": 9,
-            "thumbnail": "https://i.imgur.com/9LiKPDu.jpeg",
+            "thumbnail": "assets/thumbnails/9LiKPDu.jpeg",
             "title": "Carte"
         },
         {
@@ -247,7 +229,7 @@
             "dataset": "data/quizzes\\25.json",
             "id": 25,
             "size": 21,
-            "thumbnail": "https://i.imgur.com/pgXdfuE.jpeg",
+            "thumbnail": "assets/thumbnails/pgXdfuE.jpeg",
             "title": "Carte"
         },
         {
@@ -255,7 +237,7 @@
             "dataset": "data/quizzes\\26.json",
             "id": 26,
             "size": 43,
-            "thumbnail": "https://i.imgur.com/QKtf10K.jpeg",
+            "thumbnail": "assets/thumbnails/QKtf10K.jpeg",
             "title": "Carte"
         },
         {
@@ -263,7 +245,7 @@
             "dataset": "data/quizzes\\27.json",
             "id": 27,
             "size": 4,
-            "thumbnail": "https://i.imgur.com/O8okbfS.jpeg",
+            "thumbnail": "assets/thumbnails/O8okbfS.jpeg",
             "title": "Carte"
         },
         {
@@ -271,7 +253,7 @@
             "dataset": "data/quizzes\\28.json",
             "id": 28,
             "size": 48,
-            "thumbnail": "https://i.imgur.com/3qMr1tO.jpeg",
+            "thumbnail": "assets/thumbnails/3qMr1tO.jpeg",
             "title": "Phrases"
         },
         {
@@ -279,7 +261,7 @@
             "dataset": "data/quizzes\\29.json",
             "id": 29,
             "size": 3,
-            "thumbnail": "https://i.imgur.com/sYqozGX.jpeg",
+            "thumbnail": "assets/thumbnails/sYqozGX.jpeg",
             "title": "Phrases"
         },
         {
@@ -287,7 +269,7 @@
             "dataset": "data/quizzes\\30.json",
             "id": 30,
             "size": 10,
-            "thumbnail": "https://i.imgur.com/28ZMcoP.jpeg",
+            "thumbnail": "assets/thumbnails/28ZMcoP.jpeg",
             "title": "Phrases"
         },
         {
@@ -295,7 +277,7 @@
             "dataset": "data/quizzes\\31.json",
             "id": 31,
             "size": 8,
-            "thumbnail": "https://i.imgur.com/19SwFOG.jpeg",
+            "thumbnail": "assets/thumbnails/19SwFOG.jpeg",
             "title": "Phrases"
         },
         {
@@ -303,7 +285,7 @@
             "dataset": "data/quizzes\\32.json",
             "id": 32,
             "size": 11,
-            "thumbnail": "https://i.imgur.com/nkB2uEI.jpeg",
+            "thumbnail": "assets/thumbnails/nkB2uEI.jpeg",
             "title": "Phrases"
         },
         {
@@ -311,7 +293,7 @@
             "dataset": "data/quizzes\\33.json",
             "id": 33,
             "size": 5,
-            "thumbnail": "https://i.imgur.com/WeEIRzY.jpeg",
+            "thumbnail": "assets/thumbnails/WeEIRzY.jpeg",
             "title": "Phrases"
         },
         {
@@ -319,7 +301,7 @@
             "dataset": "data/quizzes\\34.json",
             "id": 34,
             "size": 4,
-            "thumbnail": "https://i.imgur.com/vzoJKC0.jpeg",
+            "thumbnail": "assets/thumbnails/vzoJKC0.jpeg",
             "title": "Phrases"
         },
         {
@@ -327,7 +309,7 @@
             "dataset": "data/quizzes\\35.json",
             "id": 35,
             "size": 7,
-            "thumbnail": "https://i.imgur.com/uYCeDSD.jpeg",
+            "thumbnail": "assets/thumbnails/uYCeDSD.jpeg",
             "title": "Phrases"
         },
         {
@@ -335,7 +317,7 @@
             "dataset": "data/quizzes\\36.json",
             "id": 36,
             "size": 95,
-            "thumbnail": "https://i.imgur.com/mrQkTi7.jpeg",
+            "thumbnail": "assets/thumbnails/mrQkTi7.jpeg",
             "title": "Drapeaux"
         },
         {
@@ -343,7 +325,7 @@
             "dataset": "data/quizzes\\37.json",
             "id": 37,
             "size": 7,
-            "thumbnail": "https://i.imgur.com/sFGYVBw.jpeg",
+            "thumbnail": "assets/thumbnails/sFGYVBw.jpeg",
             "title": "Drapeaux"
         },
         {
@@ -351,7 +333,7 @@
             "dataset": "data/quizzes\\38.json",
             "id": 38,
             "size": 20,
-            "thumbnail": "https://i.imgur.com/FCryrBO.jpeg",
+            "thumbnail": "assets/thumbnails/FCryrBO.jpeg",
             "title": "Drapeaux"
         },
         {
@@ -359,7 +341,7 @@
             "dataset": "data/quizzes\\39.json",
             "id": 39,
             "size": 23,
-            "thumbnail": "https://i.imgur.com/9SIz8f7.jpeg",
+            "thumbnail": "assets/thumbnails/9SIz8f7.jpeg",
             "title": "Drapeaux"
         },
         {
@@ -367,7 +349,7 @@
             "dataset": "data/quizzes\\40.json",
             "id": 40,
             "size": 25,
-            "thumbnail": "https://i.imgur.com/3lWtVe7.jpeg",
+            "thumbnail": "assets/thumbnails/3lWtVe7.jpeg",
             "title": "Drapeaux"
         },
         {
@@ -375,7 +357,7 @@
             "dataset": "data/quizzes\\41.json",
             "id": 41,
             "size": 20,
-            "thumbnail": "https://i.imgur.com/CiDBBAE.jpeg",
+            "thumbnail": "assets/thumbnails/CiDBBAE.jpeg",
             "title": "Drapeaux"
         },
         {
@@ -383,7 +365,7 @@
             "dataset": "data/quizzes\\42.json",
             "id": 42,
             "size": 95,
-            "thumbnail": "https://i.imgur.com/ynpF6bL.jpeg",
+            "thumbnail": "assets/thumbnails/ynpF6bL.jpeg",
             "title": "Pr\u00e9fectures"
         },
         {
@@ -391,7 +373,7 @@
             "dataset": "data/quizzes\\43.json",
             "id": 43,
             "size": 7,
-            "thumbnail": "https://i.imgur.com/WeXrDQk.jpeg",
+            "thumbnail": "assets/thumbnails/WeXrDQk.jpeg",
             "title": "Pr\u00e9fectures"
         },
         {
@@ -399,7 +381,7 @@
             "dataset": "data/quizzes\\44.json",
             "id": 44,
             "size": 20,
-            "thumbnail": "https://i.imgur.com/QSSPvoz.jpeg",
+            "thumbnail": "assets/thumbnails/QSSPvoz.jpeg",
             "title": "Pr\u00e9fectures"
         },
         {
@@ -407,7 +389,7 @@
             "dataset": "data/quizzes\\45.json",
             "id": 45,
             "size": 23,
-            "thumbnail": "https://i.imgur.com/ctesMUi.jpeg",
+            "thumbnail": "assets/thumbnails/ctesMUi.jpeg",
             "title": "Pr\u00e9fectures"
         },
         {
@@ -415,7 +397,7 @@
             "dataset": "data/quizzes\\46.json",
             "id": 46,
             "size": 25,
-            "thumbnail": "https://i.imgur.com/LzDHCyn.jpeg",
+            "thumbnail": "assets/thumbnails/LzDHCyn.jpeg",
             "title": "Pr\u00e9fectures"
         },
         {
@@ -423,7 +405,7 @@
             "dataset": "data/quizzes\\47.json",
             "id": 47,
             "size": 20,
-            "thumbnail": "https://i.imgur.com/hX9Dbcs.jpeg",
+            "thumbnail": "assets/thumbnails/hX9Dbcs.jpeg",
             "title": "Pr\u00e9fectures"
         },
         {
@@ -431,7 +413,7 @@
             "dataset": "data/quizzes\\48.json",
             "id": 48,
             "size": 95,
-            "thumbnail": "https://i.imgur.com/EnwcaVK.jpeg",
+            "thumbnail": "assets/thumbnails/EnwcaVK.jpeg",
             "title": "Codes"
         },
         {
@@ -439,7 +421,7 @@
             "dataset": "data/quizzes\\49.json",
             "id": 49,
             "size": 7,
-            "thumbnail": "https://i.imgur.com/X1ij9b3.jpeg",
+            "thumbnail": "assets/thumbnails/X1ij9b3.jpeg",
             "title": "Codes"
         },
         {
@@ -447,7 +429,7 @@
             "dataset": "data/quizzes\\50.json",
             "id": 50,
             "size": 20,
-            "thumbnail": "https://i.imgur.com/dhdm9n1.jpeg",
+            "thumbnail": "assets/thumbnails/dhdm9n1.jpeg",
             "title": "Codes"
         },
         {
@@ -455,7 +437,7 @@
             "dataset": "data/quizzes\\51.json",
             "id": 51,
             "size": 23,
-            "thumbnail": "https://i.imgur.com/e4s0I7Q.jpeg",
+            "thumbnail": "assets/thumbnails/e4s0I7Q.jpeg",
             "title": "Codes"
         },
         {
@@ -463,7 +445,7 @@
             "dataset": "data/quizzes\\52.json",
             "id": 52,
             "size": 25,
-            "thumbnail": "https://i.imgur.com/8Cs6DKs.jpeg",
+            "thumbnail": "assets/thumbnails/8Cs6DKs.jpeg",
             "title": "Codes"
         },
         {
@@ -471,7 +453,7 @@
             "dataset": "data/quizzes\\53.json",
             "id": 53,
             "size": 20,
-            "thumbnail": "https://i.imgur.com/mJFmNkX.jpeg",
+            "thumbnail": "assets/thumbnails/mJFmNkX.jpeg",
             "title": "Codes"
         },
         {
@@ -479,7 +461,7 @@
             "dataset": "data/quizzes\\54.json",
             "id": 54,
             "size": 95,
-            "thumbnail": "https://i.imgur.com/8rnQ3yy.jpeg",
+            "thumbnail": "assets/thumbnails/8rnQ3yy.jpeg",
             "title": "Carte"
         },
         {
@@ -487,7 +469,7 @@
             "dataset": "data/quizzes\\55.json",
             "id": 55,
             "size": 7,
-            "thumbnail": "https://i.imgur.com/d7aVftH.jpeg",
+            "thumbnail": "assets/thumbnails/d7aVftH.jpeg",
             "title": "Carte"
         },
         {
@@ -495,7 +477,7 @@
             "dataset": "data/quizzes\\56.json",
             "id": 56,
             "size": 20,
-            "thumbnail": "https://i.imgur.com/JLQ5k9B.jpeg",
+            "thumbnail": "assets/thumbnails/JLQ5k9B.jpeg",
             "title": "Carte"
         },
         {
@@ -503,7 +485,7 @@
             "dataset": "data/quizzes\\57.json",
             "id": 57,
             "size": 23,
-            "thumbnail": "https://i.imgur.com/i7OJz27.jpeg",
+            "thumbnail": "assets/thumbnails/i7OJz27.jpeg",
             "title": "Carte"
         },
         {
@@ -511,7 +493,7 @@
             "dataset": "data/quizzes\\58.json",
             "id": 58,
             "size": 25,
-            "thumbnail": "https://i.imgur.com/4o9Tvre.jpeg",
+            "thumbnail": "assets/thumbnails/4o9Tvre.jpeg",
             "title": "Carte"
         },
         {
@@ -519,7 +501,7 @@
             "dataset": "data/quizzes\\59.json",
             "id": 59,
             "size": 20,
-            "thumbnail": "https://i.imgur.com/ybGj96z.jpeg",
+            "thumbnail": "assets/thumbnails/ybGj96z.jpeg",
             "title": "Carte"
         },
         {
@@ -527,7 +509,7 @@
             "dataset": "data/quizzes\\60.json",
             "id": 60,
             "size": 50,
-            "thumbnail": "https://i.imgur.com/rzQkbxK.jpeg",
+            "thumbnail": "assets/thumbnails/rzQkbxK.jpeg",
             "title": "Drapeaux"
         },
         {
@@ -535,7 +517,7 @@
             "dataset": "data/quizzes\\61.json",
             "id": 61,
             "size": 50,
-            "thumbnail": "https://i.imgur.com/phW1cWJ.jpeg",
+            "thumbnail": "assets/thumbnails/phW1cWJ.jpeg",
             "title": "Capitales"
         },
         {
@@ -543,152 +525,8 @@
             "dataset": "data/quizzes\\62.json",
             "id": 62,
             "size": 50,
-            "thumbnail": "https://i.imgur.com/MK2wdQf.jpeg",
+            "thumbnail": "assets/thumbnails/MK2wdQf.jpeg",
             "title": "Carte"
-        },
-        {
-            "category": "Ouvertures A (profondeur 0)",
-            "dataset": "data/quizzes\\63.json",
-            "id": 63,
-            "size": 19,
-            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
-            "title": "Ouvertures"
-        },
-        {
-            "category": "Ouvertures A (profondeur 1)",
-            "dataset": "data/quizzes\\64.json",
-            "id": 64,
-            "size": 13,
-            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
-            "title": "Ouvertures"
-        },
-        {
-            "category": "Ouvertures A (profondeur 2)",
-            "dataset": "data/quizzes\\65.json",
-            "id": 65,
-            "size": 4,
-            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
-            "title": "Ouvertures"
-        },
-        {
-            "category": "Ouvertures B (profondeur 0)",
-            "dataset": "data/quizzes\\66.json",
-            "id": 66,
-            "size": 1,
-            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
-            "title": "Ouvertures"
-        },
-        {
-            "category": "Ouvertures B (profondeur 1)",
-            "dataset": "data/quizzes\\67.json",
-            "id": 67,
-            "size": 12,
-            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
-            "title": "Ouvertures"
-        },
-        {
-            "category": "Ouvertures B (profondeur 2)",
-            "dataset": "data/quizzes\\68.json",
-            "id": 68,
-            "size": 15,
-            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
-            "title": "Ouvertures"
-        },
-        {
-            "category": "Ouvertures B (profondeur 3)",
-            "dataset": "data/quizzes\\69.json",
-            "id": 69,
-            "size": 7,
-            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
-            "title": "Ouvertures"
-        },
-        {
-            "category": "Ouvertures C (profondeur 1)",
-            "dataset": "data/quizzes\\70.json",
-            "id": 70,
-            "size": 3,
-            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
-            "title": "Ouvertures"
-        },
-        {
-            "category": "Ouvertures C (profondeur 2)",
-            "dataset": "data/quizzes\\71.json",
-            "id": 71,
-            "size": 27,
-            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
-            "title": "Ouvertures"
-        },
-        {
-            "category": "Ouvertures C (profondeur 3)",
-            "dataset": "data/quizzes\\72.json",
-            "id": 72,
-            "size": 22,
-            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
-            "title": "Ouvertures"
-        },
-        {
-            "category": "Ouvertures C (profondeur 4)",
-            "dataset": "data/quizzes\\73.json",
-            "id": 73,
-            "size": 17,
-            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
-            "title": "Ouvertures"
-        },
-        {
-            "category": "Ouvertures C (profondeur 5)",
-            "dataset": "data/quizzes\\74.json",
-            "id": 74,
-            "size": 13,
-            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
-            "title": "Ouvertures"
-        },
-        {
-            "category": "Ouvertures C (profondeur 6)",
-            "dataset": "data/quizzes\\75.json",
-            "id": 75,
-            "size": 13,
-            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
-            "title": "Ouvertures"
-        },
-        {
-            "category": "Ouvertures D (profondeur 0)",
-            "dataset": "data/quizzes\\76.json",
-            "id": 76,
-            "size": 1,
-            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
-            "title": "Ouvertures"
-        },
-        {
-            "category": "Ouvertures D (profondeur 1)",
-            "dataset": "data/quizzes\\77.json",
-            "id": 77,
-            "size": 8,
-            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
-            "title": "Ouvertures"
-        },
-        {
-            "category": "Ouvertures D (profondeur 2)",
-            "dataset": "data/quizzes\\78.json",
-            "id": 78,
-            "size": 11,
-            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
-            "title": "Ouvertures"
-        },
-        {
-            "category": "Ouvertures D (profondeur 3)",
-            "dataset": "data/quizzes\\79.json",
-            "id": 79,
-            "size": 13,
-            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
-            "title": "Ouvertures"
-        },
-        {
-            "category": "Ouvertures E (profondeur 1)",
-            "dataset": "data/quizzes\\80.json",
-            "id": 80,
-            "size": 5,
-            "thumbnail": "https://i.imgur.com/E8rFFTx.jpg",
-            "title": "Ouvertures"
         }
     ]
 }

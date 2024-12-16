@@ -2,7 +2,7 @@
 
 Quizs en ligne, outils de mémorisation et classement en contre-la-montre.
 
-:arrow_right: <https://ychalier.github.io/cuiz/>
+:arrow_right: <https://chalier.fr/cuiz/>
 
 ## Quiz personnalisé
 
